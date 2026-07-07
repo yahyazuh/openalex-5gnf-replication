@@ -12,6 +12,7 @@ This repository does not include the full `openalex_works_100k.jsonl` file used 
 - A small 1,000-record OpenAlex sample for inspection and testing
 - Cypher files for Neo4j constraints, indexes, and benchmark queries
 - Paper tables and recorded experimental results
+- Raw and summary timing results from the indexed benchmark
 - Scripts used to prepare and evaluate the 5GNF and inline baseline representations
 
 Therefore, this repository supports reproducibility and inspection, but it is not a complete data dump of the full experiment.
