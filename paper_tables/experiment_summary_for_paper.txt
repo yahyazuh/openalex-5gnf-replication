@@ -1,0 +1,23 @@
+IEEE Access 12 / 5GNF OpenAlex Experiment Summary
+
+Dataset:
+- Raw OpenAlex records: 100,000
+- Unique Work nodes after deduplication: 98,783
+- Duplicate Work rows collapsed: 1,217
+
+5GNF Graph Size:
+- Total nodes: 139,930
+- Total relationships: 2,095,128
+- Reusable metadata nodes: 57
+- Work-to-metadata relationships: 442,537
+
+Metadata Reuse:
+- Repeated inline metadata assignments represented: 442,537
+- Repeated metadata values removed/collapsed: 442,480
+- Metadata compression ratio: 7,763.81x
+
+Query Performance:
+- Metadata-filtering queries tested: 5
+- Overall average query time: 49.268 ms
+- Best average query time: 31.568 ms
+- Worst average query time: 64.861 ms

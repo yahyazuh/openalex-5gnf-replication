@@ -1,0 +1,2 @@
+raw_records,unique_work_nodes,duplicate_work_rows,total_nodes,total_relationships,metadata_nodes,metadata_edges,removed_repeated_metadata_values,metadata_compression_ratio,queries_tested,overall_avg_query_ms,best_avg_query_ms,worst_avg_query_ms
+100000,98783,1217,139930,2095128,57,442537,442480,7763.81,5,49.268,31.568,64.861

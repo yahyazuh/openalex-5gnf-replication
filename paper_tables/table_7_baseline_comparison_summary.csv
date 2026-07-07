@@ -1,0 +1,2 @@
+queries_compared,mean_5gnf_avg_ms,mean_inline_avg_ms,mean_speedup_inline_over_5gnf,min_speedup,max_speedup
+5,49.268,111.677,2.27,1.46,3.48

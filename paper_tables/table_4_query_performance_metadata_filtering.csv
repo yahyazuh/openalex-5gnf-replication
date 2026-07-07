@@ -1,0 +1,6 @@
+query,result_count,runs,avg_ms,min_ms,max_ms
+language_en,98110,10,64.861,59.693,72.689
+is_oa_true,70079,10,52.637,48.092,56.74
+work_type_article,93792,10,63.132,59.237,71.952
+oa_status_gold,26269,10,31.568,26.785,51.429
+license_cc_by,34379,10,34.144,29.162,37.621

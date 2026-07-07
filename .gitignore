@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Neo4j local/import/generated files
+neo4j_csv/
+*.dump
+*.db
+
+# Large raw data
+openalex_works_100k.jsonl
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Local result archives
+*.zip

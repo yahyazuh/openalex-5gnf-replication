@@ -1,0 +1,109 @@
+\begin{table}[!t]
+\caption{Final OpenAlex 5GNF Experiment Summary}
+\label{tab:final_experiment_summary}
+\centering
+\begin{tabular}{lr}
+\hline
+Metric & Value \\
+\hline
+Raw OpenAlex records & 100,000 \\
+Unique Work nodes & 98,783 \\
+Duplicate Work rows collapsed & 1,217 \\
+Total nodes & 139,930 \\
+Total relationships & 2,095,128 \\
+Reusable metadata nodes & 57 \\
+Work-to-metadata relationships & 442,537 \\
+Collapsed repeated metadata values & 442,480 \\
+Metadata reuse compression ratio & 7,763.81$\times$ \\
+Overall average query time & 49.268 ms \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\caption{5GNF Graph Size After Import}
+\label{tab:graph_size_summary}
+\centering
+\begin{tabular}{lr}
+\hline
+Graph element & Count \\
+\hline
+Work nodes & 98,783 \\
+Concept nodes & 32,245 \\
+Source nodes & 8,845 \\
+MetadataValue nodes & 57 \\
+Total nodes & 139,930 \\
+Total relationships & 2,095,128 \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\caption{Metadata Reuse by Category}
+\label{tab:metadata_category_reuse}
+\centering
+\begin{tabular}{lrrrr}
+\hline
+Category & Values & Reuse edges & Mean reuse & Max reuse \\
+\hline
+is\_oa & 2 & 98,783 & 49,391.50 & 70,079 \\
+work\_type & 14 & 98,783 & 7,055.93 & 93,792 \\
+oa\_status & 6 & 98,783 & 16,463.83 & 28,704 \\
+language & 26 & 98,697 & 3,796.04 & 98,110 \\
+license & 9 & 47,491 & 5,276.78 & 34,379 \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\caption{Metadata Filtering Query Performance}
+\label{tab:query_performance_metadata}
+\centering
+\begin{tabular}{lrrrr}
+\hline
+Query & Result count & Runs & Avg. ms & Max ms \\
+\hline
+language=en & 98,110 & 10 & 64.861 & 72.689 \\
+is\_oa=True & 70,079 & 10 & 52.637 & 56.740 \\
+work\_type=article & 93,792 & 10 & 63.132 & 71.952 \\
+oa\_status=gold & 26,269 & 10 & 31.568 & 51.429 \\
+license=cc-by & 34,379 & 10 & 34.144 & 37.621 \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\caption{Schema-Evolution Update Reduction in 5GNF}
+\label{tab:schema_evolution_update_benefit}
+\centering
+\begin{tabular}{llrrr}
+\hline
+Category & Value & Inline updates & 5GNF updates & Reduction \\
+\hline
+language & en & 98,110 & 1 & 98,110$\times$ \\
+work\_type & article & 93,792 & 1 & 93,792$\times$ \\
+is\_oa & True & 70,079 & 1 & 70,079$\times$ \\
+license & cc-by & 34,379 & 1 & 34,379$\times$ \\
+oa\_status & gold & 26,269 & 1 & 26,269$\times$ \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\caption{5GNF Query Performance Compared With Inline-Property Baseline}
+\label{tab:query_performance_5gnf_vs_inline}
+\centering
+\begin{tabular}{lrrrr}
+\hline
+Query & Result count & 5GNF avg. ms & Inline avg. ms & Speedup \\
+\hline
+language=en & 98,110 & 64.861 & 108.352 & 1.67$\times$ \\
+is\_oa=True & 70,079 & 52.637 & 143.606 & 2.73$\times$ \\
+work\_type=article & 93,792 & 63.132 & 92.291 & 1.46$\times$ \\
+oa\_status=gold & 26,269 & 31.568 & 95.150 & 3.01$\times$ \\
+license=cc-by & 34,379 & 34.144 & 118.984 & 3.48$\times$ \\
+\hline
+Mean & -- & 49.268 & 111.677 & 2.27$\times$ \\
+\hline
+\end{tabular}
+\end{table}

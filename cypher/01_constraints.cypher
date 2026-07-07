@@ -1,0 +1,15 @@
+CREATE CONSTRAINT work_id IF NOT EXISTS
+FOR (w:Work)
+REQUIRE w.id IS UNIQUE;
+
+CREATE CONSTRAINT concept_id IF NOT EXISTS
+FOR (c:Concept)
+REQUIRE c.id IS UNIQUE;
+
+CREATE CONSTRAINT source_id IF NOT EXISTS
+FOR (s:Source)
+REQUIRE s.id IS UNIQUE;
+
+CREATE CONSTRAINT metadata_value_key IF NOT EXISTS
+FOR (m:MetadataValue)
+REQUIRE (m.category, m.value) IS UNIQUE;

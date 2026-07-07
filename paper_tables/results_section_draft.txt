@@ -1,0 +1,45 @@
+VII. RESULTS
+
+A. Dataset Import and Graph Construction
+
+The experimental dataset contained 100,000 OpenAlex work records. During import, 1,217 duplicate work rows were identified and collapsed according to the OpenAlex work identifier, resulting in 98,783 unique Work nodes. This deduplication step was necessary to preserve entity-level uniqueness and avoid inflating graph-level metrics.
+
+The resulting 5GNF-oriented property graph contained 139,930 nodes and 2,095,128 relationships. The graph included 98,783 Work nodes, 32,245 Concept nodes, 8,845 Source nodes, and 57 reusable MetadataValue nodes. The relationship set consisted of 1,557,271 HAS_CONCEPT relationships, 442,537 HAS_METADATA_VALUE relationships, and 95,320 PUBLISHED_IN relationships.
+
+These results show that the proposed 5GNF design can be applied to a large bibliographic property graph while preserving explicit connections between works, concepts, publication sources, and reusable metadata values.
+
+B. Metadata Reuse and Redundancy Reduction
+
+The main objective of the experiment was to evaluate whether repeated metadata values can be externalized into reusable metadata nodes. The results show that 442,537 repeated metadata assignments were represented by only 57 reusable MetadataValue nodes. This corresponds to 442,480 repeated metadata values being collapsed into shared metadata nodes, with a metadata reuse compression ratio of 7,763.81x.
+
+The strongest reuse appeared in highly repeated metadata categories. For example, the value language=en was reused by 98,110 works, work_type=article by 93,792 works, is_oa=True by 70,079 works, oa_status=gold by 26,269 works, and license=cc-by by 34,379 works. These results support the central assumption of 5GNF: some metadata values are not merely local properties but reusable schema-level descriptors that benefit from explicit representation.
+
+At the category level, is_oa used only two reusable values to cover 98,783 metadata assignments, while work_type used 14 reusable values to cover 98,783 assignments. Similarly, oa_status used six values to cover 98,783 assignments, language used 26 values to cover 98,697 assignments, and license used nine values to cover 47,491 assignments. This indicates that the metadata layer is compact but highly connected.
+
+C. Metadata Coverage per Work
+
+The coverage analysis showed that each Work node was connected to several reusable metadata values. Specifically, 38 works had three metadata links, 51,302 works had four metadata links, and 47,443 works had five metadata links. The average number of reusable metadata links per Work node was 4.48.
+
+This result is important because it shows that metadata externalization did not create isolated or rarely used metadata nodes. Instead, the metadata layer formed a dense reuse structure in which a small number of reusable metadata values described a large number of works.
+
+D. Query Performance Against an Inline-Property Baseline
+
+To evaluate query behavior, five metadata-filtering queries were executed over both the 5GNF representation and an inline-property baseline. In the inline baseline, the same metadata values were copied as properties of Work nodes, including inline_language, inline_is_oa, inline_work_type, inline_oa_status, and inline_license. Each query was executed ten times.
+
+The 5GNF representation achieved an overall average query time of 49.268 ms, while the inline-property baseline achieved an overall average query time of 111.677 ms. Across the five tested queries, the observed speedup of 5GNF over the inline baseline ranged from 1.46x to 3.48x, with a mean speedup of 2.27x.
+
+For language=en, the 5GNF query returned 98,110 works with an average time of 64.861 ms, compared with 108.352 ms for the inline baseline. For is_oa=True, 5GNF achieved 52.637 ms compared with 143.606 ms for the inline baseline. For work_type=article, 5GNF achieved 63.132 ms compared with 92.291 ms. For oa_status=gold, 5GNF achieved 31.568 ms compared with 95.150 ms. For license=cc-by, 5GNF achieved 34.144 ms compared with 118.984 ms.
+
+These results show that, for this OpenAlex workload and Neo4j configuration, traversing from reusable metadata nodes to Work nodes was faster than filtering Work nodes by repeated inline properties. The result should not be interpreted as a universal claim that 5GNF is always faster. Rather, it provides empirical evidence that 5GNF can improve metadata-filtering performance when metadata values are highly reused and selectively queried.
+
+E. Schema Evolution and Update Effort
+
+The experiment also evaluated the update-effort implication of reusable metadata nodes. In an inline-property design, changing the representation or annotation of a frequently reused metadata value requires updating all Work records containing that value. In the 5GNF design, the same change can be performed by updating one reusable metadata node.
+
+For example, updating language=en would require 98,110 inline updates, while the 5GNF representation requires one metadata-node update. Similarly, work_type=article would require 93,792 inline updates, is_oa=True would require 70,079 inline updates, license=cc-by would require 34,379 inline updates, and oa_status=gold would require 26,269 inline updates. These results demonstrate the practical schema-evolution advantage of externalizing high-reuse metadata values.
+
+F. Summary of Findings
+
+The experiment provides four main findings. First, the proposed 5GNF representation scaled to 100,000 raw OpenAlex records and produced a graph with more than two million relationships. Second, only 57 reusable metadata nodes represented 442,537 metadata assignments, producing a metadata reuse compression ratio of 7,763.81x. Third, metadata filtering queries over the normalized metadata layer executed with an overall average time of 49.268 ms across the tested queries. Fourth, schema-evolution effort was substantially reduced for high-reuse metadata values, since changes to values such as language=en or work_type=article can be localized to a single metadata node.
+
+Overall, the results support the claim that 5GNF is useful when metadata values are highly reused, semantically stable, and shared across many graph entities. The results do not imply that all metadata should be normalized. Instead, they support a selective 5GNF strategy in which only high-reuse and semantically meaningful metadata values are externalized.

@@ -1,0 +1,42 @@
+Reproducibility Note for IEEE Access 12 / 5GNF Experiment
+
+Experiment folder:
+C:\Users\yahya\openalex_5gnf
+
+Dataset:
+openalex_works_100k.jsonl
+
+Raw records:
+100,000 OpenAlex work records
+
+Deduplication:
+The CSV file contained 100,000 rows but 98,783 unique OpenAlex work identifiers. Therefore, 1,217 duplicate rows were collapsed during Neo4j import using MERGE on work_id. The final Work node count is 98,783.
+
+Neo4j graph:
+Work nodes: 98,783
+MetadataValue nodes: 57
+Concept nodes: 32,245
+Source nodes: 8,845
+Total nodes: 139,930
+Total relationships: 2,095,128
+
+Relationship counts:
+HAS_METADATA_VALUE: 442,537
+HAS_CONCEPT: 1,557,271
+PUBLISHED_IN: 95,320
+
+Main 5GNF result:
+442,537 repeated metadata assignments were represented by 57 reusable MetadataValue nodes.
+The metadata reuse compression ratio is 7,763.81x.
+
+Query-performance note:
+Five metadata-filtering queries were executed ten times each.
+Overall average query time: 49.268 ms.
+These measurements describe the 5GNF implementation only. They should not be presented as proof that 5GNF is faster than inline properties unless a baseline comparison is added.
+
+Paper claim boundary:
+Safe claim:
+5GNF reduces metadata repetition and centralizes update effort for highly reused metadata values.
+
+Unsafe claim without extra baseline:
+5GNF is always faster than inline-property design.

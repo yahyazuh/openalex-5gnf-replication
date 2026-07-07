@@ -1,0 +1,6 @@
+base_query,result_count,avg_ms_5gnf,min_ms_5gnf,max_ms_5gnf,avg_ms_inline,min_ms_inline,max_ms_inline,speedup_inline_over_5gnf
+language_en,98110,64.861,59.693,72.689,108.352,100.539,121.895,1.67
+is_oa_true,70079,52.637,48.092,56.74,143.606,88.117,538.657,2.73
+work_type_article,93792,63.132,59.237,71.952,92.291,82.304,102.741,1.46
+oa_status_gold,26269,31.568,26.785,51.429,95.15,72.993,168.4,3.01
+license_cc_by,34379,34.144,29.162,37.621,118.984,100.194,148.818,3.48
