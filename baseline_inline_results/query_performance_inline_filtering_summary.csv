@@ -1,0 +1,6 @@
+query,result_count,runs,mean_ms,median_ms,sd_ms,ci95_ms,min_ms,max_ms
+language_en_inline,98110,10,154.277,138.22,49.705,30.808,115.328,279.041
+is_oa_true_inline,70079,10,94.3,94.069,6.986,4.33,83.612,105.72
+work_type_article_inline,93792,10,91.269,88.679,11.156,6.914,80.573,113.631
+oa_status_gold_inline,26269,10,79.832,77.264,9.894,6.132,68.788,99.48
+license_cc_by_inline,34379,10,106.662,98.055,16.309,10.108,93.756,140.089
