@@ -40,12 +40,13 @@ The experiment produced the following high-level results:
 - MetadataValue nodes: 57
 - HAS_METADATA_VALUE relationships: 442,537
 - Metadata reuse ratio: 7,763.81x
-- Mean 5GNF query time: 49.268 ms
-- Mean inline-property baseline query time: 111.677 ms
-- Mean observed speedup: 2.27x
+- The 5GNF representation improved mean query time for four of five metadata-filtering predicates.
+- The strongest mean-based improvements were observed for `license=cc-by` and `oa_status=gold`.
+- The `work_type=article` predicate did not improve under the mean-based comparison.
+- Logical update effort was reduced for highly reused metadata values.
+- Lossless reconstruction was verified for the selected metadata scope.
 
-These results apply to the tested OpenAlex metadata-filtering workload. They should not be interpreted as a universal performance claim for all graph workloads.
-
+These results apply to the tested OpenAlex metadata-filtering workload. They should be interpreted as workload-specific and should not be treated as a universal performance claim for all graph workloads.
 ## Repository Structure
 
 openalex_5gnf_replication/
