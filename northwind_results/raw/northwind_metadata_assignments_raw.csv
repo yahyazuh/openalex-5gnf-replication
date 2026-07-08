@@ -1,0 +1,3226 @@
+source_file,entity_type,entity_id,source_column,metadata_category,metadata_value
+customers.csv,Customer,ALFKI,country,country,Germany
+customers.csv,Customer,ALFKI,city,city,Berlin
+customers.csv,Customer,ALFKI,postalCode,postal_code,12209
+customers.csv,Customer,ANATR,country,country,Mexico
+customers.csv,Customer,ANATR,city,city,México D.F.
+customers.csv,Customer,ANATR,postalCode,postal_code,5021
+customers.csv,Customer,ANTON,country,country,Mexico
+customers.csv,Customer,ANTON,city,city,México D.F.
+customers.csv,Customer,ANTON,postalCode,postal_code,5023
+customers.csv,Customer,AROUT,country,country,UK
+customers.csv,Customer,AROUT,city,city,London
+customers.csv,Customer,AROUT,postalCode,postal_code,WA1 1DP
+customers.csv,Customer,BERGS,country,country,Sweden
+customers.csv,Customer,BERGS,city,city,Luleå
+customers.csv,Customer,BERGS,postalCode,postal_code,S-958 22
+customers.csv,Customer,BLAUS,country,country,Germany
+customers.csv,Customer,BLAUS,city,city,Mannheim
+customers.csv,Customer,BLAUS,postalCode,postal_code,68306
+customers.csv,Customer,BLONP,country,country,France
+customers.csv,Customer,BLONP,city,city,Strasbourg
+customers.csv,Customer,BLONP,postalCode,postal_code,67000
+customers.csv,Customer,BOLID,country,country,Spain
+customers.csv,Customer,BOLID,city,city,Madrid
+customers.csv,Customer,BOLID,postalCode,postal_code,28023
+customers.csv,Customer,BONAP,country,country,France
+customers.csv,Customer,BONAP,city,city,Marseille
+customers.csv,Customer,BONAP,postalCode,postal_code,13008
+customers.csv,Customer,BOTTM,country,country,Canada
+customers.csv,Customer,BOTTM,region,region,BC
+customers.csv,Customer,BOTTM,city,city,Tsawassen
+customers.csv,Customer,BOTTM,postalCode,postal_code,T2F 8M4
+customers.csv,Customer,BSBEV,country,country,UK
+customers.csv,Customer,BSBEV,city,city,London
+customers.csv,Customer,BSBEV,postalCode,postal_code,EC2 5NT
+customers.csv,Customer,CACTU,country,country,Argentina
+customers.csv,Customer,CACTU,city,city,Buenos Aires
+customers.csv,Customer,CACTU,postalCode,postal_code,1010
+customers.csv,Customer,CENTC,country,country,Mexico
+customers.csv,Customer,CENTC,city,city,México D.F.
+customers.csv,Customer,CENTC,postalCode,postal_code,5022
+customers.csv,Customer,CHOPS,country,country,Switzerland
+customers.csv,Customer,CHOPS,city,city,Bern
+customers.csv,Customer,CHOPS,postalCode,postal_code,3012
+customers.csv,Customer,COMMI,country,country,Brazil
+customers.csv,Customer,COMMI,region,region,SP
+customers.csv,Customer,COMMI,city,city,Sao Paulo
+customers.csv,Customer,COMMI,postalCode,postal_code,05432-043
+customers.csv,Customer,CONSH,country,country,UK
+customers.csv,Customer,CONSH,city,city,London
+customers.csv,Customer,CONSH,postalCode,postal_code,WX1 6LT
+customers.csv,Customer,DRACD,country,country,Germany
+customers.csv,Customer,DRACD,city,city,Aachen
+customers.csv,Customer,DRACD,postalCode,postal_code,52066
+customers.csv,Customer,DUMON,country,country,France
+customers.csv,Customer,DUMON,city,city,Nantes
+customers.csv,Customer,DUMON,postalCode,postal_code,44000
+customers.csv,Customer,EASTC,country,country,UK
+customers.csv,Customer,EASTC,city,city,London
+customers.csv,Customer,EASTC,postalCode,postal_code,WX3 6FW
+customers.csv,Customer,ERNSH,country,country,Austria
+customers.csv,Customer,ERNSH,city,city,Graz
+customers.csv,Customer,ERNSH,postalCode,postal_code,8010
+customers.csv,Customer,FAMIA,country,country,Brazil
+customers.csv,Customer,FAMIA,region,region,SP
+customers.csv,Customer,FAMIA,city,city,Sao Paulo
+customers.csv,Customer,FAMIA,postalCode,postal_code,05442-030
+customers.csv,Customer,FISSA,country,country,Spain
+customers.csv,Customer,FISSA,city,city,Madrid
+customers.csv,Customer,FISSA,postalCode,postal_code,28034
+customers.csv,Customer,FOLIG,country,country,France
+customers.csv,Customer,FOLIG,city,city,Lille
+customers.csv,Customer,FOLIG,postalCode,postal_code,59000
+customers.csv,Customer,FOLKO,country,country,Sweden
+customers.csv,Customer,FOLKO,city,city,Bräcke
+customers.csv,Customer,FOLKO,postalCode,postal_code,S-844 67
+customers.csv,Customer,FRANK,country,country,Germany
+customers.csv,Customer,FRANK,city,city,München
+customers.csv,Customer,FRANK,postalCode,postal_code,80805
+customers.csv,Customer,FRANR,country,country,France
+customers.csv,Customer,FRANR,city,city,Nantes
+customers.csv,Customer,FRANR,postalCode,postal_code,44000
+customers.csv,Customer,FRANS,country,country,Italy
+customers.csv,Customer,FRANS,city,city,Torino
+customers.csv,Customer,FRANS,postalCode,postal_code,10100
+customers.csv,Customer,FURIB,country,country,Portugal
+customers.csv,Customer,FURIB,city,city,Lisboa
+customers.csv,Customer,FURIB,postalCode,postal_code,1675
+customers.csv,Customer,GALED,country,country,Spain
+customers.csv,Customer,GALED,city,city,Barcelona
+customers.csv,Customer,GALED,postalCode,postal_code,8022
+customers.csv,Customer,GODOS,country,country,Spain
+customers.csv,Customer,GODOS,city,city,Sevilla
+customers.csv,Customer,GODOS,postalCode,postal_code,41101
+customers.csv,Customer,GOURL,country,country,Brazil
+customers.csv,Customer,GOURL,region,region,SP
+customers.csv,Customer,GOURL,city,city,Campinas
+customers.csv,Customer,GOURL,postalCode,postal_code,04876-786
+customers.csv,Customer,GREAL,country,country,USA
+customers.csv,Customer,GREAL,region,region,OR
+customers.csv,Customer,GREAL,city,city,Eugene
+customers.csv,Customer,GREAL,postalCode,postal_code,97403
+customers.csv,Customer,GROSR,country,country,Venezuela
+customers.csv,Customer,GROSR,region,region,DF
+customers.csv,Customer,GROSR,city,city,Caracas
+customers.csv,Customer,GROSR,postalCode,postal_code,1081
+customers.csv,Customer,HANAR,country,country,Brazil
+customers.csv,Customer,HANAR,region,region,RJ
+customers.csv,Customer,HANAR,city,city,Rio de Janeiro
+customers.csv,Customer,HANAR,postalCode,postal_code,05454-876
+customers.csv,Customer,HILAA,country,country,Venezuela
+customers.csv,Customer,HILAA,region,region,Táchira
+customers.csv,Customer,HILAA,city,city,San Cristóbal
+customers.csv,Customer,HILAA,postalCode,postal_code,5022
+customers.csv,Customer,HUNGC,country,country,USA
+customers.csv,Customer,HUNGC,region,region,OR
+customers.csv,Customer,HUNGC,city,city,Elgin
+customers.csv,Customer,HUNGC,postalCode,postal_code,97827
+customers.csv,Customer,HUNGO,country,country,Ireland
+customers.csv,Customer,HUNGO,region,region,Co. Cork
+customers.csv,Customer,HUNGO,city,city,Cork
+customers.csv,Customer,ISLAT,country,country,UK
+customers.csv,Customer,ISLAT,region,region,Isle of Wight
+customers.csv,Customer,ISLAT,city,city,Cowes
+customers.csv,Customer,ISLAT,postalCode,postal_code,PO31 7PJ
+customers.csv,Customer,KOENE,country,country,Germany
+customers.csv,Customer,KOENE,city,city,Brandenburg
+customers.csv,Customer,KOENE,postalCode,postal_code,14776
+customers.csv,Customer,LACOR,country,country,France
+customers.csv,Customer,LACOR,city,city,Versailles
+customers.csv,Customer,LACOR,postalCode,postal_code,78000
+customers.csv,Customer,LAMAI,country,country,France
+customers.csv,Customer,LAMAI,city,city,Toulouse
+customers.csv,Customer,LAMAI,postalCode,postal_code,31000
+customers.csv,Customer,LAUGB,country,country,Canada
+customers.csv,Customer,LAUGB,region,region,BC
+customers.csv,Customer,LAUGB,city,city,Vancouver
+customers.csv,Customer,LAUGB,postalCode,postal_code,V3F 2K1
+customers.csv,Customer,LAZYK,country,country,USA
+customers.csv,Customer,LAZYK,region,region,WA
+customers.csv,Customer,LAZYK,city,city,Walla Walla
+customers.csv,Customer,LAZYK,postalCode,postal_code,99362
+customers.csv,Customer,LEHMS,country,country,Germany
+customers.csv,Customer,LEHMS,city,city,Frankfurt a.M.
+customers.csv,Customer,LEHMS,postalCode,postal_code,60528
+customers.csv,Customer,LETSS,country,country,USA
+customers.csv,Customer,LETSS,region,region,CA
+customers.csv,Customer,LETSS,city,city,San Francisco
+customers.csv,Customer,LETSS,postalCode,postal_code,94117
+customers.csv,Customer,LILAS,country,country,Venezuela
+customers.csv,Customer,LILAS,region,region,Lara
+customers.csv,Customer,LILAS,city,city,Barquisimeto
+customers.csv,Customer,LILAS,postalCode,postal_code,3508
+customers.csv,Customer,LINOD,country,country,Venezuela
+customers.csv,Customer,LINOD,region,region,Nueva Esparta
+customers.csv,Customer,LINOD,city,city,I. de Margarita
+customers.csv,Customer,LINOD,postalCode,postal_code,4980
+customers.csv,Customer,LONEP,country,country,USA
+customers.csv,Customer,LONEP,region,region,OR
+customers.csv,Customer,LONEP,city,city,Portland
+customers.csv,Customer,LONEP,postalCode,postal_code,97219
+customers.csv,Customer,MAGAA,country,country,Italy
+customers.csv,Customer,MAGAA,city,city,Bergamo
+customers.csv,Customer,MAGAA,postalCode,postal_code,24100
+customers.csv,Customer,MAISD,country,country,Belgium
+customers.csv,Customer,MAISD,city,city,Bruxelles
+customers.csv,Customer,MAISD,postalCode,postal_code,B-1180
+customers.csv,Customer,MEREP,country,country,Canada
+customers.csv,Customer,MEREP,region,region,Québec
+customers.csv,Customer,MEREP,city,city,Montréal
+customers.csv,Customer,MEREP,postalCode,postal_code,H1J 1C3
+customers.csv,Customer,MORGK,country,country,Germany
+customers.csv,Customer,MORGK,city,city,Leipzig
+customers.csv,Customer,MORGK,postalCode,postal_code,4179
+customers.csv,Customer,NORTS,country,country,UK
+customers.csv,Customer,NORTS,city,city,London
+customers.csv,Customer,NORTS,postalCode,postal_code,SW7 1RZ
+customers.csv,Customer,OCEAN,country,country,Argentina
+customers.csv,Customer,OCEAN,city,city,Buenos Aires
+customers.csv,Customer,OCEAN,postalCode,postal_code,1010
+customers.csv,Customer,OLDWO,country,country,USA
+customers.csv,Customer,OLDWO,region,region,AK
+customers.csv,Customer,OLDWO,city,city,Anchorage
+customers.csv,Customer,OLDWO,postalCode,postal_code,99508
+customers.csv,Customer,OTTIK,country,country,Germany
+customers.csv,Customer,OTTIK,city,city,Köln
+customers.csv,Customer,OTTIK,postalCode,postal_code,50739
+customers.csv,Customer,PARIS,country,country,France
+customers.csv,Customer,PARIS,city,city,Paris
+customers.csv,Customer,PARIS,postalCode,postal_code,75012
+customers.csv,Customer,PERIC,country,country,Mexico
+customers.csv,Customer,PERIC,city,city,México D.F.
+customers.csv,Customer,PERIC,postalCode,postal_code,5033
+customers.csv,Customer,PICCO,country,country,Austria
+customers.csv,Customer,PICCO,city,city,Salzburg
+customers.csv,Customer,PICCO,postalCode,postal_code,5020
+customers.csv,Customer,PRINI,country,country,Portugal
+customers.csv,Customer,PRINI,city,city,Lisboa
+customers.csv,Customer,PRINI,postalCode,postal_code,1756
+customers.csv,Customer,QUEDE,country,country,Brazil
+customers.csv,Customer,QUEDE,region,region,RJ
+customers.csv,Customer,QUEDE,city,city,Rio de Janeiro
+customers.csv,Customer,QUEDE,postalCode,postal_code,02389-673
+customers.csv,Customer,QUEEN,country,country,Brazil
+customers.csv,Customer,QUEEN,region,region,SP
+customers.csv,Customer,QUEEN,city,city,Sao Paulo
+customers.csv,Customer,QUEEN,postalCode,postal_code,05487-020
+customers.csv,Customer,QUICK,country,country,Germany
+customers.csv,Customer,QUICK,city,city,Cunewalde
+customers.csv,Customer,QUICK,postalCode,postal_code,1307
+customers.csv,Customer,RANCH,country,country,Argentina
+customers.csv,Customer,RANCH,city,city,Buenos Aires
+customers.csv,Customer,RANCH,postalCode,postal_code,1010
+customers.csv,Customer,RATTC,country,country,USA
+customers.csv,Customer,RATTC,region,region,NM
+customers.csv,Customer,RATTC,city,city,Albuquerque
+customers.csv,Customer,RATTC,postalCode,postal_code,87110
+customers.csv,Customer,REGGC,country,country,Italy
+customers.csv,Customer,REGGC,city,city,Reggio Emilia
+customers.csv,Customer,REGGC,postalCode,postal_code,42100
+customers.csv,Customer,RICAR,country,country,Brazil
+customers.csv,Customer,RICAR,region,region,RJ
+customers.csv,Customer,RICAR,city,city,Rio de Janeiro
+customers.csv,Customer,RICAR,postalCode,postal_code,02389-890
+customers.csv,Customer,RICSU,country,country,Switzerland
+customers.csv,Customer,RICSU,city,city,Genève
+customers.csv,Customer,RICSU,postalCode,postal_code,1203
+customers.csv,Customer,ROMEY,country,country,Spain
+customers.csv,Customer,ROMEY,city,city,Madrid
+customers.csv,Customer,ROMEY,postalCode,postal_code,28001
+customers.csv,Customer,SANTG,country,country,Norway
+customers.csv,Customer,SANTG,city,city,Stavern
+customers.csv,Customer,SANTG,postalCode,postal_code,4110
+customers.csv,Customer,SAVEA,country,country,USA
+customers.csv,Customer,SAVEA,region,region,ID
+customers.csv,Customer,SAVEA,city,city,Boise
+customers.csv,Customer,SAVEA,postalCode,postal_code,83720
+customers.csv,Customer,SEVES,country,country,UK
+customers.csv,Customer,SEVES,city,city,London
+customers.csv,Customer,SEVES,postalCode,postal_code,OX15 4NB
+customers.csv,Customer,SIMOB,country,country,Denmark
+customers.csv,Customer,SIMOB,city,city,Kobenhavn
+customers.csv,Customer,SIMOB,postalCode,postal_code,1734
+customers.csv,Customer,SPECD,country,country,France
+customers.csv,Customer,SPECD,city,city,Paris
+customers.csv,Customer,SPECD,postalCode,postal_code,75016
+customers.csv,Customer,SPLIR,country,country,USA
+customers.csv,Customer,SPLIR,region,region,WY
+customers.csv,Customer,SPLIR,city,city,Lander
+customers.csv,Customer,SPLIR,postalCode,postal_code,82520
+customers.csv,Customer,SUPRD,country,country,Belgium
+customers.csv,Customer,SUPRD,city,city,Charleroi
+customers.csv,Customer,SUPRD,postalCode,postal_code,B-6000
+customers.csv,Customer,THEBI,country,country,USA
+customers.csv,Customer,THEBI,region,region,OR
+customers.csv,Customer,THEBI,city,city,Portland
+customers.csv,Customer,THEBI,postalCode,postal_code,97201
+customers.csv,Customer,THECR,country,country,USA
+customers.csv,Customer,THECR,region,region,MT
+customers.csv,Customer,THECR,city,city,Butte
+customers.csv,Customer,THECR,postalCode,postal_code,59801
+customers.csv,Customer,TOMSP,country,country,Germany
+customers.csv,Customer,TOMSP,city,city,Münster
+customers.csv,Customer,TOMSP,postalCode,postal_code,44087
+customers.csv,Customer,TORTU,country,country,Mexico
+customers.csv,Customer,TORTU,city,city,México D.F.
+customers.csv,Customer,TORTU,postalCode,postal_code,5033
+customers.csv,Customer,TRADH,country,country,Brazil
+customers.csv,Customer,TRADH,region,region,SP
+customers.csv,Customer,TRADH,city,city,Sao Paulo
+customers.csv,Customer,TRADH,postalCode,postal_code,05634-030
+customers.csv,Customer,TRAIH,country,country,USA
+customers.csv,Customer,TRAIH,region,region,WA
+customers.csv,Customer,TRAIH,city,city,Kirkland
+customers.csv,Customer,TRAIH,postalCode,postal_code,98034
+customers.csv,Customer,VAFFE,country,country,Denmark
+customers.csv,Customer,VAFFE,city,city,Århus
+customers.csv,Customer,VAFFE,postalCode,postal_code,8200
+customers.csv,Customer,VICTE,country,country,France
+customers.csv,Customer,VICTE,city,city,Lyon
+customers.csv,Customer,VICTE,postalCode,postal_code,69004
+customers.csv,Customer,VINET,country,country,France
+customers.csv,Customer,VINET,city,city,Reims
+customers.csv,Customer,VINET,postalCode,postal_code,51100
+customers.csv,Customer,WANDK,country,country,Germany
+customers.csv,Customer,WANDK,city,city,Stuttgart
+customers.csv,Customer,WANDK,postalCode,postal_code,70563
+customers.csv,Customer,WARTH,country,country,Finland
+customers.csv,Customer,WARTH,city,city,Oulu
+customers.csv,Customer,WARTH,postalCode,postal_code,90110
+customers.csv,Customer,WELLI,country,country,Brazil
+customers.csv,Customer,WELLI,region,region,SP
+customers.csv,Customer,WELLI,city,city,Resende
+customers.csv,Customer,WELLI,postalCode,postal_code,08737-363
+customers.csv,Customer,WHITC,country,country,USA
+customers.csv,Customer,WHITC,region,region,WA
+customers.csv,Customer,WHITC,city,city,Seattle
+customers.csv,Customer,WHITC,postalCode,postal_code,98128
+customers.csv,Customer,WILMK,country,country,Finland
+customers.csv,Customer,WILMK,city,city,Helsinki
+customers.csv,Customer,WILMK,postalCode,postal_code,21240
+customers.csv,Customer,WOLZA,country,country,Poland
+customers.csv,Customer,WOLZA,city,city,Warszawa
+customers.csv,Customer,WOLZA,postalCode,postal_code,01-012
+suppliers.csv,Supplier,1,country,country,UK
+suppliers.csv,Supplier,1,city,city,London
+suppliers.csv,Supplier,1,postalCode,postal_code,EC1 4SD
+suppliers.csv,Supplier,2,country,country,USA
+suppliers.csv,Supplier,2,region,region,LA
+suppliers.csv,Supplier,2,city,city,New Orleans
+suppliers.csv,Supplier,2,postalCode,postal_code,70117
+suppliers.csv,Supplier,3,country,country,USA
+suppliers.csv,Supplier,3,region,region,MI
+suppliers.csv,Supplier,3,city,city,Ann Arbor
+suppliers.csv,Supplier,3,postalCode,postal_code,48104
+suppliers.csv,Supplier,4,country,country,Japan
+suppliers.csv,Supplier,4,city,city,Tokyo
+suppliers.csv,Supplier,4,postalCode,postal_code,100
+suppliers.csv,Supplier,5,country,country,Spain
+suppliers.csv,Supplier,5,region,region,Asturias
+suppliers.csv,Supplier,5,city,city,Oviedo
+suppliers.csv,Supplier,5,postalCode,postal_code,33007
+suppliers.csv,Supplier,6,country,country,Japan
+suppliers.csv,Supplier,6,city,city,Osaka
+suppliers.csv,Supplier,6,postalCode,postal_code,545
+suppliers.csv,Supplier,7,country,country,3058
+suppliers.csv,Supplier,7,region,region,Melbourne
+suppliers.csv,Supplier,7,city,city,74 Rose St. Moonie Ponds
+suppliers.csv,Supplier,7,postalCode,postal_code,Victoria
+suppliers.csv,Supplier,8,country,country,M14 GSD
+suppliers.csv,Supplier,8,region,region,Manchester
+suppliers.csv,Supplier,8,city,city,29 King's Way
+suppliers.csv,Supplier,9,country,country,Sweden
+suppliers.csv,Supplier,9,city,city,Göteborg
+suppliers.csv,Supplier,9,postalCode,postal_code,S-345 67
+suppliers.csv,Supplier,10,country,country,Brazil
+suppliers.csv,Supplier,10,city,city,Sao Paulo
+suppliers.csv,Supplier,10,postalCode,postal_code,5442
+suppliers.csv,Supplier,11,country,country,Germany
+suppliers.csv,Supplier,11,city,city,Berlin
+suppliers.csv,Supplier,11,postalCode,postal_code,10785
+suppliers.csv,Supplier,12,country,country,Germany
+suppliers.csv,Supplier,12,city,city,Frankfurt
+suppliers.csv,Supplier,12,postalCode,postal_code,60439
+suppliers.csv,Supplier,13,country,country,Germany
+suppliers.csv,Supplier,13,city,city,Cuxhaven
+suppliers.csv,Supplier,13,postalCode,postal_code,27478
+suppliers.csv,Supplier,14,country,country,48100
+suppliers.csv,Supplier,14,region,region,Ravenna
+suppliers.csv,Supplier,14,city,city,75
+suppliers.csv,Supplier,15,country,country,Norway
+suppliers.csv,Supplier,15,city,city,Sandvika
+suppliers.csv,Supplier,15,postalCode,postal_code,1320
+suppliers.csv,Supplier,16,country,country,USA
+suppliers.csv,Supplier,16,region,region,OR
+suppliers.csv,Supplier,16,city,city,Bend
+suppliers.csv,Supplier,16,postalCode,postal_code,97101
+suppliers.csv,Supplier,17,country,country,Sweden
+suppliers.csv,Supplier,17,city,city,Stockholm
+suppliers.csv,Supplier,17,postalCode,postal_code,S-123 45
+suppliers.csv,Supplier,18,country,country,75004
+suppliers.csv,Supplier,18,region,region,Paris
+suppliers.csv,Supplier,18,city,city,Rue des Francs-Bourgeois
+suppliers.csv,Supplier,19,country,country,USA
+suppliers.csv,Supplier,19,region,region,MA
+suppliers.csv,Supplier,19,city,city,Boston
+suppliers.csv,Supplier,19,postalCode,postal_code,02134
+suppliers.csv,Supplier,20,country,country,0512
+suppliers.csv,Supplier,20,region,region,Singapore
+suppliers.csv,Supplier,20,city,city,Suite #402
+suppliers.csv,Supplier,21,country,country,Denmark
+suppliers.csv,Supplier,21,city,city,Lyngby
+suppliers.csv,Supplier,21,postalCode,postal_code,2800
+suppliers.csv,Supplier,22,country,country,Netherlands
+suppliers.csv,Supplier,22,city,city,Zaandam
+suppliers.csv,Supplier,22,postalCode,postal_code,9999 ZZ
+suppliers.csv,Supplier,23,country,country,Finland
+suppliers.csv,Supplier,23,city,city,Lappeenranta
+suppliers.csv,Supplier,23,postalCode,postal_code,53120
+suppliers.csv,Supplier,24,country,country,2042
+suppliers.csv,Supplier,24,region,region,Sydney
+suppliers.csv,Supplier,24,city,city,170 Prince Edward Parade Hunter's Hill
+suppliers.csv,Supplier,24,postalCode,postal_code,NSW
+suppliers.csv,Supplier,25,country,country,Canada
+suppliers.csv,Supplier,25,region,region,Québec
+suppliers.csv,Supplier,25,city,city,Montréal
+suppliers.csv,Supplier,25,postalCode,postal_code,H1J 1C3
+suppliers.csv,Supplier,26,country,country,84100
+suppliers.csv,Supplier,26,region,region,Salerno
+suppliers.csv,Supplier,26,city,city,153
+suppliers.csv,Supplier,27,country,country,71300
+suppliers.csv,Supplier,27,region,region,Montceau
+suppliers.csv,Supplier,27,city,city,rue H. Voiron
+suppliers.csv,Supplier,28,country,country,74000
+suppliers.csv,Supplier,28,region,region,Annecy
+suppliers.csv,Supplier,28,city,city,rue des Alpes
+suppliers.csv,Supplier,29,country,country,Canada
+suppliers.csv,Supplier,29,region,region,Québec
+suppliers.csv,Supplier,29,city,city,Ste-Hyacinthe
+suppliers.csv,Supplier,29,postalCode,postal_code,J2S 7S8
+employees.csv,Employee,1,country,country,USA
+employees.csv,Employee,1,region,region,WA
+employees.csv,Employee,1,city,city,Seattle
+employees.csv,Employee,1,postalCode,postal_code,98122
+employees.csv,Employee,2,country,country,USA
+employees.csv,Employee,2,region,region,WA
+employees.csv,Employee,2,city,city,Tacoma
+employees.csv,Employee,2,postalCode,postal_code,98401
+employees.csv,Employee,3,country,country,USA
+employees.csv,Employee,3,region,region,WA
+employees.csv,Employee,3,city,city,Kirkland
+employees.csv,Employee,3,postalCode,postal_code,98033
+employees.csv,Employee,4,country,country,USA
+employees.csv,Employee,4,region,region,WA
+employees.csv,Employee,4,city,city,Redmond
+employees.csv,Employee,4,postalCode,postal_code,98052
+employees.csv,Employee,5,country,country,UK
+employees.csv,Employee,5,city,city,London
+employees.csv,Employee,5,postalCode,postal_code,SW1 8JR
+employees.csv,Employee,6,country,country,UK
+employees.csv,Employee,6,city,city,London
+employees.csv,Employee,6,postalCode,postal_code,EC2 7JR
+employees.csv,Employee,7,country,country,UK
+employees.csv,Employee,7,city,city,London
+employees.csv,Employee,7,postalCode,postal_code,RG1 9SP
+employees.csv,Employee,8,country,country,USA
+employees.csv,Employee,8,region,region,WA
+employees.csv,Employee,8,city,city,Seattle
+employees.csv,Employee,8,postalCode,postal_code,98105
+employees.csv,Employee,9,country,country,UK
+employees.csv,Employee,9,city,city,London
+employees.csv,Employee,9,postalCode,postal_code,WG2 7LT
+orders.csv,Order,10248,shipCountry,country,France
+orders.csv,Order,10248,shipCity,city,Reims
+orders.csv,Order,10248,shipPostalCode,postal_code,51100
+orders.csv,Order,10249,shipCountry,country,Germany
+orders.csv,Order,10249,shipCity,city,Münster
+orders.csv,Order,10249,shipPostalCode,postal_code,44087
+orders.csv,Order,10250,shipCountry,country,05454-876
+orders.csv,Order,10250,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10250,shipCity,city,67
+orders.csv,Order,10250,shipPostalCode,postal_code,RJ
+orders.csv,Order,10251,shipCountry,country,69004
+orders.csv,Order,10251,shipRegion,region,Lyon
+orders.csv,Order,10251,shipCity,city,rue du Commerce
+orders.csv,Order,10252,shipCountry,country,B-6000
+orders.csv,Order,10252,shipRegion,region,Charleroi
+orders.csv,Order,10252,shipCity,city,255
+orders.csv,Order,10253,shipCountry,country,05454-876
+orders.csv,Order,10253,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10253,shipCity,city,67
+orders.csv,Order,10253,shipPostalCode,postal_code,RJ
+orders.csv,Order,10254,shipCountry,country,Switzerland
+orders.csv,Order,10254,shipCity,city,Bern
+orders.csv,Order,10254,shipPostalCode,postal_code,3012
+orders.csv,Order,10255,shipCountry,country,Switzerland
+orders.csv,Order,10255,shipCity,city,Genève
+orders.csv,Order,10255,shipPostalCode,postal_code,1204
+orders.csv,Order,10256,shipCountry,country,08737-363
+orders.csv,Order,10256,shipRegion,region,Resende
+orders.csv,Order,10256,shipCity,city,12
+orders.csv,Order,10256,shipPostalCode,postal_code,SP
+orders.csv,Order,10257,shipCountry,country,Venezuela
+orders.csv,Order,10257,shipRegion,region,Táchira
+orders.csv,Order,10257,shipCity,city,San Cristóbal
+orders.csv,Order,10257,shipPostalCode,postal_code,5022
+orders.csv,Order,10258,shipCountry,country,Austria
+orders.csv,Order,10258,shipCity,city,Graz
+orders.csv,Order,10258,shipPostalCode,postal_code,8010
+orders.csv,Order,10259,shipCountry,country,Mexico
+orders.csv,Order,10259,shipCity,city,México D.F.
+orders.csv,Order,10259,shipPostalCode,postal_code,05022
+orders.csv,Order,10260,shipCountry,country,Germany
+orders.csv,Order,10260,shipCity,city,Köln
+orders.csv,Order,10260,shipPostalCode,postal_code,50739
+orders.csv,Order,10261,shipCountry,country,02389-673
+orders.csv,Order,10261,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10261,shipCity,city,12
+orders.csv,Order,10261,shipPostalCode,postal_code,RJ
+orders.csv,Order,10262,shipCountry,country,USA
+orders.csv,Order,10262,shipRegion,region,NM
+orders.csv,Order,10262,shipCity,city,Albuquerque
+orders.csv,Order,10262,shipPostalCode,postal_code,87110
+orders.csv,Order,10263,shipCountry,country,Austria
+orders.csv,Order,10263,shipCity,city,Graz
+orders.csv,Order,10263,shipPostalCode,postal_code,8010
+orders.csv,Order,10264,shipCountry,country,Sweden
+orders.csv,Order,10264,shipCity,city,Bräcke
+orders.csv,Order,10264,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10265,shipCountry,country,67000
+orders.csv,Order,10265,shipRegion,region,Strasbourg
+orders.csv,Order,10265,shipCity,city,place Kléber
+orders.csv,Order,10266,shipCountry,country,Finland
+orders.csv,Order,10266,shipCity,city,Oulu
+orders.csv,Order,10266,shipPostalCode,postal_code,90110
+orders.csv,Order,10267,shipCountry,country,Germany
+orders.csv,Order,10267,shipCity,city,München
+orders.csv,Order,10267,shipPostalCode,postal_code,80805
+orders.csv,Order,10268,shipCountry,country,Venezuela
+orders.csv,Order,10268,shipRegion,region,DF
+orders.csv,Order,10268,shipCity,city,Caracas
+orders.csv,Order,10268,shipPostalCode,postal_code,1081
+orders.csv,Order,10269,shipCountry,country,USA
+orders.csv,Order,10269,shipRegion,region,WA
+orders.csv,Order,10269,shipCity,city,Seattle
+orders.csv,Order,10269,shipPostalCode,postal_code,98124
+orders.csv,Order,10270,shipCountry,country,Finland
+orders.csv,Order,10270,shipCity,city,Oulu
+orders.csv,Order,10270,shipPostalCode,postal_code,90110
+orders.csv,Order,10271,shipCountry,country,USA
+orders.csv,Order,10271,shipRegion,region,WY
+orders.csv,Order,10271,shipCity,city,Lander
+orders.csv,Order,10271,shipPostalCode,postal_code,82520
+orders.csv,Order,10272,shipCountry,country,USA
+orders.csv,Order,10272,shipRegion,region,NM
+orders.csv,Order,10272,shipCity,city,Albuquerque
+orders.csv,Order,10272,shipPostalCode,postal_code,87110
+orders.csv,Order,10273,shipCountry,country,Germany
+orders.csv,Order,10273,shipCity,city,Cunewalde
+orders.csv,Order,10273,shipPostalCode,postal_code,01307
+orders.csv,Order,10274,shipCountry,country,France
+orders.csv,Order,10274,shipCity,city,Reims
+orders.csv,Order,10274,shipPostalCode,postal_code,51100
+orders.csv,Order,10275,shipCountry,country,Italy
+orders.csv,Order,10275,shipCity,city,Bergamo
+orders.csv,Order,10275,shipPostalCode,postal_code,24100
+orders.csv,Order,10276,shipCountry,country,Mexico
+orders.csv,Order,10276,shipCity,city,México D.F.
+orders.csv,Order,10276,shipPostalCode,postal_code,05033
+orders.csv,Order,10277,shipCountry,country,Germany
+orders.csv,Order,10277,shipCity,city,Leipzig
+orders.csv,Order,10277,shipPostalCode,postal_code,04179
+orders.csv,Order,10278,shipCountry,country,Sweden
+orders.csv,Order,10278,shipCity,city,Luleå
+orders.csv,Order,10278,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10279,shipCountry,country,Germany
+orders.csv,Order,10279,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10279,shipPostalCode,postal_code,60528
+orders.csv,Order,10280,shipCountry,country,Sweden
+orders.csv,Order,10280,shipCity,city,Luleå
+orders.csv,Order,10280,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10281,shipCountry,country,28001
+orders.csv,Order,10281,shipRegion,region,Madrid
+orders.csv,Order,10281,shipCity,city,1
+orders.csv,Order,10282,shipCountry,country,28001
+orders.csv,Order,10282,shipRegion,region,Madrid
+orders.csv,Order,10282,shipCity,city,1
+orders.csv,Order,10283,shipCountry,country,Venezuela
+orders.csv,Order,10283,shipRegion,region,Lara
+orders.csv,Order,10283,shipCity,city,Barquisimeto
+orders.csv,Order,10283,shipPostalCode,postal_code,3508
+orders.csv,Order,10284,shipCountry,country,Germany
+orders.csv,Order,10284,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10284,shipPostalCode,postal_code,60528
+orders.csv,Order,10285,shipCountry,country,Germany
+orders.csv,Order,10285,shipCity,city,Cunewalde
+orders.csv,Order,10285,shipPostalCode,postal_code,01307
+orders.csv,Order,10286,shipCountry,country,Germany
+orders.csv,Order,10286,shipCity,city,Cunewalde
+orders.csv,Order,10286,shipPostalCode,postal_code,01307
+orders.csv,Order,10287,shipCountry,country,02389-890
+orders.csv,Order,10287,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10287,shipCity,city,267
+orders.csv,Order,10287,shipPostalCode,postal_code,RJ
+orders.csv,Order,10288,shipCountry,country,Italy
+orders.csv,Order,10288,shipCity,city,Reggio Emilia
+orders.csv,Order,10288,shipPostalCode,postal_code,42100
+orders.csv,Order,10289,shipCountry,country,UK
+orders.csv,Order,10289,shipCity,city,London
+orders.csv,Order,10289,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10290,shipCountry,country,05432-043
+orders.csv,Order,10290,shipRegion,region,Sao Paulo
+orders.csv,Order,10290,shipCity,city,23
+orders.csv,Order,10290,shipPostalCode,postal_code,SP
+orders.csv,Order,10291,shipCountry,country,02389-673
+orders.csv,Order,10291,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10291,shipCity,city,12
+orders.csv,Order,10291,shipPostalCode,postal_code,RJ
+orders.csv,Order,10292,shipCountry,country,05634-030
+orders.csv,Order,10292,shipRegion,region,Sao Paulo
+orders.csv,Order,10292,shipCity,city,414
+orders.csv,Order,10292,shipPostalCode,postal_code,SP
+orders.csv,Order,10293,shipCountry,country,Mexico
+orders.csv,Order,10293,shipCity,city,México D.F.
+orders.csv,Order,10293,shipPostalCode,postal_code,05033
+orders.csv,Order,10294,shipCountry,country,USA
+orders.csv,Order,10294,shipRegion,region,NM
+orders.csv,Order,10294,shipCity,city,Albuquerque
+orders.csv,Order,10294,shipPostalCode,postal_code,87110
+orders.csv,Order,10295,shipCountry,country,France
+orders.csv,Order,10295,shipCity,city,Reims
+orders.csv,Order,10295,shipPostalCode,postal_code,51100
+orders.csv,Order,10296,shipCountry,country,Venezuela
+orders.csv,Order,10296,shipRegion,region,Lara
+orders.csv,Order,10296,shipCity,city,Barquisimeto
+orders.csv,Order,10296,shipPostalCode,postal_code,3508
+orders.csv,Order,10297,shipCountry,country,67000
+orders.csv,Order,10297,shipRegion,region,Strasbourg
+orders.csv,Order,10297,shipCity,city,place Kléber
+orders.csv,Order,10298,shipCountry,country,Ireland
+orders.csv,Order,10298,shipRegion,region,Co. Cork
+orders.csv,Order,10298,shipCity,city,Cork
+orders.csv,Order,10299,shipCountry,country,02389-890
+orders.csv,Order,10299,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10299,shipCity,city,267
+orders.csv,Order,10299,shipPostalCode,postal_code,RJ
+orders.csv,Order,10300,shipCountry,country,Italy
+orders.csv,Order,10300,shipCity,city,Bergamo
+orders.csv,Order,10300,shipPostalCode,postal_code,24100
+orders.csv,Order,10301,shipCountry,country,Germany
+orders.csv,Order,10301,shipCity,city,Stuttgart
+orders.csv,Order,10301,shipPostalCode,postal_code,70563
+orders.csv,Order,10302,shipCountry,country,B-6000
+orders.csv,Order,10302,shipRegion,region,Charleroi
+orders.csv,Order,10302,shipCity,city,255
+orders.csv,Order,10303,shipCountry,country,41101
+orders.csv,Order,10303,shipRegion,region,Sevilla
+orders.csv,Order,10303,shipCity,city,33
+orders.csv,Order,10304,shipCountry,country,Mexico
+orders.csv,Order,10304,shipCity,city,México D.F.
+orders.csv,Order,10304,shipPostalCode,postal_code,05033
+orders.csv,Order,10305,shipCountry,country,USA
+orders.csv,Order,10305,shipRegion,region,AK
+orders.csv,Order,10305,shipCity,city,Anchorage
+orders.csv,Order,10305,shipPostalCode,postal_code,99508
+orders.csv,Order,10306,shipCountry,country,28001
+orders.csv,Order,10306,shipRegion,region,Madrid
+orders.csv,Order,10306,shipCity,city,1
+orders.csv,Order,10307,shipCountry,country,USA
+orders.csv,Order,10307,shipRegion,region,OR
+orders.csv,Order,10307,shipCity,city,Portland
+orders.csv,Order,10307,shipPostalCode,postal_code,97219
+orders.csv,Order,10308,shipCountry,country,Mexico
+orders.csv,Order,10308,shipCity,city,México D.F.
+orders.csv,Order,10308,shipPostalCode,postal_code,05021
+orders.csv,Order,10309,shipCountry,country,Ireland
+orders.csv,Order,10309,shipRegion,region,Co. Cork
+orders.csv,Order,10309,shipCity,city,Cork
+orders.csv,Order,10310,shipCountry,country,USA
+orders.csv,Order,10310,shipRegion,region,OR
+orders.csv,Order,10310,shipCity,city,Portland
+orders.csv,Order,10310,shipPostalCode,postal_code,97201
+orders.csv,Order,10311,shipCountry,country,44000
+orders.csv,Order,10311,shipRegion,region,Nantes
+orders.csv,Order,10311,shipCity,city,rue des Cinquante Otages
+orders.csv,Order,10312,shipCountry,country,Germany
+orders.csv,Order,10312,shipCity,city,Stuttgart
+orders.csv,Order,10312,shipPostalCode,postal_code,70563
+orders.csv,Order,10313,shipCountry,country,Germany
+orders.csv,Order,10313,shipCity,city,Cunewalde
+orders.csv,Order,10313,shipPostalCode,postal_code,01307
+orders.csv,Order,10314,shipCountry,country,USA
+orders.csv,Order,10314,shipRegion,region,NM
+orders.csv,Order,10314,shipCity,city,Albuquerque
+orders.csv,Order,10314,shipPostalCode,postal_code,87110
+orders.csv,Order,10315,shipCountry,country,UK
+orders.csv,Order,10315,shipRegion,region,Isle of Wight
+orders.csv,Order,10315,shipCity,city,Cowes
+orders.csv,Order,10315,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10316,shipCountry,country,USA
+orders.csv,Order,10316,shipRegion,region,NM
+orders.csv,Order,10316,shipCity,city,Albuquerque
+orders.csv,Order,10316,shipPostalCode,postal_code,87110
+orders.csv,Order,10317,shipCountry,country,USA
+orders.csv,Order,10317,shipRegion,region,OR
+orders.csv,Order,10317,shipCity,city,Portland
+orders.csv,Order,10317,shipPostalCode,postal_code,97219
+orders.csv,Order,10318,shipCountry,country,UK
+orders.csv,Order,10318,shipRegion,region,Isle of Wight
+orders.csv,Order,10318,shipCity,city,Cowes
+orders.csv,Order,10318,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10319,shipCountry,country,Mexico
+orders.csv,Order,10319,shipCity,city,México D.F.
+orders.csv,Order,10319,shipPostalCode,postal_code,05033
+orders.csv,Order,10320,shipCountry,country,Finland
+orders.csv,Order,10320,shipCity,city,Oulu
+orders.csv,Order,10320,shipPostalCode,postal_code,90110
+orders.csv,Order,10321,shipCountry,country,UK
+orders.csv,Order,10321,shipRegion,region,Isle of Wight
+orders.csv,Order,10321,shipCity,city,Cowes
+orders.csv,Order,10321,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10322,shipCountry,country,Mexico
+orders.csv,Order,10322,shipCity,city,México D.F.
+orders.csv,Order,10322,shipPostalCode,postal_code,05033
+orders.csv,Order,10323,shipCountry,country,Germany
+orders.csv,Order,10323,shipCity,city,Brandenburg
+orders.csv,Order,10323,shipPostalCode,postal_code,14776
+orders.csv,Order,10324,shipCountry,country,USA
+orders.csv,Order,10324,shipRegion,region,ID
+orders.csv,Order,10324,shipCity,city,Boise
+orders.csv,Order,10324,shipPostalCode,postal_code,83720
+orders.csv,Order,10325,shipCountry,country,Germany
+orders.csv,Order,10325,shipCity,city,Brandenburg
+orders.csv,Order,10325,shipPostalCode,postal_code,14776
+orders.csv,Order,10326,shipCountry,country,28023
+orders.csv,Order,10326,shipRegion,region,Madrid
+orders.csv,Order,10326,shipCity,city,67
+orders.csv,Order,10327,shipCountry,country,Sweden
+orders.csv,Order,10327,shipCity,city,Bräcke
+orders.csv,Order,10327,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10328,shipCountry,country,Portugal
+orders.csv,Order,10328,shipCity,city,Lisboa
+orders.csv,Order,10328,shipPostalCode,postal_code,1675
+orders.csv,Order,10329,shipCountry,country,USA
+orders.csv,Order,10329,shipRegion,region,WY
+orders.csv,Order,10329,shipCity,city,Lander
+orders.csv,Order,10329,shipPostalCode,postal_code,82520
+orders.csv,Order,10330,shipCountry,country,Venezuela
+orders.csv,Order,10330,shipRegion,region,Lara
+orders.csv,Order,10330,shipCity,city,Barquisimeto
+orders.csv,Order,10330,shipPostalCode,postal_code,3508
+orders.csv,Order,10331,shipCountry,country,13008
+orders.csv,Order,10331,shipRegion,region,Marseille
+orders.csv,Order,10331,shipCity,city,rue des Bouchers
+orders.csv,Order,10332,shipCountry,country,Canada
+orders.csv,Order,10332,shipRegion,region,Québec
+orders.csv,Order,10332,shipCity,city,Montréal
+orders.csv,Order,10332,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10333,shipCountry,country,Finland
+orders.csv,Order,10333,shipCity,city,Oulu
+orders.csv,Order,10333,shipPostalCode,postal_code,90110
+orders.csv,Order,10334,shipCountry,country,69004
+orders.csv,Order,10334,shipRegion,region,Lyon
+orders.csv,Order,10334,shipCity,city,rue du Commerce
+orders.csv,Order,10335,shipCountry,country,Ireland
+orders.csv,Order,10335,shipRegion,region,Co. Cork
+orders.csv,Order,10335,shipCity,city,Cork
+orders.csv,Order,10336,shipCountry,country,Portugal
+orders.csv,Order,10336,shipCity,city,Lisboa
+orders.csv,Order,10336,shipPostalCode,postal_code,1756
+orders.csv,Order,10337,shipCountry,country,Germany
+orders.csv,Order,10337,shipCity,city,München
+orders.csv,Order,10337,shipPostalCode,postal_code,80805
+orders.csv,Order,10338,shipCountry,country,USA
+orders.csv,Order,10338,shipRegion,region,AK
+orders.csv,Order,10338,shipCity,city,Anchorage
+orders.csv,Order,10338,shipPostalCode,postal_code,99508
+orders.csv,Order,10339,shipCountry,country,Canada
+orders.csv,Order,10339,shipRegion,region,Québec
+orders.csv,Order,10339,shipCity,city,Montréal
+orders.csv,Order,10339,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10340,shipCountry,country,13008
+orders.csv,Order,10340,shipRegion,region,Marseille
+orders.csv,Order,10340,shipCity,city,rue des Bouchers
+orders.csv,Order,10341,shipCountry,country,Denmark
+orders.csv,Order,10341,shipCity,city,Kobenhavn
+orders.csv,Order,10341,shipPostalCode,postal_code,1734
+orders.csv,Order,10342,shipCountry,country,Germany
+orders.csv,Order,10342,shipCity,city,München
+orders.csv,Order,10342,shipPostalCode,postal_code,80805
+orders.csv,Order,10343,shipCountry,country,Germany
+orders.csv,Order,10343,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10343,shipPostalCode,postal_code,60528
+orders.csv,Order,10344,shipCountry,country,USA
+orders.csv,Order,10344,shipRegion,region,WA
+orders.csv,Order,10344,shipCity,city,Seattle
+orders.csv,Order,10344,shipPostalCode,postal_code,98124
+orders.csv,Order,10345,shipCountry,country,Germany
+orders.csv,Order,10345,shipCity,city,Cunewalde
+orders.csv,Order,10345,shipPostalCode,postal_code,01307
+orders.csv,Order,10346,shipCountry,country,USA
+orders.csv,Order,10346,shipRegion,region,NM
+orders.csv,Order,10346,shipCity,city,Albuquerque
+orders.csv,Order,10346,shipPostalCode,postal_code,87110
+orders.csv,Order,10347,shipCountry,country,05442-030
+orders.csv,Order,10347,shipRegion,region,Sao Paulo
+orders.csv,Order,10347,shipCity,city,92
+orders.csv,Order,10347,shipPostalCode,postal_code,SP
+orders.csv,Order,10348,shipCountry,country,Germany
+orders.csv,Order,10348,shipCity,city,Stuttgart
+orders.csv,Order,10348,shipPostalCode,postal_code,70563
+orders.csv,Order,10349,shipCountry,country,USA
+orders.csv,Order,10349,shipRegion,region,WY
+orders.csv,Order,10349,shipCity,city,Lander
+orders.csv,Order,10349,shipPostalCode,postal_code,82520
+orders.csv,Order,10350,shipCountry,country,France
+orders.csv,Order,10350,shipCity,city,Toulouse
+orders.csv,Order,10350,shipPostalCode,postal_code,31000
+orders.csv,Order,10351,shipCountry,country,Austria
+orders.csv,Order,10351,shipCity,city,Graz
+orders.csv,Order,10351,shipPostalCode,postal_code,8010
+orders.csv,Order,10352,shipCountry,country,Portugal
+orders.csv,Order,10352,shipCity,city,Lisboa
+orders.csv,Order,10352,shipPostalCode,postal_code,1675
+orders.csv,Order,10353,shipCountry,country,Austria
+orders.csv,Order,10353,shipCity,city,Salzburg
+orders.csv,Order,10353,shipPostalCode,postal_code,5020
+orders.csv,Order,10354,shipCountry,country,Mexico
+orders.csv,Order,10354,shipCity,city,México D.F.
+orders.csv,Order,10354,shipPostalCode,postal_code,05033
+orders.csv,Order,10355,shipCountry,country,UK
+orders.csv,Order,10355,shipRegion,region,Essex
+orders.csv,Order,10355,shipCity,city,Colchester
+orders.csv,Order,10355,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10356,shipCountry,country,Germany
+orders.csv,Order,10356,shipCity,city,Stuttgart
+orders.csv,Order,10356,shipPostalCode,postal_code,70563
+orders.csv,Order,10357,shipCountry,country,Venezuela
+orders.csv,Order,10357,shipRegion,region,Lara
+orders.csv,Order,10357,shipCity,city,Barquisimeto
+orders.csv,Order,10357,shipPostalCode,postal_code,3508
+orders.csv,Order,10358,shipCountry,country,France
+orders.csv,Order,10358,shipCity,city,Toulouse
+orders.csv,Order,10358,shipPostalCode,postal_code,31000
+orders.csv,Order,10359,shipCountry,country,UK
+orders.csv,Order,10359,shipCity,city,London
+orders.csv,Order,10359,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10360,shipCountry,country,67000
+orders.csv,Order,10360,shipRegion,region,Strasbourg
+orders.csv,Order,10360,shipCity,city,place Kléber
+orders.csv,Order,10361,shipCountry,country,Germany
+orders.csv,Order,10361,shipCity,city,Cunewalde
+orders.csv,Order,10361,shipPostalCode,postal_code,01307
+orders.csv,Order,10362,shipCountry,country,13008
+orders.csv,Order,10362,shipRegion,region,Marseille
+orders.csv,Order,10362,shipCity,city,rue des Bouchers
+orders.csv,Order,10363,shipCountry,country,Germany
+orders.csv,Order,10363,shipCity,city,Aachen
+orders.csv,Order,10363,shipPostalCode,postal_code,52066
+orders.csv,Order,10364,shipCountry,country,UK
+orders.csv,Order,10364,shipCity,city,London
+orders.csv,Order,10364,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,10365,shipCountry,country,Mexico
+orders.csv,Order,10365,shipCity,city,México D.F.
+orders.csv,Order,10365,shipPostalCode,postal_code,05023
+orders.csv,Order,10366,shipCountry,country,8022
+orders.csv,Order,10366,shipRegion,region,Barcelona
+orders.csv,Order,10366,shipCity,city,23
+orders.csv,Order,10367,shipCountry,country,Denmark
+orders.csv,Order,10367,shipCity,city,Århus
+orders.csv,Order,10367,shipPostalCode,postal_code,8200
+orders.csv,Order,10368,shipCountry,country,Austria
+orders.csv,Order,10368,shipCity,city,Graz
+orders.csv,Order,10368,shipPostalCode,postal_code,8010
+orders.csv,Order,10369,shipCountry,country,USA
+orders.csv,Order,10369,shipRegion,region,WY
+orders.csv,Order,10369,shipCity,city,Lander
+orders.csv,Order,10369,shipPostalCode,postal_code,82520
+orders.csv,Order,10370,shipCountry,country,Switzerland
+orders.csv,Order,10370,shipCity,city,Bern
+orders.csv,Order,10370,shipPostalCode,postal_code,3012
+orders.csv,Order,10371,shipCountry,country,France
+orders.csv,Order,10371,shipCity,city,Toulouse
+orders.csv,Order,10371,shipPostalCode,postal_code,31000
+orders.csv,Order,10372,shipCountry,country,05487-020
+orders.csv,Order,10372,shipRegion,region,Sao Paulo
+orders.csv,Order,10372,shipCity,city,891
+orders.csv,Order,10372,shipPostalCode,postal_code,SP
+orders.csv,Order,10373,shipCountry,country,Ireland
+orders.csv,Order,10373,shipRegion,region,Co. Cork
+orders.csv,Order,10373,shipCity,city,Cork
+orders.csv,Order,10374,shipCountry,country,Poland
+orders.csv,Order,10374,shipCity,city,Warszawa
+orders.csv,Order,10374,shipPostalCode,postal_code,01-012
+orders.csv,Order,10375,shipCountry,country,USA
+orders.csv,Order,10375,shipRegion,region,OR
+orders.csv,Order,10375,shipCity,city,Elgin
+orders.csv,Order,10375,shipPostalCode,postal_code,97827
+orders.csv,Order,10376,shipCountry,country,Canada
+orders.csv,Order,10376,shipRegion,region,Québec
+orders.csv,Order,10376,shipCity,city,Montréal
+orders.csv,Order,10376,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10377,shipCountry,country,UK
+orders.csv,Order,10377,shipCity,city,London
+orders.csv,Order,10377,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10378,shipCountry,country,Sweden
+orders.csv,Order,10378,shipCity,city,Bräcke
+orders.csv,Order,10378,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10379,shipCountry,country,02389-673
+orders.csv,Order,10379,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10379,shipCity,city,12
+orders.csv,Order,10379,shipPostalCode,postal_code,RJ
+orders.csv,Order,10380,shipCountry,country,Ireland
+orders.csv,Order,10380,shipRegion,region,Co. Cork
+orders.csv,Order,10380,shipCity,city,Cork
+orders.csv,Order,10381,shipCountry,country,Venezuela
+orders.csv,Order,10381,shipRegion,region,Lara
+orders.csv,Order,10381,shipCity,city,Barquisimeto
+orders.csv,Order,10381,shipPostalCode,postal_code,3508
+orders.csv,Order,10382,shipCountry,country,Austria
+orders.csv,Order,10382,shipCity,city,Graz
+orders.csv,Order,10382,shipPostalCode,postal_code,8010
+orders.csv,Order,10383,shipCountry,country,UK
+orders.csv,Order,10383,shipRegion,region,Essex
+orders.csv,Order,10383,shipCity,city,Colchester
+orders.csv,Order,10383,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10384,shipCountry,country,Sweden
+orders.csv,Order,10384,shipCity,city,Luleå
+orders.csv,Order,10384,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10385,shipCountry,country,USA
+orders.csv,Order,10385,shipRegion,region,WY
+orders.csv,Order,10385,shipCity,city,Lander
+orders.csv,Order,10385,shipPostalCode,postal_code,82520
+orders.csv,Order,10386,shipCountry,country,05442-030
+orders.csv,Order,10386,shipRegion,region,Sao Paulo
+orders.csv,Order,10386,shipCity,city,92
+orders.csv,Order,10386,shipPostalCode,postal_code,SP
+orders.csv,Order,10387,shipCountry,country,Norway
+orders.csv,Order,10387,shipCity,city,Stavern
+orders.csv,Order,10387,shipPostalCode,postal_code,4110
+orders.csv,Order,10388,shipCountry,country,UK
+orders.csv,Order,10388,shipCity,city,London
+orders.csv,Order,10388,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10389,shipCountry,country,Canada
+orders.csv,Order,10389,shipRegion,region,BC
+orders.csv,Order,10389,shipCity,city,Tsawassen
+orders.csv,Order,10389,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10390,shipCountry,country,Austria
+orders.csv,Order,10390,shipCity,city,Graz
+orders.csv,Order,10390,shipPostalCode,postal_code,8010
+orders.csv,Order,10391,shipCountry,country,Germany
+orders.csv,Order,10391,shipCity,city,Aachen
+orders.csv,Order,10391,shipPostalCode,postal_code,52066
+orders.csv,Order,10392,shipCountry,country,Austria
+orders.csv,Order,10392,shipCity,city,Salzburg
+orders.csv,Order,10392,shipPostalCode,postal_code,5020
+orders.csv,Order,10393,shipCountry,country,USA
+orders.csv,Order,10393,shipRegion,region,ID
+orders.csv,Order,10393,shipCity,city,Boise
+orders.csv,Order,10393,shipPostalCode,postal_code,83720
+orders.csv,Order,10394,shipCountry,country,USA
+orders.csv,Order,10394,shipRegion,region,OR
+orders.csv,Order,10394,shipCity,city,Elgin
+orders.csv,Order,10394,shipPostalCode,postal_code,97827
+orders.csv,Order,10395,shipCountry,country,Venezuela
+orders.csv,Order,10395,shipRegion,region,Táchira
+orders.csv,Order,10395,shipCity,city,San Cristóbal
+orders.csv,Order,10395,shipPostalCode,postal_code,5022
+orders.csv,Order,10396,shipCountry,country,Germany
+orders.csv,Order,10396,shipCity,city,München
+orders.csv,Order,10396,shipPostalCode,postal_code,80805
+orders.csv,Order,10397,shipCountry,country,Portugal
+orders.csv,Order,10397,shipCity,city,Lisboa
+orders.csv,Order,10397,shipPostalCode,postal_code,1756
+orders.csv,Order,10398,shipCountry,country,USA
+orders.csv,Order,10398,shipRegion,region,ID
+orders.csv,Order,10398,shipCity,city,Boise
+orders.csv,Order,10398,shipPostalCode,postal_code,83720
+orders.csv,Order,10399,shipCountry,country,Denmark
+orders.csv,Order,10399,shipCity,city,Århus
+orders.csv,Order,10399,shipPostalCode,postal_code,8200
+orders.csv,Order,10400,shipCountry,country,UK
+orders.csv,Order,10400,shipCity,city,London
+orders.csv,Order,10400,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,10401,shipCountry,country,USA
+orders.csv,Order,10401,shipRegion,region,NM
+orders.csv,Order,10401,shipCity,city,Albuquerque
+orders.csv,Order,10401,shipPostalCode,postal_code,87110
+orders.csv,Order,10402,shipCountry,country,Austria
+orders.csv,Order,10402,shipCity,city,Graz
+orders.csv,Order,10402,shipPostalCode,postal_code,8010
+orders.csv,Order,10403,shipCountry,country,Austria
+orders.csv,Order,10403,shipCity,city,Graz
+orders.csv,Order,10403,shipPostalCode,postal_code,8010
+orders.csv,Order,10404,shipCountry,country,Italy
+orders.csv,Order,10404,shipCity,city,Bergamo
+orders.csv,Order,10404,shipPostalCode,postal_code,24100
+orders.csv,Order,10405,shipCountry,country,Venezuela
+orders.csv,Order,10405,shipRegion,region,Nueva Esparta
+orders.csv,Order,10405,shipCity,city,I. de Margarita
+orders.csv,Order,10405,shipPostalCode,postal_code,4980
+orders.csv,Order,10406,shipCountry,country,05487-020
+orders.csv,Order,10406,shipRegion,region,Sao Paulo
+orders.csv,Order,10406,shipCity,city,891
+orders.csv,Order,10406,shipPostalCode,postal_code,SP
+orders.csv,Order,10407,shipCountry,country,Germany
+orders.csv,Order,10407,shipCity,city,Köln
+orders.csv,Order,10407,shipPostalCode,postal_code,50739
+orders.csv,Order,10408,shipCountry,country,59000
+orders.csv,Order,10408,shipRegion,region,Lille
+orders.csv,Order,10408,shipCity,city,chaussée de Tournai
+orders.csv,Order,10409,shipCountry,country,Argentina
+orders.csv,Order,10409,shipCity,city,Buenos Aires
+orders.csv,Order,10409,shipPostalCode,postal_code,1010
+orders.csv,Order,10410,shipCountry,country,Canada
+orders.csv,Order,10410,shipRegion,region,BC
+orders.csv,Order,10410,shipCity,city,Tsawassen
+orders.csv,Order,10410,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10411,shipCountry,country,Canada
+orders.csv,Order,10411,shipRegion,region,BC
+orders.csv,Order,10411,shipCity,city,Tsawassen
+orders.csv,Order,10411,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10412,shipCountry,country,Finland
+orders.csv,Order,10412,shipCity,city,Oulu
+orders.csv,Order,10412,shipPostalCode,postal_code,90110
+orders.csv,Order,10413,shipCountry,country,France
+orders.csv,Order,10413,shipCity,city,Toulouse
+orders.csv,Order,10413,shipPostalCode,postal_code,31000
+orders.csv,Order,10414,shipCountry,country,05442-030
+orders.csv,Order,10414,shipRegion,region,Sao Paulo
+orders.csv,Order,10414,shipCity,city,92
+orders.csv,Order,10414,shipPostalCode,postal_code,SP
+orders.csv,Order,10415,shipCountry,country,USA
+orders.csv,Order,10415,shipRegion,region,OR
+orders.csv,Order,10415,shipCity,city,Elgin
+orders.csv,Order,10415,shipPostalCode,postal_code,97827
+orders.csv,Order,10416,shipCountry,country,Finland
+orders.csv,Order,10416,shipCity,city,Oulu
+orders.csv,Order,10416,shipPostalCode,postal_code,90110
+orders.csv,Order,10417,shipCountry,country,Denmark
+orders.csv,Order,10417,shipCity,city,Kobenhavn
+orders.csv,Order,10417,shipPostalCode,postal_code,1734
+orders.csv,Order,10418,shipCountry,country,Germany
+orders.csv,Order,10418,shipCity,city,Cunewalde
+orders.csv,Order,10418,shipPostalCode,postal_code,01307
+orders.csv,Order,10419,shipCountry,country,Switzerland
+orders.csv,Order,10419,shipCity,city,Genève
+orders.csv,Order,10419,shipPostalCode,postal_code,1204
+orders.csv,Order,10420,shipCountry,country,08737-363
+orders.csv,Order,10420,shipRegion,region,Resende
+orders.csv,Order,10420,shipCity,city,12
+orders.csv,Order,10420,shipPostalCode,postal_code,SP
+orders.csv,Order,10421,shipCountry,country,02389-673
+orders.csv,Order,10421,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10421,shipCity,city,12
+orders.csv,Order,10421,shipPostalCode,postal_code,RJ
+orders.csv,Order,10422,shipCountry,country,Italy
+orders.csv,Order,10422,shipCity,city,Torino
+orders.csv,Order,10422,shipPostalCode,postal_code,10100
+orders.csv,Order,10423,shipCountry,country,04876-786
+orders.csv,Order,10423,shipRegion,region,Campinas
+orders.csv,Order,10423,shipCity,city,442
+orders.csv,Order,10423,shipPostalCode,postal_code,SP
+orders.csv,Order,10424,shipCountry,country,Canada
+orders.csv,Order,10424,shipRegion,region,Québec
+orders.csv,Order,10424,shipCity,city,Montréal
+orders.csv,Order,10424,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10425,shipCountry,country,France
+orders.csv,Order,10425,shipCity,city,Toulouse
+orders.csv,Order,10425,shipPostalCode,postal_code,31000
+orders.csv,Order,10426,shipCountry,country,8022
+orders.csv,Order,10426,shipRegion,region,Barcelona
+orders.csv,Order,10426,shipCity,city,23
+orders.csv,Order,10427,shipCountry,country,Austria
+orders.csv,Order,10427,shipCity,city,Salzburg
+orders.csv,Order,10427,shipPostalCode,postal_code,5020
+orders.csv,Order,10428,shipCountry,country,Italy
+orders.csv,Order,10428,shipCity,city,Reggio Emilia
+orders.csv,Order,10428,shipPostalCode,postal_code,42100
+orders.csv,Order,10429,shipCountry,country,Ireland
+orders.csv,Order,10429,shipRegion,region,Co. Cork
+orders.csv,Order,10429,shipCity,city,Cork
+orders.csv,Order,10430,shipCountry,country,Austria
+orders.csv,Order,10430,shipCity,city,Graz
+orders.csv,Order,10430,shipPostalCode,postal_code,8010
+orders.csv,Order,10431,shipCountry,country,Canada
+orders.csv,Order,10431,shipRegion,region,BC
+orders.csv,Order,10431,shipCity,city,Tsawassen
+orders.csv,Order,10431,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10432,shipCountry,country,USA
+orders.csv,Order,10432,shipRegion,region,WY
+orders.csv,Order,10432,shipCity,city,Lander
+orders.csv,Order,10432,shipPostalCode,postal_code,82520
+orders.csv,Order,10433,shipCountry,country,Portugal
+orders.csv,Order,10433,shipCity,city,Lisboa
+orders.csv,Order,10433,shipPostalCode,postal_code,1756
+orders.csv,Order,10434,shipCountry,country,Sweden
+orders.csv,Order,10434,shipCity,city,Bräcke
+orders.csv,Order,10434,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10435,shipCountry,country,UK
+orders.csv,Order,10435,shipCity,city,London
+orders.csv,Order,10435,shipPostalCode,postal_code,WX1 6LT
+orders.csv,Order,10436,shipCountry,country,67000
+orders.csv,Order,10436,shipRegion,region,Strasbourg
+orders.csv,Order,10436,shipCity,city,place Kléber
+orders.csv,Order,10437,shipCountry,country,Finland
+orders.csv,Order,10437,shipCity,city,Oulu
+orders.csv,Order,10437,shipPostalCode,postal_code,90110
+orders.csv,Order,10438,shipCountry,country,Germany
+orders.csv,Order,10438,shipCity,city,Münster
+orders.csv,Order,10438,shipPostalCode,postal_code,44087
+orders.csv,Order,10439,shipCountry,country,Canada
+orders.csv,Order,10439,shipRegion,region,Québec
+orders.csv,Order,10439,shipCity,city,Montréal
+orders.csv,Order,10439,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10440,shipCountry,country,USA
+orders.csv,Order,10440,shipRegion,region,ID
+orders.csv,Order,10440,shipCity,city,Boise
+orders.csv,Order,10440,shipPostalCode,postal_code,83720
+orders.csv,Order,10441,shipCountry,country,USA
+orders.csv,Order,10441,shipRegion,region,AK
+orders.csv,Order,10441,shipCity,city,Anchorage
+orders.csv,Order,10441,shipPostalCode,postal_code,99508
+orders.csv,Order,10442,shipCountry,country,Austria
+orders.csv,Order,10442,shipCity,city,Graz
+orders.csv,Order,10442,shipPostalCode,postal_code,8010
+orders.csv,Order,10443,shipCountry,country,Italy
+orders.csv,Order,10443,shipCity,city,Reggio Emilia
+orders.csv,Order,10443,shipPostalCode,postal_code,42100
+orders.csv,Order,10444,shipCountry,country,Sweden
+orders.csv,Order,10444,shipCity,city,Luleå
+orders.csv,Order,10444,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10445,shipCountry,country,Sweden
+orders.csv,Order,10445,shipCity,city,Luleå
+orders.csv,Order,10445,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10446,shipCountry,country,Germany
+orders.csv,Order,10446,shipCity,city,Münster
+orders.csv,Order,10446,shipPostalCode,postal_code,44087
+orders.csv,Order,10447,shipCountry,country,02389-890
+orders.csv,Order,10447,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10447,shipCity,city,267
+orders.csv,Order,10447,shipPostalCode,postal_code,RJ
+orders.csv,Order,10448,shipCountry,country,Argentina
+orders.csv,Order,10448,shipCity,city,Buenos Aires
+orders.csv,Order,10448,shipPostalCode,postal_code,1010
+orders.csv,Order,10449,shipCountry,country,67000
+orders.csv,Order,10449,shipRegion,region,Strasbourg
+orders.csv,Order,10449,shipCity,city,place Kléber
+orders.csv,Order,10450,shipCountry,country,69004
+orders.csv,Order,10450,shipRegion,region,Lyon
+orders.csv,Order,10450,shipCity,city,rue du Commerce
+orders.csv,Order,10451,shipCountry,country,Germany
+orders.csv,Order,10451,shipCity,city,Cunewalde
+orders.csv,Order,10451,shipPostalCode,postal_code,01307
+orders.csv,Order,10452,shipCountry,country,USA
+orders.csv,Order,10452,shipRegion,region,ID
+orders.csv,Order,10452,shipCity,city,Boise
+orders.csv,Order,10452,shipPostalCode,postal_code,83720
+orders.csv,Order,10453,shipCountry,country,UK
+orders.csv,Order,10453,shipRegion,region,Essex
+orders.csv,Order,10453,shipCity,city,Colchester
+orders.csv,Order,10453,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10454,shipCountry,country,France
+orders.csv,Order,10454,shipCity,city,Toulouse
+orders.csv,Order,10454,shipPostalCode,postal_code,31000
+orders.csv,Order,10455,shipCountry,country,Finland
+orders.csv,Order,10455,shipCity,city,Oulu
+orders.csv,Order,10455,shipPostalCode,postal_code,90110
+orders.csv,Order,10456,shipCountry,country,Germany
+orders.csv,Order,10456,shipCity,city,Brandenburg
+orders.csv,Order,10456,shipPostalCode,postal_code,14776
+orders.csv,Order,10457,shipCountry,country,Germany
+orders.csv,Order,10457,shipCity,city,Brandenburg
+orders.csv,Order,10457,shipPostalCode,postal_code,14776
+orders.csv,Order,10458,shipCountry,country,B-6000
+orders.csv,Order,10458,shipRegion,region,Charleroi
+orders.csv,Order,10458,shipCity,city,255
+orders.csv,Order,10459,shipCountry,country,69004
+orders.csv,Order,10459,shipRegion,region,Lyon
+orders.csv,Order,10459,shipCity,city,rue du Commerce
+orders.csv,Order,10460,shipCountry,country,Sweden
+orders.csv,Order,10460,shipCity,city,Bräcke
+orders.csv,Order,10460,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10461,shipCountry,country,Venezuela
+orders.csv,Order,10461,shipRegion,region,Lara
+orders.csv,Order,10461,shipCity,city,Barquisimeto
+orders.csv,Order,10461,shipPostalCode,postal_code,3508
+orders.csv,Order,10462,shipCountry,country,UK
+orders.csv,Order,10462,shipCity,city,London
+orders.csv,Order,10462,shipPostalCode,postal_code,WX1 6LT
+orders.csv,Order,10463,shipCountry,country,B-6000
+orders.csv,Order,10463,shipRegion,region,Charleroi
+orders.csv,Order,10463,shipCity,city,255
+orders.csv,Order,10464,shipCountry,country,Portugal
+orders.csv,Order,10464,shipCity,city,Lisboa
+orders.csv,Order,10464,shipPostalCode,postal_code,1675
+orders.csv,Order,10465,shipCountry,country,Denmark
+orders.csv,Order,10465,shipCity,city,Århus
+orders.csv,Order,10465,shipPostalCode,postal_code,8200
+orders.csv,Order,10466,shipCountry,country,05432-043
+orders.csv,Order,10466,shipRegion,region,Sao Paulo
+orders.csv,Order,10466,shipCity,city,23
+orders.csv,Order,10466,shipPostalCode,postal_code,SP
+orders.csv,Order,10467,shipCountry,country,Italy
+orders.csv,Order,10467,shipCity,city,Bergamo
+orders.csv,Order,10467,shipPostalCode,postal_code,24100
+orders.csv,Order,10468,shipCountry,country,Germany
+orders.csv,Order,10468,shipCity,city,Brandenburg
+orders.csv,Order,10468,shipPostalCode,postal_code,14776
+orders.csv,Order,10469,shipCountry,country,USA
+orders.csv,Order,10469,shipRegion,region,WA
+orders.csv,Order,10469,shipCity,city,Seattle
+orders.csv,Order,10469,shipPostalCode,postal_code,98124
+orders.csv,Order,10470,shipCountry,country,13008
+orders.csv,Order,10470,shipRegion,region,Marseille
+orders.csv,Order,10470,shipCity,city,rue des Bouchers
+orders.csv,Order,10471,shipCountry,country,UK
+orders.csv,Order,10471,shipCity,city,London
+orders.csv,Order,10471,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10472,shipCountry,country,UK
+orders.csv,Order,10472,shipCity,city,London
+orders.csv,Order,10472,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10473,shipCountry,country,UK
+orders.csv,Order,10473,shipRegion,region,Isle of Wight
+orders.csv,Order,10473,shipCity,city,Cowes
+orders.csv,Order,10473,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10474,shipCountry,country,Mexico
+orders.csv,Order,10474,shipCity,city,México D.F.
+orders.csv,Order,10474,shipPostalCode,postal_code,05033
+orders.csv,Order,10475,shipCountry,country,B-6000
+orders.csv,Order,10475,shipRegion,region,Charleroi
+orders.csv,Order,10475,shipCity,city,255
+orders.csv,Order,10476,shipCountry,country,Venezuela
+orders.csv,Order,10476,shipRegion,region,Táchira
+orders.csv,Order,10476,shipCity,city,San Cristóbal
+orders.csv,Order,10476,shipPostalCode,postal_code,5022
+orders.csv,Order,10477,shipCountry,country,Portugal
+orders.csv,Order,10477,shipCity,city,Lisboa
+orders.csv,Order,10477,shipPostalCode,postal_code,1756
+orders.csv,Order,10478,shipCountry,country,69004
+orders.csv,Order,10478,shipRegion,region,Lyon
+orders.csv,Order,10478,shipCity,city,rue du Commerce
+orders.csv,Order,10479,shipCountry,country,USA
+orders.csv,Order,10479,shipRegion,region,NM
+orders.csv,Order,10479,shipCity,city,Albuquerque
+orders.csv,Order,10479,shipPostalCode,postal_code,87110
+orders.csv,Order,10480,shipCountry,country,59000
+orders.csv,Order,10480,shipRegion,region,Lille
+orders.csv,Order,10480,shipCity,city,chaussée de Tournai
+orders.csv,Order,10481,shipCountry,country,02389-890
+orders.csv,Order,10481,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10481,shipCity,city,267
+orders.csv,Order,10481,shipPostalCode,postal_code,RJ
+orders.csv,Order,10482,shipCountry,country,USA
+orders.csv,Order,10482,shipRegion,region,WA
+orders.csv,Order,10482,shipCity,city,Walla Walla
+orders.csv,Order,10482,shipPostalCode,postal_code,99362
+orders.csv,Order,10483,shipCountry,country,USA
+orders.csv,Order,10483,shipRegion,region,WA
+orders.csv,Order,10483,shipCity,city,Seattle
+orders.csv,Order,10483,shipPostalCode,postal_code,98124
+orders.csv,Order,10484,shipCountry,country,UK
+orders.csv,Order,10484,shipCity,city,London
+orders.csv,Order,10484,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10485,shipCountry,country,Venezuela
+orders.csv,Order,10485,shipRegion,region,Nueva Esparta
+orders.csv,Order,10485,shipCity,city,I. de Margarita
+orders.csv,Order,10485,shipPostalCode,postal_code,4980
+orders.csv,Order,10486,shipCountry,country,Venezuela
+orders.csv,Order,10486,shipRegion,region,Táchira
+orders.csv,Order,10486,shipCity,city,San Cristóbal
+orders.csv,Order,10486,shipPostalCode,postal_code,5022
+orders.csv,Order,10487,shipCountry,country,05487-020
+orders.csv,Order,10487,shipRegion,region,Sao Paulo
+orders.csv,Order,10487,shipCity,city,891
+orders.csv,Order,10487,shipPostalCode,postal_code,SP
+orders.csv,Order,10488,shipCountry,country,Germany
+orders.csv,Order,10488,shipCity,city,München
+orders.csv,Order,10488,shipPostalCode,postal_code,80805
+orders.csv,Order,10489,shipCountry,country,Austria
+orders.csv,Order,10489,shipCity,city,Salzburg
+orders.csv,Order,10489,shipPostalCode,postal_code,5020
+orders.csv,Order,10490,shipCountry,country,Venezuela
+orders.csv,Order,10490,shipRegion,region,Táchira
+orders.csv,Order,10490,shipCity,city,San Cristóbal
+orders.csv,Order,10490,shipPostalCode,postal_code,5022
+orders.csv,Order,10491,shipCountry,country,Portugal
+orders.csv,Order,10491,shipCity,city,Lisboa
+orders.csv,Order,10491,shipPostalCode,postal_code,1675
+orders.csv,Order,10492,shipCountry,country,Canada
+orders.csv,Order,10492,shipRegion,region,BC
+orders.csv,Order,10492,shipCity,city,Tsawassen
+orders.csv,Order,10492,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10493,shipCountry,country,France
+orders.csv,Order,10493,shipCity,city,Toulouse
+orders.csv,Order,10493,shipPostalCode,postal_code,31000
+orders.csv,Order,10494,shipCountry,country,05432-043
+orders.csv,Order,10494,shipRegion,region,Sao Paulo
+orders.csv,Order,10494,shipCity,city,23
+orders.csv,Order,10494,shipPostalCode,postal_code,SP
+orders.csv,Order,10495,shipCountry,country,Canada
+orders.csv,Order,10495,shipRegion,region,BC
+orders.csv,Order,10495,shipCity,city,Vancouver
+orders.csv,Order,10495,shipPostalCode,postal_code,V3F 2K1
+orders.csv,Order,10496,shipCountry,country,05634-030
+orders.csv,Order,10496,shipRegion,region,Sao Paulo
+orders.csv,Order,10496,shipCity,city,414
+orders.csv,Order,10496,shipPostalCode,postal_code,SP
+orders.csv,Order,10497,shipCountry,country,Germany
+orders.csv,Order,10497,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10497,shipPostalCode,postal_code,60528
+orders.csv,Order,10498,shipCountry,country,Venezuela
+orders.csv,Order,10498,shipRegion,region,Táchira
+orders.csv,Order,10498,shipCity,city,San Cristóbal
+orders.csv,Order,10498,shipPostalCode,postal_code,5022
+orders.csv,Order,10499,shipCountry,country,Venezuela
+orders.csv,Order,10499,shipRegion,region,Lara
+orders.csv,Order,10499,shipCity,city,Barquisimeto
+orders.csv,Order,10499,shipPostalCode,postal_code,3508
+orders.csv,Order,10500,shipCountry,country,France
+orders.csv,Order,10500,shipCity,city,Toulouse
+orders.csv,Order,10500,shipPostalCode,postal_code,31000
+orders.csv,Order,10501,shipCountry,country,Germany
+orders.csv,Order,10501,shipCity,city,Mannheim
+orders.csv,Order,10501,shipPostalCode,postal_code,68306
+orders.csv,Order,10502,shipCountry,country,Mexico
+orders.csv,Order,10502,shipCity,city,México D.F.
+orders.csv,Order,10502,shipPostalCode,postal_code,05033
+orders.csv,Order,10503,shipCountry,country,Ireland
+orders.csv,Order,10503,shipRegion,region,Co. Cork
+orders.csv,Order,10503,shipCity,city,Cork
+orders.csv,Order,10504,shipCountry,country,USA
+orders.csv,Order,10504,shipRegion,region,WA
+orders.csv,Order,10504,shipCity,city,Seattle
+orders.csv,Order,10504,shipPostalCode,postal_code,98124
+orders.csv,Order,10505,shipCountry,country,Canada
+orders.csv,Order,10505,shipRegion,region,Québec
+orders.csv,Order,10505,shipCity,city,Montréal
+orders.csv,Order,10505,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10506,shipCountry,country,Germany
+orders.csv,Order,10506,shipCity,city,Brandenburg
+orders.csv,Order,10506,shipPostalCode,postal_code,14776
+orders.csv,Order,10507,shipCountry,country,Mexico
+orders.csv,Order,10507,shipCity,city,México D.F.
+orders.csv,Order,10507,shipPostalCode,postal_code,05023
+orders.csv,Order,10508,shipCountry,country,Germany
+orders.csv,Order,10508,shipCity,city,Köln
+orders.csv,Order,10508,shipPostalCode,postal_code,50739
+orders.csv,Order,10509,shipCountry,country,Germany
+orders.csv,Order,10509,shipCity,city,Mannheim
+orders.csv,Order,10509,shipPostalCode,postal_code,68306
+orders.csv,Order,10510,shipCountry,country,USA
+orders.csv,Order,10510,shipRegion,region,ID
+orders.csv,Order,10510,shipCity,city,Boise
+orders.csv,Order,10510,shipPostalCode,postal_code,83720
+orders.csv,Order,10511,shipCountry,country,13008
+orders.csv,Order,10511,shipRegion,region,Marseille
+orders.csv,Order,10511,shipCity,city,rue des Bouchers
+orders.csv,Order,10512,shipCountry,country,05442-030
+orders.csv,Order,10512,shipRegion,region,Sao Paulo
+orders.csv,Order,10512,shipCity,city,92
+orders.csv,Order,10512,shipPostalCode,postal_code,SP
+orders.csv,Order,10513,shipCountry,country,Germany
+orders.csv,Order,10513,shipCity,city,Stuttgart
+orders.csv,Order,10513,shipPostalCode,postal_code,70563
+orders.csv,Order,10514,shipCountry,country,Austria
+orders.csv,Order,10514,shipCity,city,Graz
+orders.csv,Order,10514,shipPostalCode,postal_code,8010
+orders.csv,Order,10515,shipCountry,country,Germany
+orders.csv,Order,10515,shipCity,city,Cunewalde
+orders.csv,Order,10515,shipPostalCode,postal_code,01307
+orders.csv,Order,10516,shipCountry,country,Ireland
+orders.csv,Order,10516,shipRegion,region,Co. Cork
+orders.csv,Order,10516,shipCity,city,Cork
+orders.csv,Order,10517,shipCountry,country,UK
+orders.csv,Order,10517,shipCity,city,London
+orders.csv,Order,10517,shipPostalCode,postal_code,SW7 1RZ
+orders.csv,Order,10518,shipCountry,country,Mexico
+orders.csv,Order,10518,shipCity,city,México D.F.
+orders.csv,Order,10518,shipPostalCode,postal_code,05033
+orders.csv,Order,10519,shipCountry,country,Switzerland
+orders.csv,Order,10519,shipCity,city,Bern
+orders.csv,Order,10519,shipPostalCode,postal_code,3012
+orders.csv,Order,10520,shipCountry,country,Norway
+orders.csv,Order,10520,shipCity,city,Stavern
+orders.csv,Order,10520,shipPostalCode,postal_code,4110
+orders.csv,Order,10521,shipCountry,country,Argentina
+orders.csv,Order,10521,shipCity,city,Buenos Aires
+orders.csv,Order,10521,shipPostalCode,postal_code,1010
+orders.csv,Order,10522,shipCountry,country,Germany
+orders.csv,Order,10522,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10522,shipPostalCode,postal_code,60528
+orders.csv,Order,10523,shipCountry,country,UK
+orders.csv,Order,10523,shipCity,city,London
+orders.csv,Order,10523,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10524,shipCountry,country,Sweden
+orders.csv,Order,10524,shipCity,city,Luleå
+orders.csv,Order,10524,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10525,shipCountry,country,13008
+orders.csv,Order,10525,shipRegion,region,Marseille
+orders.csv,Order,10525,shipCity,city,rue des Bouchers
+orders.csv,Order,10526,shipCountry,country,Finland
+orders.csv,Order,10526,shipCity,city,Oulu
+orders.csv,Order,10526,shipPostalCode,postal_code,90110
+orders.csv,Order,10527,shipCountry,country,Germany
+orders.csv,Order,10527,shipCity,city,Cunewalde
+orders.csv,Order,10527,shipPostalCode,postal_code,01307
+orders.csv,Order,10528,shipCountry,country,USA
+orders.csv,Order,10528,shipRegion,region,OR
+orders.csv,Order,10528,shipCity,city,Eugene
+orders.csv,Order,10528,shipPostalCode,postal_code,97403
+orders.csv,Order,10529,shipCountry,country,Belgium
+orders.csv,Order,10529,shipCity,city,Bruxelles
+orders.csv,Order,10529,shipPostalCode,postal_code,B-1180
+orders.csv,Order,10530,shipCountry,country,Austria
+orders.csv,Order,10530,shipCity,city,Salzburg
+orders.csv,Order,10530,shipPostalCode,postal_code,5020
+orders.csv,Order,10531,shipCountry,country,Argentina
+orders.csv,Order,10531,shipCity,city,Buenos Aires
+orders.csv,Order,10531,shipPostalCode,postal_code,1010
+orders.csv,Order,10532,shipCountry,country,UK
+orders.csv,Order,10532,shipCity,city,London
+orders.csv,Order,10532,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,10533,shipCountry,country,Sweden
+orders.csv,Order,10533,shipCity,city,Bräcke
+orders.csv,Order,10533,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10534,shipCountry,country,Germany
+orders.csv,Order,10534,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10534,shipPostalCode,postal_code,60528
+orders.csv,Order,10535,shipCountry,country,Mexico
+orders.csv,Order,10535,shipCity,city,México D.F.
+orders.csv,Order,10535,shipPostalCode,postal_code,05023
+orders.csv,Order,10536,shipCountry,country,Germany
+orders.csv,Order,10536,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10536,shipPostalCode,postal_code,60528
+orders.csv,Order,10537,shipCountry,country,Switzerland
+orders.csv,Order,10537,shipCity,city,Genève
+orders.csv,Order,10537,shipPostalCode,postal_code,1204
+orders.csv,Order,10538,shipCountry,country,UK
+orders.csv,Order,10538,shipCity,city,London
+orders.csv,Order,10538,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10539,shipCountry,country,UK
+orders.csv,Order,10539,shipCity,city,London
+orders.csv,Order,10539,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10540,shipCountry,country,Germany
+orders.csv,Order,10540,shipCity,city,Cunewalde
+orders.csv,Order,10540,shipPostalCode,postal_code,01307
+orders.csv,Order,10541,shipCountry,country,05454-876
+orders.csv,Order,10541,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10541,shipCity,city,67
+orders.csv,Order,10541,shipPostalCode,postal_code,RJ
+orders.csv,Order,10542,shipCountry,country,Germany
+orders.csv,Order,10542,shipCity,city,Brandenburg
+orders.csv,Order,10542,shipPostalCode,postal_code,14776
+orders.csv,Order,10543,shipCountry,country,Venezuela
+orders.csv,Order,10543,shipRegion,region,Lara
+orders.csv,Order,10543,shipCity,city,Barquisimeto
+orders.csv,Order,10543,shipPostalCode,postal_code,3508
+orders.csv,Order,10544,shipCountry,country,USA
+orders.csv,Order,10544,shipRegion,region,OR
+orders.csv,Order,10544,shipCity,city,Portland
+orders.csv,Order,10544,shipPostalCode,postal_code,97219
+orders.csv,Order,10545,shipCountry,country,USA
+orders.csv,Order,10545,shipRegion,region,WA
+orders.csv,Order,10545,shipCity,city,Walla Walla
+orders.csv,Order,10545,shipPostalCode,postal_code,99362
+orders.csv,Order,10546,shipCountry,country,69004
+orders.csv,Order,10546,shipRegion,region,Lyon
+orders.csv,Order,10546,shipCity,city,rue du Commerce
+orders.csv,Order,10547,shipCountry,country,UK
+orders.csv,Order,10547,shipCity,city,London
+orders.csv,Order,10547,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10548,shipCountry,country,Germany
+orders.csv,Order,10548,shipCity,city,Münster
+orders.csv,Order,10548,shipPostalCode,postal_code,44087
+orders.csv,Order,10549,shipCountry,country,Germany
+orders.csv,Order,10549,shipCity,city,Cunewalde
+orders.csv,Order,10549,shipPostalCode,postal_code,01307
+orders.csv,Order,10550,shipCountry,country,41101
+orders.csv,Order,10550,shipRegion,region,Sevilla
+orders.csv,Order,10550,shipCity,city,33
+orders.csv,Order,10551,shipCountry,country,Portugal
+orders.csv,Order,10551,shipCity,city,Lisboa
+orders.csv,Order,10551,shipPostalCode,postal_code,1675
+orders.csv,Order,10552,shipCountry,country,Venezuela
+orders.csv,Order,10552,shipRegion,region,Táchira
+orders.csv,Order,10552,shipCity,city,San Cristóbal
+orders.csv,Order,10552,shipPostalCode,postal_code,5022
+orders.csv,Order,10553,shipCountry,country,Finland
+orders.csv,Order,10553,shipCity,city,Oulu
+orders.csv,Order,10553,shipPostalCode,postal_code,90110
+orders.csv,Order,10554,shipCountry,country,Germany
+orders.csv,Order,10554,shipCity,city,Köln
+orders.csv,Order,10554,shipPostalCode,postal_code,50739
+orders.csv,Order,10555,shipCountry,country,USA
+orders.csv,Order,10555,shipRegion,region,ID
+orders.csv,Order,10555,shipCity,city,Boise
+orders.csv,Order,10555,shipPostalCode,postal_code,83720
+orders.csv,Order,10556,shipCountry,country,Denmark
+orders.csv,Order,10556,shipCity,city,Kobenhavn
+orders.csv,Order,10556,shipPostalCode,postal_code,1734
+orders.csv,Order,10557,shipCountry,country,Germany
+orders.csv,Order,10557,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10557,shipPostalCode,postal_code,60528
+orders.csv,Order,10558,shipCountry,country,UK
+orders.csv,Order,10558,shipRegion,region,Essex
+orders.csv,Order,10558,shipCity,city,Colchester
+orders.csv,Order,10558,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10559,shipCountry,country,67000
+orders.csv,Order,10559,shipRegion,region,Strasbourg
+orders.csv,Order,10559,shipCity,city,place Kléber
+orders.csv,Order,10560,shipCountry,country,Germany
+orders.csv,Order,10560,shipCity,city,München
+orders.csv,Order,10560,shipPostalCode,postal_code,80805
+orders.csv,Order,10561,shipCountry,country,Sweden
+orders.csv,Order,10561,shipCity,city,Bräcke
+orders.csv,Order,10561,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10562,shipCountry,country,Italy
+orders.csv,Order,10562,shipCity,city,Reggio Emilia
+orders.csv,Order,10562,shipPostalCode,postal_code,42100
+orders.csv,Order,10563,shipCountry,country,02389-890
+orders.csv,Order,10563,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10563,shipCity,city,267
+orders.csv,Order,10563,shipPostalCode,postal_code,RJ
+orders.csv,Order,10564,shipCountry,country,USA
+orders.csv,Order,10564,shipRegion,region,NM
+orders.csv,Order,10564,shipCity,city,Albuquerque
+orders.csv,Order,10564,shipPostalCode,postal_code,87110
+orders.csv,Order,10565,shipCountry,country,Canada
+orders.csv,Order,10565,shipRegion,region,Québec
+orders.csv,Order,10565,shipCity,city,Montréal
+orders.csv,Order,10565,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10566,shipCountry,country,67000
+orders.csv,Order,10566,shipRegion,region,Strasbourg
+orders.csv,Order,10566,shipCity,city,place Kléber
+orders.csv,Order,10567,shipCountry,country,Ireland
+orders.csv,Order,10567,shipRegion,region,Co. Cork
+orders.csv,Order,10567,shipCity,city,Cork
+orders.csv,Order,10568,shipCountry,country,8022
+orders.csv,Order,10568,shipRegion,region,Barcelona
+orders.csv,Order,10568,shipCity,city,23
+orders.csv,Order,10569,shipCountry,country,USA
+orders.csv,Order,10569,shipRegion,region,NM
+orders.csv,Order,10569,shipCity,city,Albuquerque
+orders.csv,Order,10569,shipPostalCode,postal_code,87110
+orders.csv,Order,10570,shipCountry,country,Canada
+orders.csv,Order,10570,shipRegion,region,Québec
+orders.csv,Order,10570,shipCity,city,Montréal
+orders.csv,Order,10570,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10571,shipCountry,country,Austria
+orders.csv,Order,10571,shipCity,city,Graz
+orders.csv,Order,10571,shipPostalCode,postal_code,8010
+orders.csv,Order,10572,shipCountry,country,Sweden
+orders.csv,Order,10572,shipCity,city,Luleå
+orders.csv,Order,10572,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10573,shipCountry,country,Mexico
+orders.csv,Order,10573,shipCity,city,México D.F.
+orders.csv,Order,10573,shipPostalCode,postal_code,05023
+orders.csv,Order,10574,shipCountry,country,USA
+orders.csv,Order,10574,shipRegion,region,WA
+orders.csv,Order,10574,shipCity,city,Kirkland
+orders.csv,Order,10574,shipPostalCode,postal_code,98034
+orders.csv,Order,10575,shipCountry,country,Germany
+orders.csv,Order,10575,shipCity,city,Leipzig
+orders.csv,Order,10575,shipPostalCode,postal_code,04179
+orders.csv,Order,10576,shipCountry,country,Mexico
+orders.csv,Order,10576,shipCity,city,México D.F.
+orders.csv,Order,10576,shipPostalCode,postal_code,05033
+orders.csv,Order,10577,shipCountry,country,USA
+orders.csv,Order,10577,shipRegion,region,WA
+orders.csv,Order,10577,shipCity,city,Kirkland
+orders.csv,Order,10577,shipPostalCode,postal_code,98034
+orders.csv,Order,10578,shipCountry,country,UK
+orders.csv,Order,10578,shipCity,city,London
+orders.csv,Order,10578,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10579,shipCountry,country,USA
+orders.csv,Order,10579,shipRegion,region,CA
+orders.csv,Order,10579,shipCity,city,San Francisco
+orders.csv,Order,10579,shipPostalCode,postal_code,94117
+orders.csv,Order,10580,shipCountry,country,Germany
+orders.csv,Order,10580,shipCity,city,Köln
+orders.csv,Order,10580,shipPostalCode,postal_code,50739
+orders.csv,Order,10581,shipCountry,country,05442-030
+orders.csv,Order,10581,shipRegion,region,Sao Paulo
+orders.csv,Order,10581,shipCity,city,92
+orders.csv,Order,10581,shipPostalCode,postal_code,SP
+orders.csv,Order,10582,shipCountry,country,Germany
+orders.csv,Order,10582,shipCity,city,Mannheim
+orders.csv,Order,10582,shipPostalCode,postal_code,68306
+orders.csv,Order,10583,shipCountry,country,Finland
+orders.csv,Order,10583,shipCity,city,Oulu
+orders.csv,Order,10583,shipPostalCode,postal_code,90110
+orders.csv,Order,10584,shipCountry,country,67000
+orders.csv,Order,10584,shipRegion,region,Strasbourg
+orders.csv,Order,10584,shipCity,city,place Kléber
+orders.csv,Order,10585,shipCountry,country,08737-363
+orders.csv,Order,10585,shipRegion,region,Resende
+orders.csv,Order,10585,shipCity,city,12
+orders.csv,Order,10585,shipPostalCode,postal_code,SP
+orders.csv,Order,10586,shipCountry,country,Italy
+orders.csv,Order,10586,shipCity,city,Reggio Emilia
+orders.csv,Order,10586,shipPostalCode,postal_code,42100
+orders.csv,Order,10587,shipCountry,country,02389-673
+orders.csv,Order,10587,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10587,shipCity,city,12
+orders.csv,Order,10587,shipPostalCode,postal_code,RJ
+orders.csv,Order,10588,shipCountry,country,Germany
+orders.csv,Order,10588,shipCity,city,Cunewalde
+orders.csv,Order,10588,shipPostalCode,postal_code,01307
+orders.csv,Order,10589,shipCountry,country,USA
+orders.csv,Order,10589,shipRegion,region,OR
+orders.csv,Order,10589,shipCity,city,Eugene
+orders.csv,Order,10589,shipPostalCode,postal_code,97403
+orders.csv,Order,10590,shipCountry,country,Canada
+orders.csv,Order,10590,shipRegion,region,Québec
+orders.csv,Order,10590,shipCity,city,Montréal
+orders.csv,Order,10590,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10591,shipCountry,country,Denmark
+orders.csv,Order,10591,shipCity,city,Århus
+orders.csv,Order,10591,shipPostalCode,postal_code,8200
+orders.csv,Order,10592,shipCountry,country,Germany
+orders.csv,Order,10592,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10592,shipPostalCode,postal_code,60528
+orders.csv,Order,10593,shipCountry,country,Germany
+orders.csv,Order,10593,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10593,shipPostalCode,postal_code,60528
+orders.csv,Order,10594,shipCountry,country,USA
+orders.csv,Order,10594,shipRegion,region,AK
+orders.csv,Order,10594,shipCity,city,Anchorage
+orders.csv,Order,10594,shipPostalCode,postal_code,99508
+orders.csv,Order,10595,shipCountry,country,Austria
+orders.csv,Order,10595,shipCity,city,Graz
+orders.csv,Order,10595,shipPostalCode,postal_code,8010
+orders.csv,Order,10596,shipCountry,country,USA
+orders.csv,Order,10596,shipRegion,region,WA
+orders.csv,Order,10596,shipCity,city,Seattle
+orders.csv,Order,10596,shipPostalCode,postal_code,98124
+orders.csv,Order,10597,shipCountry,country,Austria
+orders.csv,Order,10597,shipCity,city,Salzburg
+orders.csv,Order,10597,shipPostalCode,postal_code,5020
+orders.csv,Order,10598,shipCountry,country,USA
+orders.csv,Order,10598,shipRegion,region,NM
+orders.csv,Order,10598,shipCity,city,Albuquerque
+orders.csv,Order,10598,shipPostalCode,postal_code,87110
+orders.csv,Order,10599,shipCountry,country,UK
+orders.csv,Order,10599,shipCity,city,London
+orders.csv,Order,10599,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10600,shipCountry,country,USA
+orders.csv,Order,10600,shipRegion,region,OR
+orders.csv,Order,10600,shipCity,city,Elgin
+orders.csv,Order,10600,shipPostalCode,postal_code,97827
+orders.csv,Order,10601,shipCountry,country,Venezuela
+orders.csv,Order,10601,shipRegion,region,Táchira
+orders.csv,Order,10601,shipCity,city,San Cristóbal
+orders.csv,Order,10601,shipPostalCode,postal_code,5022
+orders.csv,Order,10602,shipCountry,country,Denmark
+orders.csv,Order,10602,shipCity,city,Århus
+orders.csv,Order,10602,shipPostalCode,postal_code,8200
+orders.csv,Order,10603,shipCountry,country,USA
+orders.csv,Order,10603,shipRegion,region,ID
+orders.csv,Order,10603,shipCity,city,Boise
+orders.csv,Order,10603,shipPostalCode,postal_code,83720
+orders.csv,Order,10604,shipCountry,country,Portugal
+orders.csv,Order,10604,shipCity,city,Lisboa
+orders.csv,Order,10604,shipPostalCode,postal_code,1675
+orders.csv,Order,10605,shipCountry,country,Canada
+orders.csv,Order,10605,shipRegion,region,Québec
+orders.csv,Order,10605,shipCity,city,Montréal
+orders.csv,Order,10605,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10606,shipCountry,country,05634-030
+orders.csv,Order,10606,shipRegion,region,Sao Paulo
+orders.csv,Order,10606,shipCity,city,414
+orders.csv,Order,10606,shipPostalCode,postal_code,SP
+orders.csv,Order,10607,shipCountry,country,USA
+orders.csv,Order,10607,shipRegion,region,ID
+orders.csv,Order,10607,shipCity,city,Boise
+orders.csv,Order,10607,shipPostalCode,postal_code,83720
+orders.csv,Order,10608,shipCountry,country,Germany
+orders.csv,Order,10608,shipCity,city,Münster
+orders.csv,Order,10608,shipPostalCode,postal_code,44087
+orders.csv,Order,10609,shipCountry,country,44000
+orders.csv,Order,10609,shipRegion,region,Nantes
+orders.csv,Order,10609,shipCity,city,rue des Cinquante Otages
+orders.csv,Order,10610,shipCountry,country,France
+orders.csv,Order,10610,shipCity,city,Toulouse
+orders.csv,Order,10610,shipPostalCode,postal_code,31000
+orders.csv,Order,10611,shipCountry,country,Poland
+orders.csv,Order,10611,shipCity,city,Warszawa
+orders.csv,Order,10611,shipPostalCode,postal_code,01-012
+orders.csv,Order,10612,shipCountry,country,USA
+orders.csv,Order,10612,shipRegion,region,ID
+orders.csv,Order,10612,shipCity,city,Boise
+orders.csv,Order,10612,shipPostalCode,postal_code,83720
+orders.csv,Order,10613,shipCountry,country,Venezuela
+orders.csv,Order,10613,shipRegion,region,Táchira
+orders.csv,Order,10613,shipCity,city,San Cristóbal
+orders.csv,Order,10613,shipPostalCode,postal_code,5022
+orders.csv,Order,10614,shipCountry,country,Germany
+orders.csv,Order,10614,shipCity,city,Mannheim
+orders.csv,Order,10614,shipPostalCode,postal_code,68306
+orders.csv,Order,10615,shipCountry,country,Finland
+orders.csv,Order,10615,shipCity,city,Helsinki
+orders.csv,Order,10615,shipPostalCode,postal_code,21240
+orders.csv,Order,10616,shipCountry,country,USA
+orders.csv,Order,10616,shipRegion,region,OR
+orders.csv,Order,10616,shipCity,city,Eugene
+orders.csv,Order,10616,shipPostalCode,postal_code,97403
+orders.csv,Order,10617,shipCountry,country,USA
+orders.csv,Order,10617,shipRegion,region,OR
+orders.csv,Order,10617,shipCity,city,Eugene
+orders.csv,Order,10617,shipPostalCode,postal_code,97403
+orders.csv,Order,10618,shipCountry,country,Canada
+orders.csv,Order,10618,shipRegion,region,Québec
+orders.csv,Order,10618,shipCity,city,Montréal
+orders.csv,Order,10618,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10619,shipCountry,country,Canada
+orders.csv,Order,10619,shipRegion,region,Québec
+orders.csv,Order,10619,shipCity,city,Montréal
+orders.csv,Order,10619,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10620,shipCountry,country,Canada
+orders.csv,Order,10620,shipRegion,region,BC
+orders.csv,Order,10620,shipCity,city,Vancouver
+orders.csv,Order,10620,shipPostalCode,postal_code,V3F 2K1
+orders.csv,Order,10621,shipCountry,country,UK
+orders.csv,Order,10621,shipRegion,region,Isle of Wight
+orders.csv,Order,10621,shipCity,city,Cowes
+orders.csv,Order,10621,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10622,shipCountry,country,02389-890
+orders.csv,Order,10622,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10622,shipCity,city,267
+orders.csv,Order,10622,shipPostalCode,postal_code,RJ
+orders.csv,Order,10623,shipCountry,country,Germany
+orders.csv,Order,10623,shipCity,city,München
+orders.csv,Order,10623,shipPostalCode,postal_code,80805
+orders.csv,Order,10624,shipCountry,country,USA
+orders.csv,Order,10624,shipRegion,region,MT
+orders.csv,Order,10624,shipCity,city,Butte
+orders.csv,Order,10624,shipPostalCode,postal_code,59801
+orders.csv,Order,10625,shipCountry,country,Mexico
+orders.csv,Order,10625,shipCity,city,México D.F.
+orders.csv,Order,10625,shipPostalCode,postal_code,05021
+orders.csv,Order,10626,shipCountry,country,Sweden
+orders.csv,Order,10626,shipCity,city,Luleå
+orders.csv,Order,10626,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10627,shipCountry,country,USA
+orders.csv,Order,10627,shipRegion,region,ID
+orders.csv,Order,10627,shipCity,city,Boise
+orders.csv,Order,10627,shipPostalCode,postal_code,83720
+orders.csv,Order,10628,shipCountry,country,67000
+orders.csv,Order,10628,shipRegion,region,Strasbourg
+orders.csv,Order,10628,shipCity,city,place Kléber
+orders.csv,Order,10629,shipCountry,country,41101
+orders.csv,Order,10629,shipRegion,region,Sevilla
+orders.csv,Order,10629,shipCity,city,33
+orders.csv,Order,10630,shipCountry,country,Germany
+orders.csv,Order,10630,shipCity,city,Brandenburg
+orders.csv,Order,10630,shipPostalCode,postal_code,14776
+orders.csv,Order,10631,shipCountry,country,France
+orders.csv,Order,10631,shipCity,city,Toulouse
+orders.csv,Order,10631,shipPostalCode,postal_code,31000
+orders.csv,Order,10632,shipCountry,country,Germany
+orders.csv,Order,10632,shipCity,city,Stuttgart
+orders.csv,Order,10632,shipPostalCode,postal_code,70563
+orders.csv,Order,10633,shipCountry,country,Austria
+orders.csv,Order,10633,shipCity,city,Graz
+orders.csv,Order,10633,shipPostalCode,postal_code,8010
+orders.csv,Order,10634,shipCountry,country,59000
+orders.csv,Order,10634,shipRegion,region,Lille
+orders.csv,Order,10634,shipCity,city,chaussée de Tournai
+orders.csv,Order,10635,shipCountry,country,Italy
+orders.csv,Order,10635,shipCity,city,Bergamo
+orders.csv,Order,10635,shipPostalCode,postal_code,24100
+orders.csv,Order,10636,shipCountry,country,Finland
+orders.csv,Order,10636,shipCity,city,Oulu
+orders.csv,Order,10636,shipPostalCode,postal_code,90110
+orders.csv,Order,10637,shipCountry,country,05487-020
+orders.csv,Order,10637,shipRegion,region,Sao Paulo
+orders.csv,Order,10637,shipCity,city,891
+orders.csv,Order,10637,shipPostalCode,postal_code,SP
+orders.csv,Order,10638,shipCountry,country,Venezuela
+orders.csv,Order,10638,shipRegion,region,Nueva Esparta
+orders.csv,Order,10638,shipCity,city,I. de Margarita
+orders.csv,Order,10638,shipPostalCode,postal_code,4980
+orders.csv,Order,10639,shipCountry,country,Norway
+orders.csv,Order,10639,shipCity,city,Stavern
+orders.csv,Order,10639,shipPostalCode,postal_code,4110
+orders.csv,Order,10640,shipCountry,country,Germany
+orders.csv,Order,10640,shipCity,city,Stuttgart
+orders.csv,Order,10640,shipPostalCode,postal_code,70563
+orders.csv,Order,10641,shipCountry,country,Venezuela
+orders.csv,Order,10641,shipRegion,region,Táchira
+orders.csv,Order,10641,shipCity,city,San Cristóbal
+orders.csv,Order,10641,shipPostalCode,postal_code,5022
+orders.csv,Order,10642,shipCountry,country,Denmark
+orders.csv,Order,10642,shipCity,city,Kobenhavn
+orders.csv,Order,10642,shipPostalCode,postal_code,1734
+orders.csv,Order,10643,shipCountry,country,Germany
+orders.csv,Order,10643,shipCity,city,Berlin
+orders.csv,Order,10643,shipPostalCode,postal_code,12209
+orders.csv,Order,10644,shipCountry,country,08737-363
+orders.csv,Order,10644,shipRegion,region,Resende
+orders.csv,Order,10644,shipCity,city,12
+orders.csv,Order,10644,shipPostalCode,postal_code,SP
+orders.csv,Order,10645,shipCountry,country,05454-876
+orders.csv,Order,10645,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10645,shipCity,city,67
+orders.csv,Order,10645,shipPostalCode,postal_code,RJ
+orders.csv,Order,10646,shipCountry,country,Ireland
+orders.csv,Order,10646,shipRegion,region,Co. Cork
+orders.csv,Order,10646,shipCity,city,Cork
+orders.csv,Order,10647,shipCountry,country,02389-673
+orders.csv,Order,10647,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10647,shipCity,city,12
+orders.csv,Order,10647,shipPostalCode,postal_code,RJ
+orders.csv,Order,10648,shipCountry,country,02389-890
+orders.csv,Order,10648,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10648,shipCity,city,267
+orders.csv,Order,10648,shipPostalCode,postal_code,RJ
+orders.csv,Order,10649,shipCountry,country,Belgium
+orders.csv,Order,10649,shipCity,city,Bruxelles
+orders.csv,Order,10649,shipPostalCode,postal_code,B-1180
+orders.csv,Order,10650,shipCountry,country,05442-030
+orders.csv,Order,10650,shipRegion,region,Sao Paulo
+orders.csv,Order,10650,shipCity,city,92
+orders.csv,Order,10650,shipPostalCode,postal_code,SP
+orders.csv,Order,10651,shipCountry,country,Germany
+orders.csv,Order,10651,shipCity,city,Stuttgart
+orders.csv,Order,10651,shipPostalCode,postal_code,70563
+orders.csv,Order,10652,shipCountry,country,04876-786
+orders.csv,Order,10652,shipRegion,region,Campinas
+orders.csv,Order,10652,shipCity,city,442
+orders.csv,Order,10652,shipPostalCode,postal_code,SP
+orders.csv,Order,10653,shipCountry,country,Germany
+orders.csv,Order,10653,shipCity,city,München
+orders.csv,Order,10653,shipPostalCode,postal_code,80805
+orders.csv,Order,10654,shipCountry,country,Sweden
+orders.csv,Order,10654,shipCity,city,Luleå
+orders.csv,Order,10654,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10655,shipCountry,country,Italy
+orders.csv,Order,10655,shipCity,city,Reggio Emilia
+orders.csv,Order,10655,shipPostalCode,postal_code,42100
+orders.csv,Order,10656,shipCountry,country,USA
+orders.csv,Order,10656,shipRegion,region,OR
+orders.csv,Order,10656,shipCity,city,Eugene
+orders.csv,Order,10656,shipPostalCode,postal_code,97403
+orders.csv,Order,10657,shipCountry,country,USA
+orders.csv,Order,10657,shipRegion,region,ID
+orders.csv,Order,10657,shipCity,city,Boise
+orders.csv,Order,10657,shipPostalCode,postal_code,83720
+orders.csv,Order,10658,shipCountry,country,Germany
+orders.csv,Order,10658,shipCity,city,Cunewalde
+orders.csv,Order,10658,shipPostalCode,postal_code,01307
+orders.csv,Order,10659,shipCountry,country,05487-020
+orders.csv,Order,10659,shipRegion,region,Sao Paulo
+orders.csv,Order,10659,shipCity,city,891
+orders.csv,Order,10659,shipPostalCode,postal_code,SP
+orders.csv,Order,10660,shipCountry,country,USA
+orders.csv,Order,10660,shipRegion,region,OR
+orders.csv,Order,10660,shipCity,city,Elgin
+orders.csv,Order,10660,shipPostalCode,postal_code,97827
+orders.csv,Order,10661,shipCountry,country,Ireland
+orders.csv,Order,10661,shipRegion,region,Co. Cork
+orders.csv,Order,10661,shipCity,city,Cork
+orders.csv,Order,10662,shipCountry,country,USA
+orders.csv,Order,10662,shipRegion,region,OR
+orders.csv,Order,10662,shipCity,city,Portland
+orders.csv,Order,10662,shipPostalCode,postal_code,97219
+orders.csv,Order,10663,shipCountry,country,13008
+orders.csv,Order,10663,shipRegion,region,Marseille
+orders.csv,Order,10663,shipCity,city,rue des Bouchers
+orders.csv,Order,10664,shipCountry,country,Portugal
+orders.csv,Order,10664,shipCity,city,Lisboa
+orders.csv,Order,10664,shipPostalCode,postal_code,1675
+orders.csv,Order,10665,shipCountry,country,USA
+orders.csv,Order,10665,shipRegion,region,OR
+orders.csv,Order,10665,shipCity,city,Portland
+orders.csv,Order,10665,shipPostalCode,postal_code,97219
+orders.csv,Order,10666,shipCountry,country,Switzerland
+orders.csv,Order,10666,shipCity,city,Genève
+orders.csv,Order,10666,shipPostalCode,postal_code,1204
+orders.csv,Order,10667,shipCountry,country,Austria
+orders.csv,Order,10667,shipCity,city,Graz
+orders.csv,Order,10667,shipPostalCode,postal_code,8010
+orders.csv,Order,10668,shipCountry,country,Germany
+orders.csv,Order,10668,shipCity,city,Stuttgart
+orders.csv,Order,10668,shipPostalCode,postal_code,70563
+orders.csv,Order,10669,shipCountry,country,Denmark
+orders.csv,Order,10669,shipCity,city,Kobenhavn
+orders.csv,Order,10669,shipPostalCode,postal_code,1734
+orders.csv,Order,10670,shipCountry,country,Germany
+orders.csv,Order,10670,shipCity,city,München
+orders.csv,Order,10670,shipPostalCode,postal_code,80805
+orders.csv,Order,10671,shipCountry,country,44000
+orders.csv,Order,10671,shipRegion,region,Nantes
+orders.csv,Order,10671,shipCity,city,rue Royale
+orders.csv,Order,10672,shipCountry,country,Sweden
+orders.csv,Order,10672,shipCity,city,Luleå
+orders.csv,Order,10672,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10673,shipCountry,country,Finland
+orders.csv,Order,10673,shipCity,city,Helsinki
+orders.csv,Order,10673,shipPostalCode,postal_code,21240
+orders.csv,Order,10674,shipCountry,country,UK
+orders.csv,Order,10674,shipRegion,region,Isle of Wight
+orders.csv,Order,10674,shipCity,city,Cowes
+orders.csv,Order,10674,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10675,shipCountry,country,Germany
+orders.csv,Order,10675,shipCity,city,München
+orders.csv,Order,10675,shipPostalCode,postal_code,80805
+orders.csv,Order,10676,shipCountry,country,Mexico
+orders.csv,Order,10676,shipCity,city,México D.F.
+orders.csv,Order,10676,shipPostalCode,postal_code,05033
+orders.csv,Order,10677,shipCountry,country,Mexico
+orders.csv,Order,10677,shipCity,city,México D.F.
+orders.csv,Order,10677,shipPostalCode,postal_code,05023
+orders.csv,Order,10678,shipCountry,country,USA
+orders.csv,Order,10678,shipRegion,region,ID
+orders.csv,Order,10678,shipCity,city,Boise
+orders.csv,Order,10678,shipPostalCode,postal_code,83720
+orders.csv,Order,10679,shipCountry,country,67000
+orders.csv,Order,10679,shipRegion,region,Strasbourg
+orders.csv,Order,10679,shipCity,city,place Kléber
+orders.csv,Order,10680,shipCountry,country,USA
+orders.csv,Order,10680,shipRegion,region,AK
+orders.csv,Order,10680,shipCity,city,Anchorage
+orders.csv,Order,10680,shipPostalCode,postal_code,99508
+orders.csv,Order,10681,shipCountry,country,USA
+orders.csv,Order,10681,shipRegion,region,OR
+orders.csv,Order,10681,shipCity,city,Eugene
+orders.csv,Order,10681,shipPostalCode,postal_code,97403
+orders.csv,Order,10682,shipCountry,country,Mexico
+orders.csv,Order,10682,shipCity,city,México D.F.
+orders.csv,Order,10682,shipPostalCode,postal_code,05023
+orders.csv,Order,10683,shipCountry,country,44000
+orders.csv,Order,10683,shipRegion,region,Nantes
+orders.csv,Order,10683,shipCity,city,rue des Cinquante Otages
+orders.csv,Order,10684,shipCountry,country,Germany
+orders.csv,Order,10684,shipCity,city,Köln
+orders.csv,Order,10684,shipPostalCode,postal_code,50739
+orders.csv,Order,10685,shipCountry,country,04876-786
+orders.csv,Order,10685,shipRegion,region,Campinas
+orders.csv,Order,10685,shipCity,city,442
+orders.csv,Order,10685,shipPostalCode,postal_code,SP
+orders.csv,Order,10686,shipCountry,country,Austria
+orders.csv,Order,10686,shipCity,city,Salzburg
+orders.csv,Order,10686,shipPostalCode,postal_code,5020
+orders.csv,Order,10687,shipCountry,country,Ireland
+orders.csv,Order,10687,shipRegion,region,Co. Cork
+orders.csv,Order,10687,shipCity,city,Cork
+orders.csv,Order,10688,shipCountry,country,Denmark
+orders.csv,Order,10688,shipCity,city,Århus
+orders.csv,Order,10688,shipPostalCode,postal_code,8200
+orders.csv,Order,10689,shipCountry,country,Sweden
+orders.csv,Order,10689,shipCity,city,Luleå
+orders.csv,Order,10689,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10690,shipCountry,country,05454-876
+orders.csv,Order,10690,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10690,shipCity,city,67
+orders.csv,Order,10690,shipPostalCode,postal_code,RJ
+orders.csv,Order,10691,shipCountry,country,Germany
+orders.csv,Order,10691,shipCity,city,Cunewalde
+orders.csv,Order,10691,shipPostalCode,postal_code,01307
+orders.csv,Order,10692,shipCountry,country,Germany
+orders.csv,Order,10692,shipCity,city,Berlin
+orders.csv,Order,10692,shipPostalCode,postal_code,12209
+orders.csv,Order,10693,shipCountry,country,USA
+orders.csv,Order,10693,shipRegion,region,WA
+orders.csv,Order,10693,shipCity,city,Seattle
+orders.csv,Order,10693,shipPostalCode,postal_code,98124
+orders.csv,Order,10694,shipCountry,country,Germany
+orders.csv,Order,10694,shipCity,city,Cunewalde
+orders.csv,Order,10694,shipPostalCode,postal_code,01307
+orders.csv,Order,10695,shipCountry,country,Finland
+orders.csv,Order,10695,shipCity,city,Helsinki
+orders.csv,Order,10695,shipPostalCode,postal_code,21240
+orders.csv,Order,10696,shipCountry,country,USA
+orders.csv,Order,10696,shipRegion,region,WA
+orders.csv,Order,10696,shipCity,city,Seattle
+orders.csv,Order,10696,shipPostalCode,postal_code,98124
+orders.csv,Order,10697,shipCountry,country,Venezuela
+orders.csv,Order,10697,shipRegion,region,Nueva Esparta
+orders.csv,Order,10697,shipCity,city,I. de Margarita
+orders.csv,Order,10697,shipPostalCode,postal_code,4980
+orders.csv,Order,10698,shipCountry,country,Austria
+orders.csv,Order,10698,shipCity,city,Graz
+orders.csv,Order,10698,shipPostalCode,postal_code,8010
+orders.csv,Order,10699,shipCountry,country,Germany
+orders.csv,Order,10699,shipCity,city,Leipzig
+orders.csv,Order,10699,shipPostalCode,postal_code,04179
+orders.csv,Order,10700,shipCountry,country,USA
+orders.csv,Order,10700,shipRegion,region,ID
+orders.csv,Order,10700,shipCity,city,Boise
+orders.csv,Order,10700,shipPostalCode,postal_code,83720
+orders.csv,Order,10701,shipCountry,country,Ireland
+orders.csv,Order,10701,shipRegion,region,Co. Cork
+orders.csv,Order,10701,shipCity,city,Cork
+orders.csv,Order,10702,shipCountry,country,Germany
+orders.csv,Order,10702,shipCity,city,Berlin
+orders.csv,Order,10702,shipPostalCode,postal_code,12209
+orders.csv,Order,10703,shipCountry,country,Sweden
+orders.csv,Order,10703,shipCity,city,Bräcke
+orders.csv,Order,10703,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10704,shipCountry,country,05487-020
+orders.csv,Order,10704,shipRegion,region,Sao Paulo
+orders.csv,Order,10704,shipCity,city,891
+orders.csv,Order,10704,shipPostalCode,postal_code,SP
+orders.csv,Order,10705,shipCountry,country,Venezuela
+orders.csv,Order,10705,shipRegion,region,Táchira
+orders.csv,Order,10705,shipCity,city,San Cristóbal
+orders.csv,Order,10705,shipPostalCode,postal_code,5022
+orders.csv,Order,10706,shipCountry,country,USA
+orders.csv,Order,10706,shipRegion,region,AK
+orders.csv,Order,10706,shipCity,city,Anchorage
+orders.csv,Order,10706,shipPostalCode,postal_code,99508
+orders.csv,Order,10707,shipCountry,country,UK
+orders.csv,Order,10707,shipRegion,region,Essex
+orders.csv,Order,10707,shipCity,city,Colchester
+orders.csv,Order,10707,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10708,shipCountry,country,USA
+orders.csv,Order,10708,shipRegion,region,OR
+orders.csv,Order,10708,shipCity,city,Portland
+orders.csv,Order,10708,shipPostalCode,postal_code,97201
+orders.csv,Order,10709,shipCountry,country,04876-786
+orders.csv,Order,10709,shipRegion,region,Campinas
+orders.csv,Order,10709,shipCity,city,442
+orders.csv,Order,10709,shipPostalCode,postal_code,SP
+orders.csv,Order,10710,shipCountry,country,Italy
+orders.csv,Order,10710,shipCity,city,Torino
+orders.csv,Order,10710,shipPostalCode,postal_code,10100
+orders.csv,Order,10711,shipCountry,country,USA
+orders.csv,Order,10711,shipRegion,region,ID
+orders.csv,Order,10711,shipCity,city,Boise
+orders.csv,Order,10711,shipPostalCode,postal_code,83720
+orders.csv,Order,10712,shipCountry,country,Ireland
+orders.csv,Order,10712,shipRegion,region,Co. Cork
+orders.csv,Order,10712,shipCity,city,Cork
+orders.csv,Order,10713,shipCountry,country,USA
+orders.csv,Order,10713,shipRegion,region,ID
+orders.csv,Order,10713,shipCity,city,Boise
+orders.csv,Order,10713,shipPostalCode,postal_code,83720
+orders.csv,Order,10714,shipCountry,country,USA
+orders.csv,Order,10714,shipRegion,region,ID
+orders.csv,Order,10714,shipCity,city,Boise
+orders.csv,Order,10714,shipPostalCode,postal_code,83720
+orders.csv,Order,10715,shipCountry,country,13008
+orders.csv,Order,10715,shipRegion,region,Marseille
+orders.csv,Order,10715,shipCity,city,rue des Bouchers
+orders.csv,Order,10716,shipCountry,country,Argentina
+orders.csv,Order,10716,shipCity,city,Buenos Aires
+orders.csv,Order,10716,shipPostalCode,postal_code,1010
+orders.csv,Order,10717,shipCountry,country,Germany
+orders.csv,Order,10717,shipCity,city,München
+orders.csv,Order,10717,shipPostalCode,postal_code,80805
+orders.csv,Order,10718,shipCountry,country,Germany
+orders.csv,Order,10718,shipCity,city,Brandenburg
+orders.csv,Order,10718,shipPostalCode,postal_code,14776
+orders.csv,Order,10719,shipCountry,country,USA
+orders.csv,Order,10719,shipRegion,region,CA
+orders.csv,Order,10719,shipCity,city,San Francisco
+orders.csv,Order,10719,shipPostalCode,postal_code,94117
+orders.csv,Order,10720,shipCountry,country,02389-673
+orders.csv,Order,10720,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10720,shipCity,city,12
+orders.csv,Order,10720,shipPostalCode,postal_code,RJ
+orders.csv,Order,10721,shipCountry,country,Germany
+orders.csv,Order,10721,shipCity,city,Cunewalde
+orders.csv,Order,10721,shipPostalCode,postal_code,01307
+orders.csv,Order,10722,shipCountry,country,USA
+orders.csv,Order,10722,shipRegion,region,ID
+orders.csv,Order,10722,shipCity,city,Boise
+orders.csv,Order,10722,shipPostalCode,postal_code,83720
+orders.csv,Order,10723,shipCountry,country,USA
+orders.csv,Order,10723,shipRegion,region,WA
+orders.csv,Order,10723,shipCity,city,Seattle
+orders.csv,Order,10723,shipPostalCode,postal_code,98124
+orders.csv,Order,10724,shipCountry,country,Canada
+orders.csv,Order,10724,shipRegion,region,Québec
+orders.csv,Order,10724,shipCity,city,Montréal
+orders.csv,Order,10724,shipPostalCode,postal_code,H1J 1C3
+orders.csv,Order,10725,shipCountry,country,05442-030
+orders.csv,Order,10725,shipRegion,region,Sao Paulo
+orders.csv,Order,10725,shipCity,city,92
+orders.csv,Order,10725,shipPostalCode,postal_code,SP
+orders.csv,Order,10726,shipCountry,country,UK
+orders.csv,Order,10726,shipCity,city,London
+orders.csv,Order,10726,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,10727,shipCountry,country,Italy
+orders.csv,Order,10727,shipCity,city,Reggio Emilia
+orders.csv,Order,10727,shipPostalCode,postal_code,42100
+orders.csv,Order,10728,shipCountry,country,05487-020
+orders.csv,Order,10728,shipRegion,region,Sao Paulo
+orders.csv,Order,10728,shipCity,city,891
+orders.csv,Order,10728,shipPostalCode,postal_code,SP
+orders.csv,Order,10729,shipCountry,country,Venezuela
+orders.csv,Order,10729,shipRegion,region,Nueva Esparta
+orders.csv,Order,10729,shipCity,city,I. de Margarita
+orders.csv,Order,10729,shipPostalCode,postal_code,4980
+orders.csv,Order,10730,shipCountry,country,13008
+orders.csv,Order,10730,shipRegion,region,Marseille
+orders.csv,Order,10730,shipCity,city,rue des Bouchers
+orders.csv,Order,10731,shipCountry,country,Switzerland
+orders.csv,Order,10731,shipCity,city,Bern
+orders.csv,Order,10731,shipPostalCode,postal_code,3012
+orders.csv,Order,10732,shipCountry,country,13008
+orders.csv,Order,10732,shipRegion,region,Marseille
+orders.csv,Order,10732,shipCity,city,rue des Bouchers
+orders.csv,Order,10733,shipCountry,country,Sweden
+orders.csv,Order,10733,shipCity,city,Luleå
+orders.csv,Order,10733,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10734,shipCountry,country,04876-786
+orders.csv,Order,10734,shipRegion,region,Campinas
+orders.csv,Order,10734,shipCity,city,442
+orders.csv,Order,10734,shipPostalCode,postal_code,SP
+orders.csv,Order,10735,shipCountry,country,USA
+orders.csv,Order,10735,shipRegion,region,CA
+orders.csv,Order,10735,shipCity,city,San Francisco
+orders.csv,Order,10735,shipPostalCode,postal_code,94117
+orders.csv,Order,10736,shipCountry,country,Ireland
+orders.csv,Order,10736,shipRegion,region,Co. Cork
+orders.csv,Order,10736,shipCity,city,Cork
+orders.csv,Order,10737,shipCountry,country,France
+orders.csv,Order,10737,shipCity,city,Reims
+orders.csv,Order,10737,shipPostalCode,postal_code,51100
+orders.csv,Order,10738,shipCountry,country,75016
+orders.csv,Order,10738,shipRegion,region,Paris
+orders.csv,Order,10738,shipCity,city,rue Lauriston
+orders.csv,Order,10739,shipCountry,country,France
+orders.csv,Order,10739,shipCity,city,Reims
+orders.csv,Order,10739,shipPostalCode,postal_code,51100
+orders.csv,Order,10740,shipCountry,country,USA
+orders.csv,Order,10740,shipRegion,region,WA
+orders.csv,Order,10740,shipCity,city,Seattle
+orders.csv,Order,10740,shipPostalCode,postal_code,98124
+orders.csv,Order,10741,shipCountry,country,UK
+orders.csv,Order,10741,shipRegion,region,Essex
+orders.csv,Order,10741,shipCity,city,Colchester
+orders.csv,Order,10741,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10742,shipCountry,country,Canada
+orders.csv,Order,10742,shipRegion,region,BC
+orders.csv,Order,10742,shipCity,city,Tsawassen
+orders.csv,Order,10742,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10743,shipCountry,country,UK
+orders.csv,Order,10743,shipRegion,region,Essex
+orders.csv,Order,10743,shipCity,city,Colchester
+orders.csv,Order,10743,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10744,shipCountry,country,Denmark
+orders.csv,Order,10744,shipCity,city,Århus
+orders.csv,Order,10744,shipPostalCode,postal_code,8200
+orders.csv,Order,10745,shipCountry,country,Germany
+orders.csv,Order,10745,shipCity,city,Cunewalde
+orders.csv,Order,10745,shipPostalCode,postal_code,01307
+orders.csv,Order,10746,shipCountry,country,Switzerland
+orders.csv,Order,10746,shipCity,city,Bern
+orders.csv,Order,10746,shipPostalCode,postal_code,3012
+orders.csv,Order,10747,shipCountry,country,Austria
+orders.csv,Order,10747,shipCity,city,Salzburg
+orders.csv,Order,10747,shipPostalCode,postal_code,5020
+orders.csv,Order,10748,shipCountry,country,USA
+orders.csv,Order,10748,shipRegion,region,ID
+orders.csv,Order,10748,shipCity,city,Boise
+orders.csv,Order,10748,shipPostalCode,postal_code,83720
+orders.csv,Order,10749,shipCountry,country,UK
+orders.csv,Order,10749,shipRegion,region,Isle of Wight
+orders.csv,Order,10749,shipCity,city,Cowes
+orders.csv,Order,10749,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10750,shipCountry,country,Finland
+orders.csv,Order,10750,shipCity,city,Oulu
+orders.csv,Order,10750,shipPostalCode,postal_code,90110
+orders.csv,Order,10751,shipCountry,country,Switzerland
+orders.csv,Order,10751,shipCity,city,Genève
+orders.csv,Order,10751,shipPostalCode,postal_code,1204
+orders.csv,Order,10752,shipCountry,country,UK
+orders.csv,Order,10752,shipCity,city,London
+orders.csv,Order,10752,shipPostalCode,postal_code,SW7 1RZ
+orders.csv,Order,10753,shipCountry,country,Italy
+orders.csv,Order,10753,shipCity,city,Torino
+orders.csv,Order,10753,shipPostalCode,postal_code,10100
+orders.csv,Order,10754,shipCountry,country,Italy
+orders.csv,Order,10754,shipCity,city,Bergamo
+orders.csv,Order,10754,shipPostalCode,postal_code,24100
+orders.csv,Order,10755,shipCountry,country,13008
+orders.csv,Order,10755,shipRegion,region,Marseille
+orders.csv,Order,10755,shipCity,city,rue des Bouchers
+orders.csv,Order,10756,shipCountry,country,USA
+orders.csv,Order,10756,shipRegion,region,WY
+orders.csv,Order,10756,shipCity,city,Lander
+orders.csv,Order,10756,shipPostalCode,postal_code,82520
+orders.csv,Order,10757,shipCountry,country,USA
+orders.csv,Order,10757,shipRegion,region,ID
+orders.csv,Order,10757,shipCity,city,Boise
+orders.csv,Order,10757,shipPostalCode,postal_code,83720
+orders.csv,Order,10758,shipCountry,country,Switzerland
+orders.csv,Order,10758,shipCity,city,Genève
+orders.csv,Order,10758,shipPostalCode,postal_code,1204
+orders.csv,Order,10759,shipCountry,country,Mexico
+orders.csv,Order,10759,shipCity,city,México D.F.
+orders.csv,Order,10759,shipPostalCode,postal_code,05021
+orders.csv,Order,10760,shipCountry,country,Belgium
+orders.csv,Order,10760,shipCity,city,Bruxelles
+orders.csv,Order,10760,shipPostalCode,postal_code,B-1180
+orders.csv,Order,10761,shipCountry,country,USA
+orders.csv,Order,10761,shipRegion,region,NM
+orders.csv,Order,10761,shipCity,city,Albuquerque
+orders.csv,Order,10761,shipPostalCode,postal_code,87110
+orders.csv,Order,10762,shipCountry,country,Sweden
+orders.csv,Order,10762,shipCity,city,Bräcke
+orders.csv,Order,10762,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10763,shipCountry,country,59000
+orders.csv,Order,10763,shipRegion,region,Lille
+orders.csv,Order,10763,shipCity,city,chaussée de Tournai
+orders.csv,Order,10764,shipCountry,country,Austria
+orders.csv,Order,10764,shipCity,city,Graz
+orders.csv,Order,10764,shipPostalCode,postal_code,8010
+orders.csv,Order,10765,shipCountry,country,Germany
+orders.csv,Order,10765,shipCity,city,Cunewalde
+orders.csv,Order,10765,shipPostalCode,postal_code,01307
+orders.csv,Order,10766,shipCountry,country,Germany
+orders.csv,Order,10766,shipCity,city,Köln
+orders.csv,Order,10766,shipPostalCode,postal_code,50739
+orders.csv,Order,10767,shipCountry,country,B-6000
+orders.csv,Order,10767,shipRegion,region,Charleroi
+orders.csv,Order,10767,shipCity,city,255
+orders.csv,Order,10768,shipCountry,country,UK
+orders.csv,Order,10768,shipRegion,region,Essex
+orders.csv,Order,10768,shipCity,city,Colchester
+orders.csv,Order,10768,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10769,shipCountry,country,Denmark
+orders.csv,Order,10769,shipCity,city,Århus
+orders.csv,Order,10769,shipPostalCode,postal_code,8200
+orders.csv,Order,10770,shipCountry,country,05454-876
+orders.csv,Order,10770,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10770,shipCity,city,67
+orders.csv,Order,10770,shipPostalCode,postal_code,RJ
+orders.csv,Order,10771,shipCountry,country,Austria
+orders.csv,Order,10771,shipCity,city,Graz
+orders.csv,Order,10771,shipPostalCode,postal_code,8010
+orders.csv,Order,10772,shipCountry,country,Germany
+orders.csv,Order,10772,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10772,shipPostalCode,postal_code,60528
+orders.csv,Order,10773,shipCountry,country,Austria
+orders.csv,Order,10773,shipCity,city,Graz
+orders.csv,Order,10773,shipPostalCode,postal_code,8010
+orders.csv,Order,10774,shipCountry,country,Sweden
+orders.csv,Order,10774,shipCity,city,Bräcke
+orders.csv,Order,10774,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10775,shipCountry,country,USA
+orders.csv,Order,10775,shipRegion,region,MT
+orders.csv,Order,10775,shipCity,city,Butte
+orders.csv,Order,10775,shipPostalCode,postal_code,59801
+orders.csv,Order,10776,shipCountry,country,Austria
+orders.csv,Order,10776,shipCity,city,Graz
+orders.csv,Order,10776,shipPostalCode,postal_code,8010
+orders.csv,Order,10777,shipCountry,country,04876-786
+orders.csv,Order,10777,shipRegion,region,Campinas
+orders.csv,Order,10777,shipCity,city,442
+orders.csv,Order,10777,shipPostalCode,postal_code,SP
+orders.csv,Order,10778,shipCountry,country,Sweden
+orders.csv,Order,10778,shipCity,city,Luleå
+orders.csv,Order,10778,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10779,shipCountry,country,Germany
+orders.csv,Order,10779,shipCity,city,Leipzig
+orders.csv,Order,10779,shipPostalCode,postal_code,04179
+orders.csv,Order,10780,shipCountry,country,Venezuela
+orders.csv,Order,10780,shipRegion,region,Lara
+orders.csv,Order,10780,shipCity,city,Barquisimeto
+orders.csv,Order,10780,shipPostalCode,postal_code,3508
+orders.csv,Order,10781,shipCountry,country,Finland
+orders.csv,Order,10781,shipCity,city,Oulu
+orders.csv,Order,10781,shipPostalCode,postal_code,90110
+orders.csv,Order,10782,shipCountry,country,Argentina
+orders.csv,Order,10782,shipCity,city,Buenos Aires
+orders.csv,Order,10782,shipPostalCode,postal_code,1010
+orders.csv,Order,10783,shipCountry,country,05454-876
+orders.csv,Order,10783,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10783,shipCity,city,67
+orders.csv,Order,10783,shipPostalCode,postal_code,RJ
+orders.csv,Order,10784,shipCountry,country,Italy
+orders.csv,Order,10784,shipCity,city,Bergamo
+orders.csv,Order,10784,shipPostalCode,postal_code,24100
+orders.csv,Order,10785,shipCountry,country,Venezuela
+orders.csv,Order,10785,shipRegion,region,DF
+orders.csv,Order,10785,shipCity,city,Caracas
+orders.csv,Order,10785,shipPostalCode,postal_code,1081
+orders.csv,Order,10786,shipCountry,country,05487-020
+orders.csv,Order,10786,shipRegion,region,Sao Paulo
+orders.csv,Order,10786,shipCity,city,891
+orders.csv,Order,10786,shipPostalCode,postal_code,SP
+orders.csv,Order,10787,shipCountry,country,France
+orders.csv,Order,10787,shipCity,city,Toulouse
+orders.csv,Order,10787,shipPostalCode,postal_code,31000
+orders.csv,Order,10788,shipCountry,country,Germany
+orders.csv,Order,10788,shipCity,city,Cunewalde
+orders.csv,Order,10788,shipPostalCode,postal_code,01307
+orders.csv,Order,10789,shipCountry,country,59000
+orders.csv,Order,10789,shipRegion,region,Lille
+orders.csv,Order,10789,shipCity,city,chaussée de Tournai
+orders.csv,Order,10790,shipCountry,country,04876-786
+orders.csv,Order,10790,shipRegion,region,Campinas
+orders.csv,Order,10790,shipCity,city,442
+orders.csv,Order,10790,shipPostalCode,postal_code,SP
+orders.csv,Order,10791,shipCountry,country,Germany
+orders.csv,Order,10791,shipCity,city,München
+orders.csv,Order,10791,shipPostalCode,postal_code,80805
+orders.csv,Order,10792,shipCountry,country,Poland
+orders.csv,Order,10792,shipCity,city,Warszawa
+orders.csv,Order,10792,shipPostalCode,postal_code,01-012
+orders.csv,Order,10793,shipCountry,country,UK
+orders.csv,Order,10793,shipRegion,region,Essex
+orders.csv,Order,10793,shipCity,city,Colchester
+orders.csv,Order,10793,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10794,shipCountry,country,02389-673
+orders.csv,Order,10794,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10794,shipCity,city,12
+orders.csv,Order,10794,shipPostalCode,postal_code,RJ
+orders.csv,Order,10795,shipCountry,country,Austria
+orders.csv,Order,10795,shipCity,city,Graz
+orders.csv,Order,10795,shipPostalCode,postal_code,8010
+orders.csv,Order,10796,shipCountry,country,Venezuela
+orders.csv,Order,10796,shipRegion,region,Táchira
+orders.csv,Order,10796,shipCity,city,San Cristóbal
+orders.csv,Order,10796,shipPostalCode,postal_code,5022
+orders.csv,Order,10797,shipCountry,country,Germany
+orders.csv,Order,10797,shipCity,city,Aachen
+orders.csv,Order,10797,shipPostalCode,postal_code,52066
+orders.csv,Order,10798,shipCountry,country,UK
+orders.csv,Order,10798,shipRegion,region,Isle of Wight
+orders.csv,Order,10798,shipCity,city,Cowes
+orders.csv,Order,10798,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10799,shipCountry,country,Germany
+orders.csv,Order,10799,shipCity,city,Brandenburg
+orders.csv,Order,10799,shipPostalCode,postal_code,14776
+orders.csv,Order,10800,shipCountry,country,UK
+orders.csv,Order,10800,shipCity,city,London
+orders.csv,Order,10800,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10801,shipCountry,country,28023
+orders.csv,Order,10801,shipRegion,region,Madrid
+orders.csv,Order,10801,shipCity,city,67
+orders.csv,Order,10802,shipCountry,country,Denmark
+orders.csv,Order,10802,shipCity,city,Kobenhavn
+orders.csv,Order,10802,shipPostalCode,postal_code,1734
+orders.csv,Order,10803,shipCountry,country,08737-363
+orders.csv,Order,10803,shipRegion,region,Resende
+orders.csv,Order,10803,shipCity,city,12
+orders.csv,Order,10803,shipPostalCode,postal_code,SP
+orders.csv,Order,10804,shipCountry,country,UK
+orders.csv,Order,10804,shipCity,city,London
+orders.csv,Order,10804,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10805,shipCountry,country,USA
+orders.csv,Order,10805,shipRegion,region,OR
+orders.csv,Order,10805,shipCity,city,Portland
+orders.csv,Order,10805,shipPostalCode,postal_code,97201
+orders.csv,Order,10806,shipCountry,country,69004
+orders.csv,Order,10806,shipRegion,region,Lyon
+orders.csv,Order,10806,shipCity,city,rue du Commerce
+orders.csv,Order,10807,shipCountry,country,Italy
+orders.csv,Order,10807,shipCity,city,Torino
+orders.csv,Order,10807,shipPostalCode,postal_code,10100
+orders.csv,Order,10808,shipCountry,country,USA
+orders.csv,Order,10808,shipRegion,region,AK
+orders.csv,Order,10808,shipCity,city,Anchorage
+orders.csv,Order,10808,shipPostalCode,postal_code,99508
+orders.csv,Order,10809,shipCountry,country,08737-363
+orders.csv,Order,10809,shipRegion,region,Resende
+orders.csv,Order,10809,shipCity,city,12
+orders.csv,Order,10809,shipPostalCode,postal_code,SP
+orders.csv,Order,10810,shipCountry,country,Canada
+orders.csv,Order,10810,shipRegion,region,BC
+orders.csv,Order,10810,shipCity,city,Vancouver
+orders.csv,Order,10810,shipPostalCode,postal_code,V3F 2K1
+orders.csv,Order,10811,shipCountry,country,Venezuela
+orders.csv,Order,10811,shipRegion,region,Nueva Esparta
+orders.csv,Order,10811,shipCity,city,I. de Margarita
+orders.csv,Order,10811,shipPostalCode,postal_code,4980
+orders.csv,Order,10812,shipCountry,country,Italy
+orders.csv,Order,10812,shipCity,city,Reggio Emilia
+orders.csv,Order,10812,shipPostalCode,postal_code,42100
+orders.csv,Order,10813,shipCountry,country,02389-890
+orders.csv,Order,10813,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10813,shipCity,city,267
+orders.csv,Order,10813,shipPostalCode,postal_code,RJ
+orders.csv,Order,10814,shipCountry,country,69004
+orders.csv,Order,10814,shipRegion,region,Lyon
+orders.csv,Order,10814,shipCity,city,rue du Commerce
+orders.csv,Order,10815,shipCountry,country,USA
+orders.csv,Order,10815,shipRegion,region,ID
+orders.csv,Order,10815,shipCity,city,Boise
+orders.csv,Order,10815,shipPostalCode,postal_code,83720
+orders.csv,Order,10816,shipCountry,country,USA
+orders.csv,Order,10816,shipRegion,region,OR
+orders.csv,Order,10816,shipCity,city,Eugene
+orders.csv,Order,10816,shipPostalCode,postal_code,97403
+orders.csv,Order,10817,shipCountry,country,Germany
+orders.csv,Order,10817,shipCity,city,Brandenburg
+orders.csv,Order,10817,shipPostalCode,postal_code,14776
+orders.csv,Order,10818,shipCountry,country,Italy
+orders.csv,Order,10818,shipCity,city,Bergamo
+orders.csv,Order,10818,shipPostalCode,postal_code,24100
+orders.csv,Order,10819,shipCountry,country,Argentina
+orders.csv,Order,10819,shipCity,city,Buenos Aires
+orders.csv,Order,10819,shipPostalCode,postal_code,1010
+orders.csv,Order,10820,shipCountry,country,USA
+orders.csv,Order,10820,shipRegion,region,NM
+orders.csv,Order,10820,shipCity,city,Albuquerque
+orders.csv,Order,10820,shipPostalCode,postal_code,87110
+orders.csv,Order,10821,shipCountry,country,USA
+orders.csv,Order,10821,shipRegion,region,WY
+orders.csv,Order,10821,shipCity,city,Lander
+orders.csv,Order,10821,shipPostalCode,postal_code,82520
+orders.csv,Order,10822,shipCountry,country,USA
+orders.csv,Order,10822,shipRegion,region,WA
+orders.csv,Order,10822,shipCity,city,Kirkland
+orders.csv,Order,10822,shipPostalCode,postal_code,98034
+orders.csv,Order,10823,shipCountry,country,Venezuela
+orders.csv,Order,10823,shipRegion,region,Lara
+orders.csv,Order,10823,shipCity,city,Barquisimeto
+orders.csv,Order,10823,shipPostalCode,postal_code,3508
+orders.csv,Order,10824,shipCountry,country,Sweden
+orders.csv,Order,10824,shipCity,city,Bräcke
+orders.csv,Order,10824,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10825,shipCountry,country,Germany
+orders.csv,Order,10825,shipCity,city,Aachen
+orders.csv,Order,10825,shipPostalCode,postal_code,52066
+orders.csv,Order,10826,shipCountry,country,67000
+orders.csv,Order,10826,shipRegion,region,Strasbourg
+orders.csv,Order,10826,shipCity,city,place Kléber
+orders.csv,Order,10827,shipCountry,country,13008
+orders.csv,Order,10827,shipRegion,region,Marseille
+orders.csv,Order,10827,shipCity,city,rue des Bouchers
+orders.csv,Order,10828,shipCountry,country,Argentina
+orders.csv,Order,10828,shipCity,city,Buenos Aires
+orders.csv,Order,10828,shipPostalCode,postal_code,1010
+orders.csv,Order,10829,shipCountry,country,UK
+orders.csv,Order,10829,shipRegion,region,Isle of Wight
+orders.csv,Order,10829,shipCity,city,Cowes
+orders.csv,Order,10829,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10830,shipCountry,country,05634-030
+orders.csv,Order,10830,shipRegion,region,Sao Paulo
+orders.csv,Order,10830,shipCity,city,414
+orders.csv,Order,10830,shipPostalCode,postal_code,SP
+orders.csv,Order,10831,shipCountry,country,Norway
+orders.csv,Order,10831,shipCity,city,Stavern
+orders.csv,Order,10831,shipPostalCode,postal_code,4110
+orders.csv,Order,10832,shipCountry,country,France
+orders.csv,Order,10832,shipCity,city,Toulouse
+orders.csv,Order,10832,shipPostalCode,postal_code,31000
+orders.csv,Order,10833,shipCountry,country,Germany
+orders.csv,Order,10833,shipCity,city,Köln
+orders.csv,Order,10833,shipPostalCode,postal_code,50739
+orders.csv,Order,10834,shipCountry,country,05634-030
+orders.csv,Order,10834,shipRegion,region,Sao Paulo
+orders.csv,Order,10834,shipCity,city,414
+orders.csv,Order,10834,shipPostalCode,postal_code,SP
+orders.csv,Order,10835,shipCountry,country,Germany
+orders.csv,Order,10835,shipCity,city,Berlin
+orders.csv,Order,10835,shipPostalCode,postal_code,12209
+orders.csv,Order,10836,shipCountry,country,Austria
+orders.csv,Order,10836,shipCity,city,Graz
+orders.csv,Order,10836,shipPostalCode,postal_code,8010
+orders.csv,Order,10837,shipCountry,country,Sweden
+orders.csv,Order,10837,shipCity,city,Luleå
+orders.csv,Order,10837,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10838,shipCountry,country,Venezuela
+orders.csv,Order,10838,shipRegion,region,Nueva Esparta
+orders.csv,Order,10838,shipCity,city,I. de Margarita
+orders.csv,Order,10838,shipPostalCode,postal_code,4980
+orders.csv,Order,10839,shipCountry,country,05634-030
+orders.csv,Order,10839,shipRegion,region,Sao Paulo
+orders.csv,Order,10839,shipCity,city,414
+orders.csv,Order,10839,shipPostalCode,postal_code,SP
+orders.csv,Order,10840,shipCountry,country,Venezuela
+orders.csv,Order,10840,shipRegion,region,Nueva Esparta
+orders.csv,Order,10840,shipCity,city,I. de Margarita
+orders.csv,Order,10840,shipPostalCode,postal_code,4980
+orders.csv,Order,10841,shipCountry,country,B-6000
+orders.csv,Order,10841,shipRegion,region,Charleroi
+orders.csv,Order,10841,shipCity,city,255
+orders.csv,Order,10842,shipCountry,country,Mexico
+orders.csv,Order,10842,shipCity,city,México D.F.
+orders.csv,Order,10842,shipPostalCode,postal_code,05033
+orders.csv,Order,10843,shipCountry,country,69004
+orders.csv,Order,10843,shipRegion,region,Lyon
+orders.csv,Order,10843,shipCity,city,rue du Commerce
+orders.csv,Order,10844,shipCountry,country,Austria
+orders.csv,Order,10844,shipCity,city,Salzburg
+orders.csv,Order,10844,shipPostalCode,postal_code,5020
+orders.csv,Order,10845,shipCountry,country,Germany
+orders.csv,Order,10845,shipCity,city,Cunewalde
+orders.csv,Order,10845,shipPostalCode,postal_code,01307
+orders.csv,Order,10846,shipCountry,country,B-6000
+orders.csv,Order,10846,shipRegion,region,Charleroi
+orders.csv,Order,10846,shipCity,city,255
+orders.csv,Order,10847,shipCountry,country,USA
+orders.csv,Order,10847,shipRegion,region,ID
+orders.csv,Order,10847,shipCity,city,Boise
+orders.csv,Order,10847,shipPostalCode,postal_code,83720
+orders.csv,Order,10848,shipCountry,country,UK
+orders.csv,Order,10848,shipCity,city,London
+orders.csv,Order,10848,shipPostalCode,postal_code,WX1 6LT
+orders.csv,Order,10849,shipCountry,country,Germany
+orders.csv,Order,10849,shipCity,city,Brandenburg
+orders.csv,Order,10849,shipPostalCode,postal_code,14776
+orders.csv,Order,10850,shipCountry,country,69004
+orders.csv,Order,10850,shipRegion,region,Lyon
+orders.csv,Order,10850,shipCity,city,rue du Commerce
+orders.csv,Order,10851,shipCountry,country,02389-890
+orders.csv,Order,10851,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10851,shipCity,city,267
+orders.csv,Order,10851,shipPostalCode,postal_code,RJ
+orders.csv,Order,10852,shipCountry,country,USA
+orders.csv,Order,10852,shipRegion,region,NM
+orders.csv,Order,10852,shipCity,city,Albuquerque
+orders.csv,Order,10852,shipPostalCode,postal_code,87110
+orders.csv,Order,10853,shipCountry,country,Germany
+orders.csv,Order,10853,shipCity,city,Mannheim
+orders.csv,Order,10853,shipPostalCode,postal_code,68306
+orders.csv,Order,10854,shipCountry,country,Austria
+orders.csv,Order,10854,shipCity,city,Graz
+orders.csv,Order,10854,shipPostalCode,postal_code,8010
+orders.csv,Order,10855,shipCountry,country,USA
+orders.csv,Order,10855,shipRegion,region,AK
+orders.csv,Order,10855,shipCity,city,Anchorage
+orders.csv,Order,10855,shipPostalCode,postal_code,99508
+orders.csv,Order,10856,shipCountry,country,Mexico
+orders.csv,Order,10856,shipCity,city,México D.F.
+orders.csv,Order,10856,shipPostalCode,postal_code,05023
+orders.csv,Order,10857,shipCountry,country,Sweden
+orders.csv,Order,10857,shipCity,city,Luleå
+orders.csv,Order,10857,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10858,shipCountry,country,78000
+orders.csv,Order,10858,shipRegion,region,Versailles
+orders.csv,Order,10858,shipCity,city,avenue de l'Europe
+orders.csv,Order,10859,shipCountry,country,Germany
+orders.csv,Order,10859,shipCity,city,München
+orders.csv,Order,10859,shipPostalCode,postal_code,80805
+orders.csv,Order,10860,shipCountry,country,44000
+orders.csv,Order,10860,shipRegion,region,Nantes
+orders.csv,Order,10860,shipCity,city,rue Royale
+orders.csv,Order,10861,shipCountry,country,USA
+orders.csv,Order,10861,shipRegion,region,WA
+orders.csv,Order,10861,shipCity,city,Seattle
+orders.csv,Order,10861,shipPostalCode,postal_code,98124
+orders.csv,Order,10862,shipCountry,country,Germany
+orders.csv,Order,10862,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10862,shipPostalCode,postal_code,60528
+orders.csv,Order,10863,shipCountry,country,Venezuela
+orders.csv,Order,10863,shipRegion,region,Táchira
+orders.csv,Order,10863,shipCity,city,San Cristóbal
+orders.csv,Order,10863,shipPostalCode,postal_code,5022
+orders.csv,Order,10864,shipCountry,country,UK
+orders.csv,Order,10864,shipRegion,region,Essex
+orders.csv,Order,10864,shipCity,city,Colchester
+orders.csv,Order,10864,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10865,shipCountry,country,Germany
+orders.csv,Order,10865,shipCity,city,Cunewalde
+orders.csv,Order,10865,shipPostalCode,postal_code,01307
+orders.csv,Order,10866,shipCountry,country,Sweden
+orders.csv,Order,10866,shipCity,city,Luleå
+orders.csv,Order,10866,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10867,shipCountry,country,USA
+orders.csv,Order,10867,shipRegion,region,OR
+orders.csv,Order,10867,shipCity,city,Portland
+orders.csv,Order,10867,shipPostalCode,postal_code,97219
+orders.csv,Order,10868,shipCountry,country,05487-020
+orders.csv,Order,10868,shipRegion,region,Sao Paulo
+orders.csv,Order,10868,shipCity,city,891
+orders.csv,Order,10868,shipPostalCode,postal_code,SP
+orders.csv,Order,10869,shipCountry,country,UK
+orders.csv,Order,10869,shipCity,city,London
+orders.csv,Order,10869,shipPostalCode,postal_code,OX15 4NB
+orders.csv,Order,10870,shipCountry,country,Poland
+orders.csv,Order,10870,shipCity,city,Warszawa
+orders.csv,Order,10870,shipPostalCode,postal_code,01-012
+orders.csv,Order,10871,shipCountry,country,13008
+orders.csv,Order,10871,shipRegion,region,Marseille
+orders.csv,Order,10871,shipCity,city,rue des Bouchers
+orders.csv,Order,10872,shipCountry,country,41101
+orders.csv,Order,10872,shipRegion,region,Sevilla
+orders.csv,Order,10872,shipCity,city,33
+orders.csv,Order,10873,shipCountry,country,Finland
+orders.csv,Order,10873,shipCity,city,Helsinki
+orders.csv,Order,10873,shipPostalCode,postal_code,21240
+orders.csv,Order,10874,shipCountry,country,41101
+orders.csv,Order,10874,shipRegion,region,Sevilla
+orders.csv,Order,10874,shipCity,city,33
+orders.csv,Order,10875,shipCountry,country,Sweden
+orders.csv,Order,10875,shipCity,city,Luleå
+orders.csv,Order,10875,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10876,shipCountry,country,13008
+orders.csv,Order,10876,shipRegion,region,Marseille
+orders.csv,Order,10876,shipCity,city,rue des Bouchers
+orders.csv,Order,10877,shipCountry,country,02389-890
+orders.csv,Order,10877,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10877,shipCity,city,267
+orders.csv,Order,10877,shipPostalCode,postal_code,RJ
+orders.csv,Order,10878,shipCountry,country,Germany
+orders.csv,Order,10878,shipCity,city,Cunewalde
+orders.csv,Order,10878,shipPostalCode,postal_code,01307
+orders.csv,Order,10879,shipCountry,country,Finland
+orders.csv,Order,10879,shipCity,city,Helsinki
+orders.csv,Order,10879,shipPostalCode,postal_code,21240
+orders.csv,Order,10880,shipCountry,country,Sweden
+orders.csv,Order,10880,shipCity,city,Bräcke
+orders.csv,Order,10880,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10881,shipCountry,country,Argentina
+orders.csv,Order,10881,shipCity,city,Buenos Aires
+orders.csv,Order,10881,shipPostalCode,postal_code,1010
+orders.csv,Order,10882,shipCountry,country,USA
+orders.csv,Order,10882,shipRegion,region,ID
+orders.csv,Order,10882,shipCity,city,Boise
+orders.csv,Order,10882,shipPostalCode,postal_code,83720
+orders.csv,Order,10883,shipCountry,country,USA
+orders.csv,Order,10883,shipRegion,region,OR
+orders.csv,Order,10883,shipCity,city,Portland
+orders.csv,Order,10883,shipPostalCode,postal_code,97219
+orders.csv,Order,10884,shipCountry,country,USA
+orders.csv,Order,10884,shipRegion,region,CA
+orders.csv,Order,10884,shipCity,city,San Francisco
+orders.csv,Order,10884,shipPostalCode,postal_code,94117
+orders.csv,Order,10885,shipCountry,country,B-6000
+orders.csv,Order,10885,shipRegion,region,Charleroi
+orders.csv,Order,10885,shipCity,city,255
+orders.csv,Order,10886,shipCountry,country,05454-876
+orders.csv,Order,10886,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10886,shipCity,city,67
+orders.csv,Order,10886,shipPostalCode,postal_code,RJ
+orders.csv,Order,10887,shipCountry,country,8022
+orders.csv,Order,10887,shipRegion,region,Barcelona
+orders.csv,Order,10887,shipCity,city,23
+orders.csv,Order,10888,shipCountry,country,41101
+orders.csv,Order,10888,shipRegion,region,Sevilla
+orders.csv,Order,10888,shipCity,city,33
+orders.csv,Order,10889,shipCountry,country,USA
+orders.csv,Order,10889,shipRegion,region,NM
+orders.csv,Order,10889,shipCity,city,Albuquerque
+orders.csv,Order,10889,shipPostalCode,postal_code,87110
+orders.csv,Order,10890,shipCountry,country,44000
+orders.csv,Order,10890,shipRegion,region,Nantes
+orders.csv,Order,10890,shipCity,city,rue des Cinquante Otages
+orders.csv,Order,10891,shipCountry,country,Germany
+orders.csv,Order,10891,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10891,shipPostalCode,postal_code,60528
+orders.csv,Order,10892,shipCountry,country,Belgium
+orders.csv,Order,10892,shipCity,city,Bruxelles
+orders.csv,Order,10892,shipPostalCode,postal_code,B-1180
+orders.csv,Order,10893,shipCountry,country,Germany
+orders.csv,Order,10893,shipCity,city,Brandenburg
+orders.csv,Order,10893,shipPostalCode,postal_code,14776
+orders.csv,Order,10894,shipCountry,country,USA
+orders.csv,Order,10894,shipRegion,region,ID
+orders.csv,Order,10894,shipCity,city,Boise
+orders.csv,Order,10894,shipPostalCode,postal_code,83720
+orders.csv,Order,10895,shipCountry,country,Austria
+orders.csv,Order,10895,shipCity,city,Graz
+orders.csv,Order,10895,shipPostalCode,postal_code,8010
+orders.csv,Order,10896,shipCountry,country,Belgium
+orders.csv,Order,10896,shipCity,city,Bruxelles
+orders.csv,Order,10896,shipPostalCode,postal_code,B-1180
+orders.csv,Order,10897,shipCountry,country,Ireland
+orders.csv,Order,10897,shipRegion,region,Co. Cork
+orders.csv,Order,10897,shipCity,city,Cork
+orders.csv,Order,10898,shipCountry,country,Argentina
+orders.csv,Order,10898,shipCity,city,Buenos Aires
+orders.csv,Order,10898,shipPostalCode,postal_code,1010
+orders.csv,Order,10899,shipCountry,country,Venezuela
+orders.csv,Order,10899,shipRegion,region,Lara
+orders.csv,Order,10899,shipCity,city,Barquisimeto
+orders.csv,Order,10899,shipPostalCode,postal_code,3508
+orders.csv,Order,10900,shipCountry,country,08737-363
+orders.csv,Order,10900,shipRegion,region,Resende
+orders.csv,Order,10900,shipCity,city,12
+orders.csv,Order,10900,shipPostalCode,postal_code,SP
+orders.csv,Order,10901,shipCountry,country,Venezuela
+orders.csv,Order,10901,shipRegion,region,Táchira
+orders.csv,Order,10901,shipCity,city,San Cristóbal
+orders.csv,Order,10901,shipPostalCode,postal_code,5022
+orders.csv,Order,10902,shipCountry,country,Sweden
+orders.csv,Order,10902,shipCity,city,Bräcke
+orders.csv,Order,10902,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10903,shipCountry,country,05454-876
+orders.csv,Order,10903,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10903,shipCity,city,67
+orders.csv,Order,10903,shipPostalCode,postal_code,RJ
+orders.csv,Order,10904,shipCountry,country,USA
+orders.csv,Order,10904,shipRegion,region,WA
+orders.csv,Order,10904,shipCity,city,Seattle
+orders.csv,Order,10904,shipPostalCode,postal_code,98124
+orders.csv,Order,10905,shipCountry,country,08737-363
+orders.csv,Order,10905,shipRegion,region,Resende
+orders.csv,Order,10905,shipCity,city,12
+orders.csv,Order,10905,shipPostalCode,postal_code,SP
+orders.csv,Order,10906,shipCountry,country,Poland
+orders.csv,Order,10906,shipCity,city,Warszawa
+orders.csv,Order,10906,shipPostalCode,postal_code,01-012
+orders.csv,Order,10907,shipCountry,country,75016
+orders.csv,Order,10907,shipRegion,region,Paris
+orders.csv,Order,10907,shipCity,city,rue Lauriston
+orders.csv,Order,10908,shipCountry,country,Italy
+orders.csv,Order,10908,shipCity,city,Reggio Emilia
+orders.csv,Order,10908,shipPostalCode,postal_code,42100
+orders.csv,Order,10909,shipCountry,country,Norway
+orders.csv,Order,10909,shipCity,city,Stavern
+orders.csv,Order,10909,shipPostalCode,postal_code,4110
+orders.csv,Order,10910,shipCountry,country,Finland
+orders.csv,Order,10910,shipCity,city,Helsinki
+orders.csv,Order,10910,shipPostalCode,postal_code,21240
+orders.csv,Order,10911,shipCountry,country,41101
+orders.csv,Order,10911,shipRegion,region,Sevilla
+orders.csv,Order,10911,shipCity,city,33
+orders.csv,Order,10912,shipCountry,country,Ireland
+orders.csv,Order,10912,shipRegion,region,Co. Cork
+orders.csv,Order,10912,shipCity,city,Cork
+orders.csv,Order,10913,shipCountry,country,05487-020
+orders.csv,Order,10913,shipRegion,region,Sao Paulo
+orders.csv,Order,10913,shipCity,city,891
+orders.csv,Order,10913,shipPostalCode,postal_code,SP
+orders.csv,Order,10914,shipCountry,country,05487-020
+orders.csv,Order,10914,shipRegion,region,Sao Paulo
+orders.csv,Order,10914,shipCity,city,891
+orders.csv,Order,10914,shipPostalCode,postal_code,SP
+orders.csv,Order,10915,shipCountry,country,Mexico
+orders.csv,Order,10915,shipCity,city,México D.F.
+orders.csv,Order,10915,shipPostalCode,postal_code,05033
+orders.csv,Order,10916,shipCountry,country,Argentina
+orders.csv,Order,10916,shipCity,city,Buenos Aires
+orders.csv,Order,10916,shipPostalCode,postal_code,1010
+orders.csv,Order,10917,shipCountry,country,28001
+orders.csv,Order,10917,shipRegion,region,Madrid
+orders.csv,Order,10917,shipCity,city,1
+orders.csv,Order,10918,shipCountry,country,Canada
+orders.csv,Order,10918,shipRegion,region,BC
+orders.csv,Order,10918,shipCity,city,Tsawassen
+orders.csv,Order,10918,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10919,shipCountry,country,Venezuela
+orders.csv,Order,10919,shipRegion,region,Nueva Esparta
+orders.csv,Order,10919,shipCity,city,I. de Margarita
+orders.csv,Order,10919,shipPostalCode,postal_code,4980
+orders.csv,Order,10920,shipCountry,country,UK
+orders.csv,Order,10920,shipRegion,region,Essex
+orders.csv,Order,10920,shipCity,city,Colchester
+orders.csv,Order,10920,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10921,shipCountry,country,Denmark
+orders.csv,Order,10921,shipCity,city,Århus
+orders.csv,Order,10921,shipPostalCode,postal_code,8200
+orders.csv,Order,10922,shipCountry,country,05454-876
+orders.csv,Order,10922,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10922,shipCity,city,67
+orders.csv,Order,10922,shipPostalCode,postal_code,RJ
+orders.csv,Order,10923,shipCountry,country,France
+orders.csv,Order,10923,shipCity,city,Toulouse
+orders.csv,Order,10923,shipPostalCode,postal_code,31000
+orders.csv,Order,10924,shipCountry,country,Sweden
+orders.csv,Order,10924,shipCity,city,Luleå
+orders.csv,Order,10924,shipPostalCode,postal_code,S-958 22
+orders.csv,Order,10925,shipCountry,country,05454-876
+orders.csv,Order,10925,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10925,shipCity,city,67
+orders.csv,Order,10925,shipPostalCode,postal_code,RJ
+orders.csv,Order,10926,shipCountry,country,Mexico
+orders.csv,Order,10926,shipCity,city,México D.F.
+orders.csv,Order,10926,shipPostalCode,postal_code,05021
+orders.csv,Order,10927,shipCountry,country,78000
+orders.csv,Order,10927,shipRegion,region,Versailles
+orders.csv,Order,10927,shipCity,city,avenue de l'Europe
+orders.csv,Order,10928,shipCountry,country,8022
+orders.csv,Order,10928,shipRegion,region,Barcelona
+orders.csv,Order,10928,shipCity,city,23
+orders.csv,Order,10929,shipCountry,country,Germany
+orders.csv,Order,10929,shipCity,city,München
+orders.csv,Order,10929,shipPostalCode,postal_code,80805
+orders.csv,Order,10930,shipCountry,country,B-6000
+orders.csv,Order,10930,shipRegion,region,Charleroi
+orders.csv,Order,10930,shipCity,city,255
+orders.csv,Order,10931,shipCountry,country,Switzerland
+orders.csv,Order,10931,shipCity,city,Genève
+orders.csv,Order,10931,shipPostalCode,postal_code,1204
+orders.csv,Order,10932,shipCountry,country,13008
+orders.csv,Order,10932,shipRegion,region,Marseille
+orders.csv,Order,10932,shipCity,city,rue des Bouchers
+orders.csv,Order,10933,shipCountry,country,UK
+orders.csv,Order,10933,shipRegion,region,Isle of Wight
+orders.csv,Order,10933,shipCity,city,Cowes
+orders.csv,Order,10933,shipPostalCode,postal_code,PO31 7PJ
+orders.csv,Order,10934,shipCountry,country,Germany
+orders.csv,Order,10934,shipCity,city,Frankfurt a.M.
+orders.csv,Order,10934,shipPostalCode,postal_code,60528
+orders.csv,Order,10935,shipCountry,country,08737-363
+orders.csv,Order,10935,shipRegion,region,Resende
+orders.csv,Order,10935,shipCity,city,12
+orders.csv,Order,10935,shipPostalCode,postal_code,SP
+orders.csv,Order,10936,shipCountry,country,USA
+orders.csv,Order,10936,shipRegion,region,OR
+orders.csv,Order,10936,shipCity,city,Eugene
+orders.csv,Order,10936,shipPostalCode,postal_code,97403
+orders.csv,Order,10937,shipCountry,country,Argentina
+orders.csv,Order,10937,shipCity,city,Buenos Aires
+orders.csv,Order,10937,shipPostalCode,postal_code,1010
+orders.csv,Order,10938,shipCountry,country,Germany
+orders.csv,Order,10938,shipCity,city,Cunewalde
+orders.csv,Order,10938,shipPostalCode,postal_code,01307
+orders.csv,Order,10939,shipCountry,country,Italy
+orders.csv,Order,10939,shipCity,city,Bergamo
+orders.csv,Order,10939,shipPostalCode,postal_code,24100
+orders.csv,Order,10940,shipCountry,country,13008
+orders.csv,Order,10940,shipRegion,region,Marseille
+orders.csv,Order,10940,shipCity,city,rue des Bouchers
+orders.csv,Order,10941,shipCountry,country,USA
+orders.csv,Order,10941,shipRegion,region,ID
+orders.csv,Order,10941,shipCity,city,Boise
+orders.csv,Order,10941,shipPostalCode,postal_code,83720
+orders.csv,Order,10942,shipCountry,country,Italy
+orders.csv,Order,10942,shipCity,city,Reggio Emilia
+orders.csv,Order,10942,shipPostalCode,postal_code,42100
+orders.csv,Order,10943,shipCountry,country,UK
+orders.csv,Order,10943,shipCity,city,London
+orders.csv,Order,10943,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10944,shipCountry,country,Canada
+orders.csv,Order,10944,shipRegion,region,BC
+orders.csv,Order,10944,shipCity,city,Tsawassen
+orders.csv,Order,10944,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10945,shipCountry,country,Germany
+orders.csv,Order,10945,shipCity,city,Leipzig
+orders.csv,Order,10945,shipPostalCode,postal_code,04179
+orders.csv,Order,10946,shipCountry,country,Denmark
+orders.csv,Order,10946,shipCity,city,Århus
+orders.csv,Order,10946,shipPostalCode,postal_code,8200
+orders.csv,Order,10947,shipCountry,country,UK
+orders.csv,Order,10947,shipCity,city,London
+orders.csv,Order,10947,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,10948,shipCountry,country,41101
+orders.csv,Order,10948,shipRegion,region,Sevilla
+orders.csv,Order,10948,shipCity,city,33
+orders.csv,Order,10949,shipCountry,country,Canada
+orders.csv,Order,10949,shipRegion,region,BC
+orders.csv,Order,10949,shipCity,city,Tsawassen
+orders.csv,Order,10949,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10950,shipCountry,country,Italy
+orders.csv,Order,10950,shipCity,city,Bergamo
+orders.csv,Order,10950,shipPostalCode,postal_code,24100
+orders.csv,Order,10951,shipCountry,country,Switzerland
+orders.csv,Order,10951,shipCity,city,Genève
+orders.csv,Order,10951,shipPostalCode,postal_code,1204
+orders.csv,Order,10952,shipCountry,country,Germany
+orders.csv,Order,10952,shipCity,city,Berlin
+orders.csv,Order,10952,shipPostalCode,postal_code,12209
+orders.csv,Order,10953,shipCountry,country,UK
+orders.csv,Order,10953,shipRegion,region,Essex
+orders.csv,Order,10953,shipCity,city,Colchester
+orders.csv,Order,10953,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,10954,shipCountry,country,Venezuela
+orders.csv,Order,10954,shipRegion,region,Nueva Esparta
+orders.csv,Order,10954,shipCity,city,I. de Margarita
+orders.csv,Order,10954,shipPostalCode,postal_code,4980
+orders.csv,Order,10955,shipCountry,country,Sweden
+orders.csv,Order,10955,shipCity,city,Bräcke
+orders.csv,Order,10955,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10956,shipCountry,country,Germany
+orders.csv,Order,10956,shipCity,city,Mannheim
+orders.csv,Order,10956,shipPostalCode,postal_code,68306
+orders.csv,Order,10957,shipCountry,country,Venezuela
+orders.csv,Order,10957,shipRegion,region,Táchira
+orders.csv,Order,10957,shipCity,city,San Cristóbal
+orders.csv,Order,10957,shipPostalCode,postal_code,5022
+orders.csv,Order,10958,shipCountry,country,Argentina
+orders.csv,Order,10958,shipCity,city,Buenos Aires
+orders.csv,Order,10958,shipPostalCode,postal_code,1010
+orders.csv,Order,10959,shipCountry,country,04876-786
+orders.csv,Order,10959,shipRegion,region,Campinas
+orders.csv,Order,10959,shipCity,city,442
+orders.csv,Order,10959,shipPostalCode,postal_code,SP
+orders.csv,Order,10960,shipCountry,country,Venezuela
+orders.csv,Order,10960,shipRegion,region,Táchira
+orders.csv,Order,10960,shipCity,city,San Cristóbal
+orders.csv,Order,10960,shipPostalCode,postal_code,5022
+orders.csv,Order,10961,shipCountry,country,05487-020
+orders.csv,Order,10961,shipRegion,region,Sao Paulo
+orders.csv,Order,10961,shipCity,city,891
+orders.csv,Order,10961,shipPostalCode,postal_code,SP
+orders.csv,Order,10962,shipCountry,country,Germany
+orders.csv,Order,10962,shipCity,city,Cunewalde
+orders.csv,Order,10962,shipPostalCode,postal_code,01307
+orders.csv,Order,10963,shipCountry,country,Portugal
+orders.csv,Order,10963,shipCity,city,Lisboa
+orders.csv,Order,10963,shipPostalCode,postal_code,1675
+orders.csv,Order,10964,shipCountry,country,75016
+orders.csv,Order,10964,shipRegion,region,Paris
+orders.csv,Order,10964,shipCity,city,rue Lauriston
+orders.csv,Order,10965,shipCountry,country,USA
+orders.csv,Order,10965,shipRegion,region,AK
+orders.csv,Order,10965,shipCity,city,Anchorage
+orders.csv,Order,10965,shipPostalCode,postal_code,99508
+orders.csv,Order,10966,shipCountry,country,Switzerland
+orders.csv,Order,10966,shipCity,city,Bern
+orders.csv,Order,10966,shipPostalCode,postal_code,3012
+orders.csv,Order,10967,shipCountry,country,Germany
+orders.csv,Order,10967,shipCity,city,Münster
+orders.csv,Order,10967,shipPostalCode,postal_code,44087
+orders.csv,Order,10968,shipCountry,country,Austria
+orders.csv,Order,10968,shipCity,city,Graz
+orders.csv,Order,10968,shipPostalCode,postal_code,8010
+orders.csv,Order,10969,shipCountry,country,05432-043
+orders.csv,Order,10969,shipRegion,region,Sao Paulo
+orders.csv,Order,10969,shipCity,city,23
+orders.csv,Order,10969,shipPostalCode,postal_code,SP
+orders.csv,Order,10970,shipCountry,country,28023
+orders.csv,Order,10970,shipRegion,region,Madrid
+orders.csv,Order,10970,shipCity,city,67
+orders.csv,Order,10971,shipCountry,country,44000
+orders.csv,Order,10971,shipRegion,region,Nantes
+orders.csv,Order,10971,shipCity,city,rue Royale
+orders.csv,Order,10972,shipCountry,country,78000
+orders.csv,Order,10972,shipRegion,region,Versailles
+orders.csv,Order,10972,shipCity,city,avenue de l'Europe
+orders.csv,Order,10973,shipCountry,country,78000
+orders.csv,Order,10973,shipRegion,region,Versailles
+orders.csv,Order,10973,shipCity,city,avenue de l'Europe
+orders.csv,Order,10974,shipCountry,country,USA
+orders.csv,Order,10974,shipRegion,region,WY
+orders.csv,Order,10974,shipCity,city,Lander
+orders.csv,Order,10974,shipPostalCode,postal_code,82520
+orders.csv,Order,10975,shipCountry,country,Canada
+orders.csv,Order,10975,shipRegion,region,BC
+orders.csv,Order,10975,shipCity,city,Tsawassen
+orders.csv,Order,10975,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10976,shipCountry,country,Venezuela
+orders.csv,Order,10976,shipRegion,region,Táchira
+orders.csv,Order,10976,shipCity,city,San Cristóbal
+orders.csv,Order,10976,shipPostalCode,postal_code,5022
+orders.csv,Order,10977,shipCountry,country,Sweden
+orders.csv,Order,10977,shipCity,city,Bräcke
+orders.csv,Order,10977,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10978,shipCountry,country,Belgium
+orders.csv,Order,10978,shipCity,city,Bruxelles
+orders.csv,Order,10978,shipPostalCode,postal_code,B-1180
+orders.csv,Order,10979,shipCountry,country,Austria
+orders.csv,Order,10979,shipCity,city,Graz
+orders.csv,Order,10979,shipPostalCode,postal_code,8010
+orders.csv,Order,10980,shipCountry,country,Sweden
+orders.csv,Order,10980,shipCity,city,Bräcke
+orders.csv,Order,10980,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10981,shipCountry,country,05454-876
+orders.csv,Order,10981,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10981,shipCity,city,67
+orders.csv,Order,10981,shipPostalCode,postal_code,RJ
+orders.csv,Order,10982,shipCountry,country,Canada
+orders.csv,Order,10982,shipRegion,region,BC
+orders.csv,Order,10982,shipCity,city,Tsawassen
+orders.csv,Order,10982,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,10983,shipCountry,country,USA
+orders.csv,Order,10983,shipRegion,region,ID
+orders.csv,Order,10983,shipCity,city,Boise
+orders.csv,Order,10983,shipPostalCode,postal_code,83720
+orders.csv,Order,10984,shipCountry,country,USA
+orders.csv,Order,10984,shipRegion,region,ID
+orders.csv,Order,10984,shipCity,city,Boise
+orders.csv,Order,10984,shipPostalCode,postal_code,83720
+orders.csv,Order,10985,shipCountry,country,Ireland
+orders.csv,Order,10985,shipRegion,region,Co. Cork
+orders.csv,Order,10985,shipCity,city,Cork
+orders.csv,Order,10986,shipCountry,country,Argentina
+orders.csv,Order,10986,shipCity,city,Buenos Aires
+orders.csv,Order,10986,shipPostalCode,postal_code,1010
+orders.csv,Order,10987,shipCountry,country,UK
+orders.csv,Order,10987,shipCity,city,London
+orders.csv,Order,10987,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,10988,shipCountry,country,USA
+orders.csv,Order,10988,shipRegion,region,NM
+orders.csv,Order,10988,shipCity,city,Albuquerque
+orders.csv,Order,10988,shipPostalCode,postal_code,87110
+orders.csv,Order,10989,shipCountry,country,02389-673
+orders.csv,Order,10989,shipRegion,region,Rio de Janeiro
+orders.csv,Order,10989,shipCity,city,12
+orders.csv,Order,10989,shipPostalCode,postal_code,RJ
+orders.csv,Order,10990,shipCountry,country,Austria
+orders.csv,Order,10990,shipCity,city,Graz
+orders.csv,Order,10990,shipPostalCode,postal_code,8010
+orders.csv,Order,10991,shipCountry,country,Germany
+orders.csv,Order,10991,shipCity,city,Cunewalde
+orders.csv,Order,10991,shipPostalCode,postal_code,01307
+orders.csv,Order,10992,shipCountry,country,USA
+orders.csv,Order,10992,shipRegion,region,OR
+orders.csv,Order,10992,shipCity,city,Portland
+orders.csv,Order,10992,shipPostalCode,postal_code,97201
+orders.csv,Order,10993,shipCountry,country,Sweden
+orders.csv,Order,10993,shipCity,city,Bräcke
+orders.csv,Order,10993,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,10994,shipCountry,country,Denmark
+orders.csv,Order,10994,shipCity,city,Århus
+orders.csv,Order,10994,shipPostalCode,postal_code,8200
+orders.csv,Order,10995,shipCountry,country,Mexico
+orders.csv,Order,10995,shipCity,city,México D.F.
+orders.csv,Order,10995,shipPostalCode,postal_code,05033
+orders.csv,Order,10996,shipCountry,country,Germany
+orders.csv,Order,10996,shipCity,city,Cunewalde
+orders.csv,Order,10996,shipPostalCode,postal_code,01307
+orders.csv,Order,10997,shipCountry,country,Venezuela
+orders.csv,Order,10997,shipRegion,region,Lara
+orders.csv,Order,10997,shipCity,city,Barquisimeto
+orders.csv,Order,10997,shipPostalCode,postal_code,3508
+orders.csv,Order,10998,shipCountry,country,Poland
+orders.csv,Order,10998,shipCity,city,Warszawa
+orders.csv,Order,10998,shipPostalCode,postal_code,01-012
+orders.csv,Order,10999,shipCountry,country,Germany
+orders.csv,Order,10999,shipCity,city,Köln
+orders.csv,Order,10999,shipPostalCode,postal_code,50739
+orders.csv,Order,11000,shipCountry,country,USA
+orders.csv,Order,11000,shipRegion,region,NM
+orders.csv,Order,11000,shipCity,city,Albuquerque
+orders.csv,Order,11000,shipPostalCode,postal_code,87110
+orders.csv,Order,11001,shipCountry,country,Sweden
+orders.csv,Order,11001,shipCity,city,Bräcke
+orders.csv,Order,11001,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,11002,shipCountry,country,USA
+orders.csv,Order,11002,shipRegion,region,ID
+orders.csv,Order,11002,shipCity,city,Boise
+orders.csv,Order,11002,shipPostalCode,postal_code,83720
+orders.csv,Order,11003,shipCountry,country,USA
+orders.csv,Order,11003,shipRegion,region,MT
+orders.csv,Order,11003,shipCity,city,Butte
+orders.csv,Order,11003,shipPostalCode,postal_code,59801
+orders.csv,Order,11004,shipCountry,country,Belgium
+orders.csv,Order,11004,shipCity,city,Bruxelles
+orders.csv,Order,11004,shipPostalCode,postal_code,B-1180
+orders.csv,Order,11005,shipCountry,country,Finland
+orders.csv,Order,11005,shipCity,city,Helsinki
+orders.csv,Order,11005,shipPostalCode,postal_code,21240
+orders.csv,Order,11006,shipCountry,country,USA
+orders.csv,Order,11006,shipRegion,region,OR
+orders.csv,Order,11006,shipCity,city,Eugene
+orders.csv,Order,11006,shipPostalCode,postal_code,97403
+orders.csv,Order,11007,shipCountry,country,Portugal
+orders.csv,Order,11007,shipCity,city,Lisboa
+orders.csv,Order,11007,shipPostalCode,postal_code,1756
+orders.csv,Order,11008,shipCountry,country,Austria
+orders.csv,Order,11008,shipCity,city,Graz
+orders.csv,Order,11008,shipPostalCode,postal_code,8010
+orders.csv,Order,11009,shipCountry,country,41101
+orders.csv,Order,11009,shipRegion,region,Sevilla
+orders.csv,Order,11009,shipCity,city,33
+orders.csv,Order,11010,shipCountry,country,Italy
+orders.csv,Order,11010,shipCity,city,Reggio Emilia
+orders.csv,Order,11010,shipPostalCode,postal_code,42100
+orders.csv,Order,11011,shipCountry,country,Germany
+orders.csv,Order,11011,shipCity,city,Berlin
+orders.csv,Order,11011,shipPostalCode,postal_code,12209
+orders.csv,Order,11012,shipCountry,country,Germany
+orders.csv,Order,11012,shipCity,city,München
+orders.csv,Order,11012,shipPostalCode,postal_code,80805
+orders.csv,Order,11013,shipCountry,country,28001
+orders.csv,Order,11013,shipRegion,region,Madrid
+orders.csv,Order,11013,shipCity,city,1
+orders.csv,Order,11014,shipCountry,country,Venezuela
+orders.csv,Order,11014,shipRegion,region,Nueva Esparta
+orders.csv,Order,11014,shipCity,city,I. de Margarita
+orders.csv,Order,11014,shipPostalCode,postal_code,4980
+orders.csv,Order,11015,shipCountry,country,Norway
+orders.csv,Order,11015,shipCity,city,Stavern
+orders.csv,Order,11015,shipPostalCode,postal_code,4110
+orders.csv,Order,11016,shipCountry,country,UK
+orders.csv,Order,11016,shipRegion,region,Essex
+orders.csv,Order,11016,shipCity,city,Colchester
+orders.csv,Order,11016,shipPostalCode,postal_code,CO7 6JX
+orders.csv,Order,11017,shipCountry,country,Austria
+orders.csv,Order,11017,shipCity,city,Graz
+orders.csv,Order,11017,shipPostalCode,postal_code,8010
+orders.csv,Order,11018,shipCountry,country,USA
+orders.csv,Order,11018,shipRegion,region,OR
+orders.csv,Order,11018,shipCity,city,Portland
+orders.csv,Order,11018,shipPostalCode,postal_code,97219
+orders.csv,Order,11019,shipCountry,country,Argentina
+orders.csv,Order,11019,shipCity,city,Buenos Aires
+orders.csv,Order,11019,shipPostalCode,postal_code,1010
+orders.csv,Order,11020,shipCountry,country,Germany
+orders.csv,Order,11020,shipCity,city,Köln
+orders.csv,Order,11020,shipPostalCode,postal_code,50739
+orders.csv,Order,11021,shipCountry,country,Germany
+orders.csv,Order,11021,shipCity,city,Cunewalde
+orders.csv,Order,11021,shipPostalCode,postal_code,01307
+orders.csv,Order,11022,shipCountry,country,05454-876
+orders.csv,Order,11022,shipRegion,region,Rio de Janeiro
+orders.csv,Order,11022,shipCity,city,67
+orders.csv,Order,11022,shipPostalCode,postal_code,RJ
+orders.csv,Order,11023,shipCountry,country,UK
+orders.csv,Order,11023,shipCity,city,London
+orders.csv,Order,11023,shipPostalCode,postal_code,EC2 5NT
+orders.csv,Order,11024,shipCountry,country,UK
+orders.csv,Order,11024,shipCity,city,London
+orders.csv,Order,11024,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,11025,shipCountry,country,Finland
+orders.csv,Order,11025,shipCity,city,Oulu
+orders.csv,Order,11025,shipPostalCode,postal_code,90110
+orders.csv,Order,11026,shipCountry,country,Italy
+orders.csv,Order,11026,shipCity,city,Torino
+orders.csv,Order,11026,shipPostalCode,postal_code,10100
+orders.csv,Order,11027,shipCountry,country,Canada
+orders.csv,Order,11027,shipRegion,region,BC
+orders.csv,Order,11027,shipCity,city,Tsawassen
+orders.csv,Order,11027,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,11028,shipCountry,country,Germany
+orders.csv,Order,11028,shipCity,city,Brandenburg
+orders.csv,Order,11028,shipPostalCode,postal_code,14776
+orders.csv,Order,11029,shipCountry,country,Switzerland
+orders.csv,Order,11029,shipCity,city,Bern
+orders.csv,Order,11029,shipPostalCode,postal_code,3012
+orders.csv,Order,11030,shipCountry,country,USA
+orders.csv,Order,11030,shipRegion,region,ID
+orders.csv,Order,11030,shipCity,city,Boise
+orders.csv,Order,11030,shipPostalCode,postal_code,83720
+orders.csv,Order,11031,shipCountry,country,USA
+orders.csv,Order,11031,shipRegion,region,ID
+orders.csv,Order,11031,shipCity,city,Boise
+orders.csv,Order,11031,shipPostalCode,postal_code,83720
+orders.csv,Order,11032,shipCountry,country,USA
+orders.csv,Order,11032,shipRegion,region,WA
+orders.csv,Order,11032,shipCity,city,Seattle
+orders.csv,Order,11032,shipPostalCode,postal_code,98124
+orders.csv,Order,11033,shipCountry,country,Switzerland
+orders.csv,Order,11033,shipCity,city,Genève
+orders.csv,Order,11033,shipPostalCode,postal_code,1204
+orders.csv,Order,11034,shipCountry,country,USA
+orders.csv,Order,11034,shipRegion,region,AK
+orders.csv,Order,11034,shipCity,city,Anchorage
+orders.csv,Order,11034,shipPostalCode,postal_code,99508
+orders.csv,Order,11035,shipCountry,country,B-6000
+orders.csv,Order,11035,shipRegion,region,Charleroi
+orders.csv,Order,11035,shipCity,city,255
+orders.csv,Order,11036,shipCountry,country,Germany
+orders.csv,Order,11036,shipCity,city,Aachen
+orders.csv,Order,11036,shipPostalCode,postal_code,52066
+orders.csv,Order,11037,shipCountry,country,41101
+orders.csv,Order,11037,shipRegion,region,Sevilla
+orders.csv,Order,11037,shipCity,city,33
+orders.csv,Order,11038,shipCountry,country,B-6000
+orders.csv,Order,11038,shipRegion,region,Charleroi
+orders.csv,Order,11038,shipCity,city,255
+orders.csv,Order,11039,shipCountry,country,Venezuela
+orders.csv,Order,11039,shipRegion,region,Nueva Esparta
+orders.csv,Order,11039,shipCity,city,I. de Margarita
+orders.csv,Order,11039,shipPostalCode,postal_code,4980
+orders.csv,Order,11040,shipCountry,country,USA
+orders.csv,Order,11040,shipRegion,region,OR
+orders.csv,Order,11040,shipCity,city,Eugene
+orders.csv,Order,11040,shipPostalCode,postal_code,97403
+orders.csv,Order,11041,shipCountry,country,Switzerland
+orders.csv,Order,11041,shipCity,city,Bern
+orders.csv,Order,11041,shipPostalCode,postal_code,3012
+orders.csv,Order,11042,shipCountry,country,05432-043
+orders.csv,Order,11042,shipRegion,region,Sao Paulo
+orders.csv,Order,11042,shipCity,city,23
+orders.csv,Order,11042,shipPostalCode,postal_code,SP
+orders.csv,Order,11043,shipCountry,country,75016
+orders.csv,Order,11043,shipRegion,region,Paris
+orders.csv,Order,11043,shipCity,city,rue Lauriston
+orders.csv,Order,11044,shipCountry,country,Poland
+orders.csv,Order,11044,shipCity,city,Warszawa
+orders.csv,Order,11044,shipPostalCode,postal_code,01-012
+orders.csv,Order,11045,shipCountry,country,Canada
+orders.csv,Order,11045,shipRegion,region,BC
+orders.csv,Order,11045,shipCity,city,Tsawassen
+orders.csv,Order,11045,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,11046,shipCountry,country,Germany
+orders.csv,Order,11046,shipCity,city,Stuttgart
+orders.csv,Order,11046,shipPostalCode,postal_code,70563
+orders.csv,Order,11047,shipCountry,country,UK
+orders.csv,Order,11047,shipCity,city,London
+orders.csv,Order,11047,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,11048,shipCountry,country,Canada
+orders.csv,Order,11048,shipRegion,region,BC
+orders.csv,Order,11048,shipCity,city,Tsawassen
+orders.csv,Order,11048,shipPostalCode,postal_code,T2F 8M4
+orders.csv,Order,11049,shipCountry,country,04876-786
+orders.csv,Order,11049,shipRegion,region,Campinas
+orders.csv,Order,11049,shipCity,city,442
+orders.csv,Order,11049,shipPostalCode,postal_code,SP
+orders.csv,Order,11050,shipCountry,country,Sweden
+orders.csv,Order,11050,shipCity,city,Bräcke
+orders.csv,Order,11050,shipPostalCode,postal_code,S-844 67
+orders.csv,Order,11051,shipCountry,country,France
+orders.csv,Order,11051,shipCity,city,Toulouse
+orders.csv,Order,11051,shipPostalCode,postal_code,31000
+orders.csv,Order,11052,shipCountry,country,05454-876
+orders.csv,Order,11052,shipRegion,region,Rio de Janeiro
+orders.csv,Order,11052,shipCity,city,67
+orders.csv,Order,11052,shipPostalCode,postal_code,RJ
+orders.csv,Order,11053,shipCountry,country,Austria
+orders.csv,Order,11053,shipCity,city,Salzburg
+orders.csv,Order,11053,shipPostalCode,postal_code,5020
+orders.csv,Order,11054,shipCountry,country,Argentina
+orders.csv,Order,11054,shipCity,city,Buenos Aires
+orders.csv,Order,11054,shipPostalCode,postal_code,1010
+orders.csv,Order,11055,shipCountry,country,Venezuela
+orders.csv,Order,11055,shipRegion,region,Táchira
+orders.csv,Order,11055,shipCity,city,San Cristóbal
+orders.csv,Order,11055,shipPostalCode,postal_code,5022
+orders.csv,Order,11056,shipCountry,country,UK
+orders.csv,Order,11056,shipCity,city,London
+orders.csv,Order,11056,shipPostalCode,postal_code,WX3 6FW
+orders.csv,Order,11057,shipCountry,country,UK
+orders.csv,Order,11057,shipCity,city,London
+orders.csv,Order,11057,shipPostalCode,postal_code,SW7 1RZ
+orders.csv,Order,11058,shipCountry,country,Germany
+orders.csv,Order,11058,shipCity,city,Mannheim
+orders.csv,Order,11058,shipPostalCode,postal_code,68306
+orders.csv,Order,11059,shipCountry,country,02389-890
+orders.csv,Order,11059,shipRegion,region,Rio de Janeiro
+orders.csv,Order,11059,shipCity,city,267
+orders.csv,Order,11059,shipPostalCode,postal_code,RJ
+orders.csv,Order,11060,shipCountry,country,Italy
+orders.csv,Order,11060,shipCity,city,Torino
+orders.csv,Order,11060,shipPostalCode,postal_code,10100
+orders.csv,Order,11061,shipCountry,country,USA
+orders.csv,Order,11061,shipRegion,region,OR
+orders.csv,Order,11061,shipCity,city,Eugene
+orders.csv,Order,11061,shipPostalCode,postal_code,97403
+orders.csv,Order,11062,shipCountry,country,Italy
+orders.csv,Order,11062,shipCity,city,Reggio Emilia
+orders.csv,Order,11062,shipPostalCode,postal_code,42100
+orders.csv,Order,11063,shipCountry,country,Ireland
+orders.csv,Order,11063,shipRegion,region,Co. Cork
+orders.csv,Order,11063,shipCity,city,Cork
+orders.csv,Order,11064,shipCountry,country,USA
+orders.csv,Order,11064,shipRegion,region,ID
+orders.csv,Order,11064,shipCity,city,Boise
+orders.csv,Order,11064,shipPostalCode,postal_code,83720
+orders.csv,Order,11065,shipCountry,country,Venezuela
+orders.csv,Order,11065,shipRegion,region,Lara
+orders.csv,Order,11065,shipCity,city,Barquisimeto
+orders.csv,Order,11065,shipPostalCode,postal_code,3508
+orders.csv,Order,11066,shipCountry,country,USA
+orders.csv,Order,11066,shipRegion,region,WA
+orders.csv,Order,11066,shipCity,city,Seattle
+orders.csv,Order,11066,shipPostalCode,postal_code,98124
+orders.csv,Order,11067,shipCountry,country,Germany
+orders.csv,Order,11067,shipCity,city,Aachen
+orders.csv,Order,11067,shipPostalCode,postal_code,52066
+orders.csv,Order,11068,shipCountry,country,05487-020
+orders.csv,Order,11068,shipRegion,region,Sao Paulo
+orders.csv,Order,11068,shipCity,city,891
+orders.csv,Order,11068,shipPostalCode,postal_code,SP
+orders.csv,Order,11069,shipCountry,country,Mexico
+orders.csv,Order,11069,shipCity,city,México D.F.
+orders.csv,Order,11069,shipPostalCode,postal_code,05033
+orders.csv,Order,11070,shipCountry,country,Germany
+orders.csv,Order,11070,shipCity,city,Frankfurt a.M.
+orders.csv,Order,11070,shipPostalCode,postal_code,60528
+orders.csv,Order,11071,shipCountry,country,Venezuela
+orders.csv,Order,11071,shipRegion,region,Lara
+orders.csv,Order,11071,shipCity,city,Barquisimeto
+orders.csv,Order,11071,shipPostalCode,postal_code,3508
+orders.csv,Order,11072,shipCountry,country,Austria
+orders.csv,Order,11072,shipCity,city,Graz
+orders.csv,Order,11072,shipPostalCode,postal_code,8010
+orders.csv,Order,11073,shipCountry,country,Mexico
+orders.csv,Order,11073,shipCity,city,México D.F.
+orders.csv,Order,11073,shipPostalCode,postal_code,05033
+orders.csv,Order,11074,shipCountry,country,Denmark
+orders.csv,Order,11074,shipCity,city,Kobenhavn
+orders.csv,Order,11074,shipPostalCode,postal_code,1734
+orders.csv,Order,11075,shipCountry,country,Switzerland
+orders.csv,Order,11075,shipCity,city,Genève
+orders.csv,Order,11075,shipPostalCode,postal_code,1204
+orders.csv,Order,11076,shipCountry,country,13008
+orders.csv,Order,11076,shipRegion,region,Marseille
+orders.csv,Order,11076,shipCity,city,rue des Bouchers
+orders.csv,Order,11077,shipCountry,country,USA
+orders.csv,Order,11077,shipRegion,region,NM
+orders.csv,Order,11077,shipCity,city,Albuquerque
+orders.csv,Order,11077,shipPostalCode,postal_code,87110

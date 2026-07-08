@@ -1,0 +1,342 @@
+metadata_value_id,metadata_category,metadata_value
+NW_MV_1,city,1
+NW_MV_2,city,12
+NW_MV_3,city,153
+NW_MV_4,city,170 Prince Edward Parade Hunter's Hill
+NW_MV_5,city,23
+NW_MV_6,city,255
+NW_MV_7,city,267
+NW_MV_8,city,29 King's Way
+NW_MV_9,city,33
+NW_MV_10,city,414
+NW_MV_11,city,442
+NW_MV_12,city,67
+NW_MV_13,city,74 Rose St. Moonie Ponds
+NW_MV_14,city,75
+NW_MV_15,city,891
+NW_MV_16,city,92
+NW_MV_17,city,Aachen
+NW_MV_18,city,Albuquerque
+NW_MV_19,city,Anchorage
+NW_MV_20,city,Ann Arbor
+NW_MV_21,city,Barcelona
+NW_MV_22,city,Barquisimeto
+NW_MV_23,city,Bend
+NW_MV_24,city,Bergamo
+NW_MV_25,city,Berlin
+NW_MV_26,city,Bern
+NW_MV_27,city,Boise
+NW_MV_28,city,Boston
+NW_MV_29,city,Brandenburg
+NW_MV_30,city,Bruxelles
+NW_MV_31,city,Bräcke
+NW_MV_32,city,Buenos Aires
+NW_MV_33,city,Butte
+NW_MV_34,city,Campinas
+NW_MV_35,city,Caracas
+NW_MV_36,city,Charleroi
+NW_MV_37,city,Colchester
+NW_MV_38,city,Cork
+NW_MV_39,city,Cowes
+NW_MV_40,city,Cunewalde
+NW_MV_41,city,Cuxhaven
+NW_MV_42,city,Elgin
+NW_MV_43,city,Eugene
+NW_MV_44,city,Frankfurt
+NW_MV_45,city,Frankfurt a.M.
+NW_MV_46,city,Genève
+NW_MV_47,city,Graz
+NW_MV_48,city,Göteborg
+NW_MV_49,city,Helsinki
+NW_MV_50,city,I. de Margarita
+NW_MV_51,city,Kirkland
+NW_MV_52,city,Kobenhavn
+NW_MV_53,city,Köln
+NW_MV_54,city,Lander
+NW_MV_55,city,Lappeenranta
+NW_MV_56,city,Leipzig
+NW_MV_57,city,Lille
+NW_MV_58,city,Lisboa
+NW_MV_59,city,London
+NW_MV_60,city,Luleå
+NW_MV_61,city,Lyngby
+NW_MV_62,city,Lyon
+NW_MV_63,city,Madrid
+NW_MV_64,city,Mannheim
+NW_MV_65,city,Marseille
+NW_MV_66,city,Montréal
+NW_MV_67,city,México D.F.
+NW_MV_68,city,München
+NW_MV_69,city,Münster
+NW_MV_70,city,Nantes
+NW_MV_71,city,New Orleans
+NW_MV_72,city,Osaka
+NW_MV_73,city,Oulu
+NW_MV_74,city,Oviedo
+NW_MV_75,city,Paris
+NW_MV_76,city,Portland
+NW_MV_77,city,Redmond
+NW_MV_78,city,Reggio Emilia
+NW_MV_79,city,Reims
+NW_MV_80,city,Resende
+NW_MV_81,city,Rio de Janeiro
+NW_MV_82,city,Rue des Francs-Bourgeois
+NW_MV_83,city,Salzburg
+NW_MV_84,city,San Cristóbal
+NW_MV_85,city,San Francisco
+NW_MV_86,city,Sandvika
+NW_MV_87,city,Sao Paulo
+NW_MV_88,city,Seattle
+NW_MV_89,city,Sevilla
+NW_MV_90,city,Stavern
+NW_MV_91,city,Ste-Hyacinthe
+NW_MV_92,city,Stockholm
+NW_MV_93,city,Strasbourg
+NW_MV_94,city,Stuttgart
+NW_MV_95,city,Suite #402
+NW_MV_96,city,Tacoma
+NW_MV_97,city,Tokyo
+NW_MV_98,city,Torino
+NW_MV_99,city,Toulouse
+NW_MV_100,city,Tsawassen
+NW_MV_101,city,Vancouver
+NW_MV_102,city,Versailles
+NW_MV_103,city,Walla Walla
+NW_MV_104,city,Warszawa
+NW_MV_105,city,Zaandam
+NW_MV_106,city,avenue de l'Europe
+NW_MV_107,city,chaussée de Tournai
+NW_MV_108,city,place Kléber
+NW_MV_109,city,rue H. Voiron
+NW_MV_110,city,rue Lauriston
+NW_MV_111,city,rue Royale
+NW_MV_112,city,rue des Alpes
+NW_MV_113,city,rue des Bouchers
+NW_MV_114,city,rue des Cinquante Otages
+NW_MV_115,city,rue du Commerce
+NW_MV_116,city,Århus
+NW_MV_117,country,02389-673
+NW_MV_118,country,02389-890
+NW_MV_119,country,04876-786
+NW_MV_120,country,0512
+NW_MV_121,country,05432-043
+NW_MV_122,country,05442-030
+NW_MV_123,country,05454-876
+NW_MV_124,country,05487-020
+NW_MV_125,country,05634-030
+NW_MV_126,country,08737-363
+NW_MV_127,country,13008
+NW_MV_128,country,2042
+NW_MV_129,country,28001
+NW_MV_130,country,28023
+NW_MV_131,country,3058
+NW_MV_132,country,41101
+NW_MV_133,country,44000
+NW_MV_134,country,48100
+NW_MV_135,country,59000
+NW_MV_136,country,67000
+NW_MV_137,country,69004
+NW_MV_138,country,71300
+NW_MV_139,country,74000
+NW_MV_140,country,75004
+NW_MV_141,country,75016
+NW_MV_142,country,78000
+NW_MV_143,country,8022
+NW_MV_144,country,84100
+NW_MV_145,country,Argentina
+NW_MV_146,country,Austria
+NW_MV_147,country,B-6000
+NW_MV_148,country,Belgium
+NW_MV_149,country,Brazil
+NW_MV_150,country,Canada
+NW_MV_151,country,Denmark
+NW_MV_152,country,Finland
+NW_MV_153,country,France
+NW_MV_154,country,Germany
+NW_MV_155,country,Ireland
+NW_MV_156,country,Italy
+NW_MV_157,country,Japan
+NW_MV_158,country,M14 GSD
+NW_MV_159,country,Mexico
+NW_MV_160,country,Netherlands
+NW_MV_161,country,Norway
+NW_MV_162,country,Poland
+NW_MV_163,country,Portugal
+NW_MV_164,country,Spain
+NW_MV_165,country,Sweden
+NW_MV_166,country,Switzerland
+NW_MV_167,country,UK
+NW_MV_168,country,USA
+NW_MV_169,country,Venezuela
+NW_MV_170,postal_code,01-012
+NW_MV_171,postal_code,01307
+NW_MV_172,postal_code,02134
+NW_MV_173,postal_code,02389-673
+NW_MV_174,postal_code,02389-890
+NW_MV_175,postal_code,04179
+NW_MV_176,postal_code,04876-786
+NW_MV_177,postal_code,05021
+NW_MV_178,postal_code,05022
+NW_MV_179,postal_code,05023
+NW_MV_180,postal_code,05033
+NW_MV_181,postal_code,05432-043
+NW_MV_182,postal_code,05442-030
+NW_MV_183,postal_code,05454-876
+NW_MV_184,postal_code,05487-020
+NW_MV_185,postal_code,05634-030
+NW_MV_186,postal_code,08737-363
+NW_MV_187,postal_code,100
+NW_MV_188,postal_code,1010
+NW_MV_189,postal_code,10100
+NW_MV_190,postal_code,10785
+NW_MV_191,postal_code,1081
+NW_MV_192,postal_code,1203
+NW_MV_193,postal_code,1204
+NW_MV_194,postal_code,12209
+NW_MV_195,postal_code,13008
+NW_MV_196,postal_code,1307
+NW_MV_197,postal_code,1320
+NW_MV_198,postal_code,14776
+NW_MV_199,postal_code,1675
+NW_MV_200,postal_code,1734
+NW_MV_201,postal_code,1756
+NW_MV_202,postal_code,21240
+NW_MV_203,postal_code,24100
+NW_MV_204,postal_code,27478
+NW_MV_205,postal_code,2800
+NW_MV_206,postal_code,28001
+NW_MV_207,postal_code,28023
+NW_MV_208,postal_code,28034
+NW_MV_209,postal_code,3012
+NW_MV_210,postal_code,31000
+NW_MV_211,postal_code,33007
+NW_MV_212,postal_code,3508
+NW_MV_213,postal_code,4110
+NW_MV_214,postal_code,41101
+NW_MV_215,postal_code,4179
+NW_MV_216,postal_code,42100
+NW_MV_217,postal_code,44000
+NW_MV_218,postal_code,44087
+NW_MV_219,postal_code,48104
+NW_MV_220,postal_code,4980
+NW_MV_221,postal_code,5020
+NW_MV_222,postal_code,5021
+NW_MV_223,postal_code,5022
+NW_MV_224,postal_code,5023
+NW_MV_225,postal_code,5033
+NW_MV_226,postal_code,50739
+NW_MV_227,postal_code,51100
+NW_MV_228,postal_code,52066
+NW_MV_229,postal_code,53120
+NW_MV_230,postal_code,5442
+NW_MV_231,postal_code,545
+NW_MV_232,postal_code,59000
+NW_MV_233,postal_code,59801
+NW_MV_234,postal_code,60439
+NW_MV_235,postal_code,60528
+NW_MV_236,postal_code,67000
+NW_MV_237,postal_code,68306
+NW_MV_238,postal_code,69004
+NW_MV_239,postal_code,70117
+NW_MV_240,postal_code,70563
+NW_MV_241,postal_code,75012
+NW_MV_242,postal_code,75016
+NW_MV_243,postal_code,78000
+NW_MV_244,postal_code,8010
+NW_MV_245,postal_code,8022
+NW_MV_246,postal_code,80805
+NW_MV_247,postal_code,8200
+NW_MV_248,postal_code,82520
+NW_MV_249,postal_code,83720
+NW_MV_250,postal_code,87110
+NW_MV_251,postal_code,90110
+NW_MV_252,postal_code,94117
+NW_MV_253,postal_code,97101
+NW_MV_254,postal_code,97201
+NW_MV_255,postal_code,97219
+NW_MV_256,postal_code,97403
+NW_MV_257,postal_code,97827
+NW_MV_258,postal_code,98033
+NW_MV_259,postal_code,98034
+NW_MV_260,postal_code,98052
+NW_MV_261,postal_code,98105
+NW_MV_262,postal_code,98122
+NW_MV_263,postal_code,98124
+NW_MV_264,postal_code,98128
+NW_MV_265,postal_code,98401
+NW_MV_266,postal_code,99362
+NW_MV_267,postal_code,99508
+NW_MV_268,postal_code,9999 ZZ
+NW_MV_269,postal_code,B-1180
+NW_MV_270,postal_code,B-6000
+NW_MV_271,postal_code,CO7 6JX
+NW_MV_272,postal_code,EC1 4SD
+NW_MV_273,postal_code,EC2 5NT
+NW_MV_274,postal_code,EC2 7JR
+NW_MV_275,postal_code,H1J 1C3
+NW_MV_276,postal_code,J2S 7S8
+NW_MV_277,postal_code,NSW
+NW_MV_278,postal_code,OX15 4NB
+NW_MV_279,postal_code,PO31 7PJ
+NW_MV_280,postal_code,RG1 9SP
+NW_MV_281,postal_code,RJ
+NW_MV_282,postal_code,S-123 45
+NW_MV_283,postal_code,S-345 67
+NW_MV_284,postal_code,S-844 67
+NW_MV_285,postal_code,S-958 22
+NW_MV_286,postal_code,SP
+NW_MV_287,postal_code,SW1 8JR
+NW_MV_288,postal_code,SW7 1RZ
+NW_MV_289,postal_code,T2F 8M4
+NW_MV_290,postal_code,V3F 2K1
+NW_MV_291,postal_code,Victoria
+NW_MV_292,postal_code,WA1 1DP
+NW_MV_293,postal_code,WG2 7LT
+NW_MV_294,postal_code,WX1 6LT
+NW_MV_295,postal_code,WX3 6FW
+NW_MV_296,region,AK
+NW_MV_297,region,Annecy
+NW_MV_298,region,Asturias
+NW_MV_299,region,BC
+NW_MV_300,region,Barcelona
+NW_MV_301,region,CA
+NW_MV_302,region,Campinas
+NW_MV_303,region,Charleroi
+NW_MV_304,region,Co. Cork
+NW_MV_305,region,DF
+NW_MV_306,region,Essex
+NW_MV_307,region,ID
+NW_MV_308,region,Isle of Wight
+NW_MV_309,region,LA
+NW_MV_310,region,Lara
+NW_MV_311,region,Lille
+NW_MV_312,region,Lyon
+NW_MV_313,region,MA
+NW_MV_314,region,MI
+NW_MV_315,region,MT
+NW_MV_316,region,Madrid
+NW_MV_317,region,Manchester
+NW_MV_318,region,Marseille
+NW_MV_319,region,Melbourne
+NW_MV_320,region,Montceau
+NW_MV_321,region,NM
+NW_MV_322,region,Nantes
+NW_MV_323,region,Nueva Esparta
+NW_MV_324,region,OR
+NW_MV_325,region,Paris
+NW_MV_326,region,Québec
+NW_MV_327,region,RJ
+NW_MV_328,region,Ravenna
+NW_MV_329,region,Resende
+NW_MV_330,region,Rio de Janeiro
+NW_MV_331,region,SP
+NW_MV_332,region,Salerno
+NW_MV_333,region,Sao Paulo
+NW_MV_334,region,Sevilla
+NW_MV_335,region,Singapore
+NW_MV_336,region,Strasbourg
+NW_MV_337,region,Sydney
+NW_MV_338,region,Táchira
+NW_MV_339,region,Versailles
+NW_MV_340,region,WA
+NW_MV_341,region,WY
