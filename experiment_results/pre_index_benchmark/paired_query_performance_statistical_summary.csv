@@ -1,0 +1,6 @@
+query,runs,result_count,inline_mean_ms,5gnf_mean_ms,inline_median_ms,5gnf_median_ms,inline_median_ci95_lower_ms,inline_median_ci95_upper_ms,5gnf_median_ci95_lower_ms,5gnf_median_ci95_upper_ms,median_speedup_inline_over_5gnf,wilcoxon_statistic,p_value,alpha,rank_biserial_effect_size,interpretation
+language_en,30,98110,121.12955,70.51836,110.2475,64.8064,102.20145,118.9468,62.1275,72.16705,1.701182,1.0,3.7e-09,0.05,0.995699,5GNF faster; large effect
+is_oa_true,30,70079,99.49167,52.36807,93.04115,48.9883,85.90625,100.0574,47.50575,52.2823,1.899252,0.0,1.9e-09,0.05,1.0,5GNF faster; large effect
+work_type_article,30,93792,99.156413,62.900827,88.9916,59.7584,85.29635,90.16085,58.05985,65.4945,1.48919,0.0,1.9e-09,0.05,1.0,5GNF faster; large effect
+oa_status_gold,30,26269,79.18143,25.269937,73.51955,23.50805,70.3652,75.7839,22.5932,24.19885,3.12742,0.0,1.9e-09,0.05,1.0,5GNF faster; large effect
+license_cc_by,30,34379,101.14897,28.335067,96.2382,27.29955,92.0484,100.6297,26.9149,28.29315,3.525267,0.0,1.9e-09,0.05,1.0,5GNF faster; large effect
