@@ -1,0 +1,2 @@
+benchmark,runs,inline_mean_ms,structured_mean_ms,inline_median_ms,structured_median_ms,inline_median_ci95_lower_ms,inline_median_ci95_upper_ms,structured_median_ci95_lower_ms,structured_median_ci95_upper_ms,median_ratio_inline_over_structured,wilcoxon_statistic,p_value,alpha,rank_biserial_effect_size,inline_nodes_affected_per_run,structured_nodes_affected_per_run,interpretation
+canonical_definition_update,30,4459.21815,21.105797,905.6874,19.36685,879.5862,983.5937,18.24575,22.6493,46.764828,0.0,1.9e-09,0.05,1.0,34379,1,Structured faster; large effect

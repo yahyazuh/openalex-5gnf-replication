@@ -1,0 +1,2 @@
+query,runs,result_count,inline_mean_ms,5gnf_mean_ms,inline_median_ms,5gnf_median_ms,inline_median_ci95_lower_ms,inline_median_ci95_upper_ms,5gnf_median_ci95_lower_ms,5gnf_median_ci95_upper_ms,median_speedup_inline_over_5gnf,wilcoxon_statistic,p_value,alpha,rank_biserial_effect_size,interpretation
+license_code_authority,30,34379,29.013377,38.388717,27.46805,36.3584,25.3161,29.7678,33.40235,39.81035,0.75548,11.0,1.024e-07,0.05,-0.952688,Inline faster; large effect
