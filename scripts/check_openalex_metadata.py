@@ -1,7 +1,8 @@
 import json
 from collections import Counter
 
-input_file = "openalex_works_partial_20k.jsonl"
+import sys
+input_file = sys.argv[1] if len(sys.argv) > 1 else "openalex_works_partial_20k.jsonl"
 
 stats = Counter()
 languages = Counter()

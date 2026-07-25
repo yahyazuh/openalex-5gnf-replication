@@ -1,0 +1,6 @@
+query,result_count,inline_median_ms,5gnf_median_ms,median_speedup_inline_over_5gnf,p_value,rank_biserial_effect_size,interpretation
+language_en,98110,48.96135,80.0099,0.611941,5.1446e-06,-0.862366,Inline faster; large effect
+is_oa_true,70079,25.367,46.8756,0.541156,1.4193e-06,-0.896774,Inline faster; large effect
+work_type_article,93792,29.0571,57.66925,0.503858,1.9e-09,-1.0,Inline faster; large effect
+oa_status_gold,26269,14.47975,23.9194,0.605356,1.9e-09,-1.0,Inline faster; large effect
+license_cc_by,34379,15.59255,27.63085,0.564317,1.9e-09,-1.0,Inline faster; large effect
