@@ -1,0 +1,6 @@
+category,inline_property,inline_assignments,normalized_assignments,reconstructed_assignments,missing_assignments,extra_or_mismatched_assignments,duplicate_assignments,reconstruction_ratio,verification_passed
+language,inline_language,98697,98697,98697,0,0,0,1.000000,True
+is_oa,inline_is_oa,98783,98783,98783,0,0,0,1.000000,True
+work_type,inline_work_type,98783,98783,98783,0,0,0,1.000000,True
+oa_status,inline_oa_status,98783,98783,98783,0,0,0,1.000000,True
+license,inline_license,47491,47491,47491,0,0,0,1.000000,True
