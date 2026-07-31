@@ -21,3 +21,11 @@ FOR (m:MetadataValue) ON (m.category, m.value);
 
 CREATE INDEX work_id IF NOT EXISTS
 FOR (w:Work) ON (w.id);
+
+CREATE INDEX work_inline_license_authority IF NOT EXISTS
+FOR (w:Work)
+ON (w.inline_license, w.inline_license_authority);
+
+CREATE INDEX license_trait_code_authority IF NOT EXISTS
+FOR (l:LicenseTrait)
+ON (l.licenseCode, l.licenseAuthority);
