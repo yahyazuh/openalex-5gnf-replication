@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 __pycache__/
 *.pyc
 .venv/
@@ -20,3 +20,5 @@ Thumbs.db
 
 # Local result archives
 *.zip
+archived_results/
+
