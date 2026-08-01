@@ -225,3 +225,9 @@ The strongest supported findings are:
 * explicit reusable metadata structures;
 * reduced update effort for shared canonical definitions;
 * a clear trade-off between normalization and simple indexed reads.
+
+## Canonical update timing note
+
+The canonical-definition update benchmark retained all 30 paired observations, including four unusually long inline executions.
+The full timing note and affected runs are documented in experiment_results/structured_license/UPDATE_OUTLIERS.md.
+The median and nonparametric paired statistics are the principal timing results, while the affected-element count is the more implementation-independent measure.
