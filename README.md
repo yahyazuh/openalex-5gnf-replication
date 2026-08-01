@@ -283,3 +283,9 @@ The strongest supported empirical findings are:
 * explicit representation of reusable metadata structures;
 * reduced logical update effort for shared canonical definitions;
 * a measurable trade-off between normalization benefits and simple indexed read performance.
+
+## Update benchmark timing note
+
+The canonical-definition update benchmark retained all 30 paired observations, including four unusually long inline executions.
+The affected runs and timing values are documented in experiment_results/structured_license/UPDATE_OUTLIERS.md.
+Median-based and nonparametric statistics are used as the principal timing evidence, while the affected-element count is the more implementation-independent result.
