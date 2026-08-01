@@ -6,23 +6,24 @@ This repository contains replication materials for the IEEE Access paper:
 
 ## Important Note
 
-The repository does not include the full `openalex_works_100k.jsonl` file used in the paper experiment because of file size and repository practicality.
+The repository does not include the complete `openalex_works_100k.jsonl` file used in the main experiment because of its size.
 
-Instead, it includes:
+Instead, the repository provides:
 
 * scripts for regenerating the OpenAlex dataset;
 * a 1,000-record OpenAlex sample for inspection and testing;
-* Cypher files for Neo4j constraints, indexes, and benchmark queries;
-* raw paired timing measurements;
-* statistical query-performance summaries;
-* scripts for constructing and evaluating the 5GNF and inline-property representations;
+* Cypher files for Neo4j constraints, indexes, data loading, and benchmark queries;
+* raw paired query-performance measurements;
+* statistical summaries;
+* scripts for constructing and evaluating the inline and 5GNF representations;
+* structured-license experiment materials;
 * supplementary Northwind structural-validation materials.
 
-The repository supports reproduction and inspection of the experiment, but it is not a complete dump of the full OpenAlex dataset.
+The repository supports reproduction and inspection of the experimental procedure, but it is not a complete copy of the original OpenAlex dataset.
 
 ## Purpose
 
-The materials support reproduction of the OpenAlex-based evaluation of Fifth Graph Normal Form (5GNF) for property graph schemas.
+The repository supports the OpenAlex-based evaluation of Fifth Graph Normal Form (5GNF) for property graph schemas.
 
 The main experiment evaluates:
 
@@ -32,38 +33,76 @@ The main experiment evaluates:
 * logical update effort;
 * indexed metadata-filtering query behavior.
 
-The 5GNF representation uses reusable `MetadataValue` nodes connected to `Work` nodes through `HAS_METADATA_VALUE` relationships.
+In the evaluated 5GNF representation, reusable metadata values are represented as `MetadataValue` nodes connected to `Work` nodes through `HAS_METADATA_VALUE` relationships.
 
-The repository also includes a smaller Northwind structural validation. This supplementary experiment evaluates metadata externalization and lossless reconstruction on a transactional-style graph. It is not used for query-performance benchmarking.
+The repository also includes a supplementary Northwind structural validation. This experiment evaluates metadata externalization and lossless reconstruction on a transactional-style graph. It is not used for query-performance benchmarking.
+
+## Authoritative Experimental Results
+
+The primary query-performance results are the indexed, randomized, paired benchmark results stored in:
+
+```text
+experiment_results/paired_query_performance_raw_runs.csv
+```
+
+and:
+
+```text
+experiment_results/paired_query_performance_statistical_summary.csv
+```
+
+The corresponding paper-ready table is stored in:
+
+```text
+paper_tables/table_7_final_indexed_results.csv
+```
+
+These files are the authoritative results for the manuscript and supersede all preliminary and pre-index benchmark outputs.
+
+Historical and preliminary results are retained only in clearly labelled archival or supplementary folders. They are not used as evidence in the submitted manuscript.
 
 ## OpenAlex Dataset
 
-The full OpenAlex experiment used:
+The complete OpenAlex experiment used:
 
 * source file: `openalex_works_100k.jsonl`;
 * raw OpenAlex records: 100,000;
-* unique `Work` nodes: 98,783;
-* collapsed duplicate work rows: 1,217;
-* total nodes: 139,930;
-* total relationships: 2,095,128;
+* unique `Work` nodes after duplicate identifiers were collapsed: 98,783;
+* collapsed duplicate rows: 1,217;
+* total graph nodes: 139,930;
+* total graph relationships: 2,095,128;
 * metadata assignments: 442,537;
-* reusable `MetadataValue` nodes: 57.
+* canonical `MetadataValue` nodes: 57.
 
-The full JSONL file is not included. A smaller sample is provided in:
+The complete JSONL file is not included in the repository. A smaller inspection sample is provided in:
 
 ```text
 data_sample/openalex_works_sample_1k.jsonl
 ```
 
-The full source file can be regenerated with:
+The OpenAlex dataset can be regenerated with:
 
 ```bash
 python scripts/download_openalex_100k.py
 ```
 
+Because OpenAlex is a changing external data source, a newly downloaded file may not be byte-for-byte identical to the original experimental dataset unless the same snapshot, retrieval procedure, identifiers, and date are used.
+
+## Metadata Reuse
+
+The main experiment contains 442,537 metadata assignments represented through 57 canonical metadata values.
+
+This corresponds to an assignment-to-canonical-value reuse ratio of:
+
+```text
+7,763.81:1
+```
+
+This value measures logical metadata reuse. It must not be interpreted as a physical database-storage compression ratio.
+
 ## Paired Query-Performance Benchmark
 
-The final query-performance experiment is executed with:
+The final indexed query-performance experiment is executed with:
 
 ```bash
 python scripts/run_paired_query_performance.py
@@ -76,7 +115,8 @@ For each of the five metadata-filtering predicates, the script:
 * uses 15 inline-first and 15 5GNF-first execution blocks;
 * randomizes the balanced execution-block sequence;
 * verifies equivalent result counts;
-* reports medians and bootstrap 95% confidence intervals;
+* reports median execution times;
+* reports bootstrap 95% confidence intervals;
 * applies a two-sided Wilcoxon signed-rank test;
 * uses a significance level of `alpha = 0.05`;
 * reports paired rank-biserial correlation as the effect size;
@@ -102,9 +142,69 @@ The statistical summary is stored in:
 experiment_results/paired_query_performance_statistical_summary.csv
 ```
 
+The indexed inline-property representation was faster for all five evaluated atomic equality predicates.
+
+These results show that 5GNF is not a general query-performance optimization for simple indexed property filtering. Its primary benefits concern metadata reuse, explicit representation of reusable structures, lossless reconstruction, and centralized maintenance of shared metadata definitions.
+
+## Supplementary Pre-Index Benchmark
+
+Pre-index results are retained in:
+
+```text
+experiment_results/supplementary_pre_index_benchmark/
+```
+
+These results were collected before equivalent inline-property indexes were created.
+
+They are included only to document the effect of index configuration and must not be treated as the primary performance results.
+
+The indexed paired benchmark is the definitive comparison used in the manuscript.
+
+## Lossless Reconstruction
+
+Lossless reconstruction is evaluated by comparing the metadata assignments represented in the inline graph with the assignments reconstructed from the 5GNF graph.
+
+The main OpenAlex experiment reports:
+
+* inline assignments: 442,537;
+* reconstructed assignments: 442,537;
+* missing assignments: 0;
+* mismatched assignments: 0;
+* duplicate reconstructed assignments: 0;
+* reconstruction ratio: 1.00.
+
+These results verify lossless reconstruction for the measured metadata scope.
+
+## Structured-License Experiment
+
+The repository includes a structured-license experiment based on the trait dependency:
+
+```text
+licenseCode -> licenseAuthority
+```
+
+The experiment evaluates:
+
+* canonical representation of license traits;
+* reconstruction of structured license information;
+* indexed conjunctive read behavior;
+* canonical-definition update behavior;
+* individual-assignment correction behavior.
+
+The canonical-definition update benchmark evaluates a change to shared information associated with a canonical license trait.
+
+It does not represent a correction to the license assigned to one individual work.
+
+This distinction is important:
+
+* changing a shared canonical definition may require many repeated inline updates but only one normalized update;
+* correcting one individual work assignment requires one local modification in either representation.
+
 ## Supplementary Northwind Structural Validation
 
-The Northwind validation is not used for query-performance benchmarking. Its purpose is to evaluate whether reusable metadata can be externalized into canonical metadata-value structures and reconstructed without loss.
+The Northwind experiment is not used for query-performance benchmarking.
+
+Its purpose is to evaluate whether reusable metadata can be externalized into canonical metadata-value structures and reconstructed without loss.
 
 Input files are stored in:
 
@@ -124,6 +224,8 @@ Recorded results are stored in:
 northwind_results/
 ```
 
+The Northwind validation should be interpreted as supplementary structural evidence rather than as a second complete performance experiment.
+
 ## Installation
 
 Install the Python dependencies with:
@@ -132,11 +234,13 @@ Install the Python dependencies with:
 pip install -r requirements.txt
 ```
 
-The required packages are:
+The required packages include:
 
 * `neo4j`;
 * `pandas`;
 * `scipy`.
+
+For exact reproducibility, the package versions recorded in `requirements.txt` should match the versions used to generate the final results.
 
 ## Reproducibility Instructions
 
@@ -146,8 +250,36 @@ Detailed setup, loading, execution, output, and interpretation instructions are 
 REPRODUCIBILITY.md
 ```
 
+The experimental environment, including Neo4j, Java, Python, operating-system, hardware, memory, and database configuration details, should be recorded in:
+
+```text
+ENVIRONMENT.md
+```
+
 ## Interpretation Limits
 
-The timing results are specific to the evaluated OpenAlex dataset, Neo4j environment, indexes, hardware, predicates, and paired execution protocol.
+The experimental results are specific to:
 
-They do not establish that 5GNF is universally faster than inline-property representations. The strongest supported empirical results remain metadata reuse, lossless reconstruction, and logical update-effort reduction.
+* the evaluated OpenAlex dataset;
+* the selected metadata scope;
+* the Neo4j implementation;
+* the evaluated indexes;
+* the execution environment;
+* the tested predicates;
+* the measured graph size;
+* the paired execution protocol.
+
+The results do not establish that 5GNF:
+
+* is universally faster than inline-property representations;
+* reduces physical database storage by the metadata reuse ratio;
+* improves every read or update workload;
+* is optimal for every graph database system.
+
+The strongest supported empirical findings are:
+
+* high logical reuse of canonical metadata values;
+* exact reconstruction for the evaluated metadata scope;
+* explicit representation of reusable metadata structures;
+* reduced logical update effort for shared canonical definitions;
+* a measurable trade-off between normalization benefits and simple indexed read performance.
