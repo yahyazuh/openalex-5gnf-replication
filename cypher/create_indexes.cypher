@@ -16,11 +16,8 @@ FOR (w:Work) ON (w.inline_oa_status);
 CREATE INDEX work_inline_license IF NOT EXISTS
 FOR (w:Work) ON (w.inline_license);
 
-CREATE INDEX metadata_value_category_value IF NOT EXISTS
+CREATE INDEX metadata_category_value IF NOT EXISTS
 FOR (m:MetadataValue) ON (m.category, m.value);
-
-CREATE INDEX work_id IF NOT EXISTS
-FOR (w:Work) ON (w.id);
 
 CREATE INDEX work_inline_license_authority IF NOT EXISTS
 FOR (w:Work)
