@@ -11,8 +11,11 @@ The repository does not include the complete `openalex_works_100k.jsonl` file us
 Instead, the repository provides:
 
 * scripts for regenerating the OpenAlex dataset;
+* the SHA-256 checksum and retrieval configuration of the exact dataset;
+* the 100,000 OpenAlex identifiers in original record order;
 * a 1,000-record OpenAlex sample for inspection and testing;
-* Cypher files for Neo4j constraints, indexes, data loading, and benchmark queries;
+* an idempotent CSV-to-Neo4j import script;
+* Cypher files for Neo4j constraints, indexes, and benchmark queries;
 * raw paired query-performance measurements;
 * statistical summaries;
 * scripts for constructing and evaluating the inline and 5GNF representations;
@@ -79,6 +82,17 @@ The complete JSONL file is not included in the repository. A smaller inspection 
 ```text
 data_sample/openalex_works_sample_1k.jsonl
 ```
+
+The exact file checksum, retrieval configuration, and ordered record identifiers are preserved in:
+
+```text
+dataset_manifest/openalex_works_100k_sha256.txt
+dataset_manifest/openalex_works_100k_metadata.json
+dataset_manifest/openalex_work_ids_100k.txt.gz
+```
+
+The original file had SHA-256 checksum
+`6f194b77c7a7fe37e4402aeafff49a0061f68044f48a47f50e0646b32ea504e1`.
 
 The OpenAlex dataset can be regenerated with:
 
@@ -237,8 +251,11 @@ pip install -r requirements.txt
 The required packages include:
 
 * `neo4j`;
+* `numpy`;
 * `pandas`;
-* `scipy`.
+* `requests`;
+* `scipy`;
+* `tqdm`.
 
 For exact reproducibility, the package versions recorded in `requirements.txt` should match the versions used to generate the final results.
 

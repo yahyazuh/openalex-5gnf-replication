@@ -10,8 +10,11 @@ The reported experiment used:
 * Docker image `neo4j:5.21`;
 * Python 3.12.0;
 * Neo4j Python driver 5.28.2;
+* NumPy 2.2.4;
 * pandas 2.3.2;
-* SciPy 1.15.2.
+* Requests 2.34.2;
+* SciPy 1.15.2;
+* tqdm 4.70.0.
 
 Full environment details are provided in:
 
@@ -43,11 +46,22 @@ openalex_works_100k.jsonl
 
 It contained 100,000 raw OpenAlex work records.
 
+The exact experimental file is identified by SHA-256 checksum:
+
+```text
+6f194b77c7a7fe37e4402aeafff49a0061f68044f48a47f50e0646b32ea504e1
+```
+
 The complete file is not included in the repository. A 1,000-record sample is available at:
 
 ```text
 data_sample/openalex_works_sample_1k.jsonl
 ```
+
+The checksum, retrieval configuration, and ordered identifiers are stored in
+`dataset_manifest/`. Exact numerical reproduction requires a JSONL file that
+matches the recorded checksum; re-fetching the identifiers may return updated
+OpenAlex metadata.
 
 A new dataset can be downloaded with:
 
@@ -79,10 +93,21 @@ The original conversion produced:
 
 ## 4. Neo4j Setup
 
-Create the required constraints and indexes using:
+Start Neo4j 5.21 and configure `NEO4J_URI`, `NEO4J_USER`, and
+`NEO4J_PASSWORD`. Import the seven generated CSV files with:
+
+```bash
+python scripts/import_openalex_to_neo4j.py --csv-dir neo4j_csv
+```
+
+The importer creates the identifier constraints and the metadata lookup index,
+uses bounded batches, and can be rerun without duplicating nodes or
+relationships. Alternatively, the schema definitions can be applied directly
+from:
 
 ```text
 cypher/01_constraints.cypher
+cypher/create_indexes.cypher
 ```
 
 Create the inline-property baseline with:
@@ -90,6 +115,9 @@ Create the inline-property baseline with:
 ```bash
 python scripts/run_inline_baseline_setup.py
 ```
+
+Apply `cypher/create_indexes.cypher` before collecting benchmark timings, then
+wait until every required index reports `ONLINE`.
 
 Before benchmarking:
 

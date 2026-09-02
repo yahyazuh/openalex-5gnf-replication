@@ -8,8 +8,11 @@ from neo4j import GraphDatabase
 os.makedirs("baseline_inline_results", exist_ok=True)
 
 driver = GraphDatabase.driver(
-    "bolt://localhost:7687",
-    auth=("neo4j", "neo4jPass123")
+    os.getenv("NEO4J_URI", "bolt://localhost:7687"),
+    auth=(
+        os.getenv("NEO4J_USER", "neo4j"),
+        os.getenv("NEO4J_PASSWORD", "neo4jPass123"),
+    ),
 )
 
 queries = {
