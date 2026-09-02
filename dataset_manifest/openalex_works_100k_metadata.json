@@ -1,0 +1,12 @@
+{
+    "dataset_name":  "OpenAlex works",
+    "filename":  "openalex_works_100k.jsonl",
+    "record_count":  100000,
+    "file_size_bytes":  592978139,
+    "sha256":  "6f194b77c7a7fe37e4402aeafff49a0061f68044f48a47f50e0646b32ea504e1",
+    "file_last_modified_local":  "2026-07-05 11:34",
+    "source_endpoint":  "https://api.openalex.org/works",
+    "filter":  "from_publication_date:2020-01-01,to_publication_date:2025-12-31,has_doi:true",
+    "search":  "graph database knowledge graph information systems",
+    "pagination":  "cursor pagination, 200 records per page"
+}
