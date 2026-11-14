@@ -56,13 +56,17 @@
 
 
 
-\* Initial heap size: not explicitly recorded
+\* Initial JVM heap size: 108 MiB (effective JVM setting)
 
-\* Maximum heap size: not explicitly recorded
+\* Maximum JVM heap size: 1,714 MiB (effective JVM setting)
 
-\* Page cache size: not explicitly recorded
+\* Page cache size: 512 MiB (explicitly configured)
 
-\* Database size on disk: not explicitly recorded
+
+* Original mixed-representation database size: 542,648 KiB (529.93 MiB).
+
+
+
 
 \* Query runtime: Neo4j default runtime
 
@@ -71,6 +75,37 @@
 \* Database instance: the same Neo4j container and database were used for both representations
 
 \* Cache condition: one warm-up execution was discarded before the measured executions
+
+## Physical Storage Comparison
+
+A supplementary storage experiment was conducted using two
+isolated Neo4j 5.21.2 Community Edition databases, reconstructed
+from the same OpenAlex graph.
+
+Both databases contained 98,783 Work nodes, 32,245 Concept nodes,
+8,845 Source nodes, and identical non-metadata relationships.
+
+* Inline-only: 139,873 nodes and 1,652,591 relationships.
+* 5GNF-only: 139,930 nodes and 2,095,128 relationships.
+* Inline-only database storage: 255,252 KiB (249.27 MiB).
+* 5GNF-only database storage: 271,620 KiB (265.25 MiB).
+* Absolute storage overhead: 16,368 KiB (15.98 MiB).
+* Relative storage overhead: 6.41%.
+
+Both representations used identical shared-node constraints and
+Neo4j default lookup indexes. The inline representation used five
+metadata-property indexes, while 5GNF used a composite
+MetadataValue(category, value) index and a metadata_id uniqueness
+constraint. All indexes were ONLINE.
+
+Measurements were obtained using `du -sk` on the Neo4j database
+directories after a graceful shutdown of both containers.
+
+The comparison measures database-directory storage, including
+representation-specific indexes. It excludes separate transaction
+logs and does not isolate the cost of metadata relationships alone.
+
+The structured-license experiment was excluded from both databases.
 
 
 
